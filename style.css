@@ -1,0 +1,336 @@
+.row {
+    transform-style: preserve-3d;
+    height: fit-content;
+}
+
+body {
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+    background-color: rgb(0, 0, 0, 0);
+}
+
+.container {
+    filter: brightness(70%);
+    z-index: -1;
+}
+
+.logomid-holder {
+    background: url("img/index/glitch/Forza_Horizon_logo_old.svg.png");
+    background-size: contain;
+    background-repeat: no-repeat;
+    height: 25vh;
+    width: 650px;
+    margin-top: -70vh;
+    margin-left: 25vw;
+    margin-right: 25vw;
+    animation: drop 1.5s linear forwards, glitch 10s infinite steps(1);
+
+}
+
+@keyframes drop {
+    0% {
+        transform: translateY(-200px) scaleY(0.9);
+        opacity: 0;
+    }
+
+    5% {
+        opacity: .7;
+    }
+
+    60% {
+        transform: translateY(0px) scaleY(1); 
+        opacity: 1;
+    }
+
+    70% {
+        transform: translateY(-17px) scaleY(.9); 
+        opacity: 1;
+    }
+
+    80% {
+        transform: translateY(-22px) scaleY(.9);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(0px) scaleY(1); 
+        opacity: 1;
+    }
+
+}
+
+@keyframes glitch {
+    0%, 100% {
+        background: url(img/index/glitch/Forza_Horizon_logo_old.svg.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+    }
+
+    92.5% {
+        background: url(img/index/glitch/glitch-image-1677354651.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        opacity: 1;
+    }
+
+    95% {
+        background: url(img/index/glitch/glitch-image-1677354653.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        opacity: 0;
+    }
+
+    97.5% {
+        background: url(img/index/glitch/glitch-image-1677354656.png);
+        background-size: contain;
+        background-repeat: no-repeat;
+        opacity: 1;
+    }
+}
+
+@media (max-width: 768px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+        float: right;
+        display: block;
+    }
+
+    .top {
+        margin-top: 90px;
+        padding-top: 0px;
+    }
+
+    img.left {
+        margin-top: 0px;
+    }
+}
+ 
+@media (max-width: 768px) {
+    .topnav.responsive {
+        position: fixed;
+        background-color: black;
+        top: 0;
+        width: 100%;
+    }
+
+    .topnav.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .topnav.responsive a {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+
+    .topnav.responsive img.left{
+        margin-top: -90px;
+    }
+
+    .right {
+        background-color: rgb(0, 0, 0, 1);
+    }
+
+    .container {
+        background-position: 55%;
+    }
+
+    .logomid-holder {
+        height: 25vh;
+        width: 500px;
+        margin-top: -70vh;
+        margin-left: 10vw;
+    }
+}
+
+.redirect {
+    width: fit-content;
+    height: 5vh;
+    background-color: #de2b73;
+    margin-left: 27vw;
+    margin-top: -45vh;
+    border: none;
+    border-radius: 5px;
+    font-weight: bolder;
+    color: #fff;
+    transform: translateZ(10px);
+    overflow: hidden;
+    position: relative;
+    box-shadow:  7px 7px 5px 5px rgba(0,0,0,0.4)
+}
+
+.redirect:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -50%;
+    width: 20%;
+    height: 100%;
+    background: rgba(255, 255, 255, 0.3);
+    transform: skewX(-45deg);
+    transition: 0.6s;
+} 
+  
+.redirect:hover:before {
+    left: 95%;
+    background: rgba(255, 255, 255, 0.2);
+}
+
+.redirect:active {
+    box-shadow: 0px 7px 10px rgba(0,0,0,0.4);
+    top: 1px;
+}
+
+@media (min-width: 768px) and (max-width: 890px) {
+    .logomid-holder {
+        margin-top: -70vh;
+        margin-left: 10vw;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 560px) {
+    .logomid-holder {
+        height: 10vh;
+        width: 80%;
+        margin-top: -70vh;
+        margin-left: 10vw;
+    }
+
+    .redirect {
+        margin-top: -45vh;
+        width: 40%;
+        height: 4vh;
+    }
+    
+    .topnav {
+        width: 100%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 399px) {
+    .logomid-holder {
+        height: 10vh;
+        width: 85%;
+        margin-top: 23vh;
+        margin-left: 10vw;
+    }
+
+    .redirect {
+        margin-top: 3vh;
+        width: 50%;
+        height: 3%;
+        margin-left: 4vh;
+    }
+    
+    .topnav {
+        width: 100%;
+    }
+}
+
+.brushimg {
+    margin-top: -4vh;
+    margin-bottom: -4vh;
+    padding: 0;
+}
+
+.p {
+    background-image: url('img/index/lines-traffic-paved-roads-background.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: #fff;
+    height: fit-content;
+    z-index: -1;
+    margin-top: 0;
+    padding-bottom: 20vh;
+}
+
+.holder {
+    padding: 0;
+    margin: 0;
+    height: fit-content;
+}
+
+.imghold {
+    margin-top: 0%;
+    margin-left: 15%;
+    margin-right: 17%;
+    margin-bottom: 0%;
+    overflow: hidden;
+    border-bottom-right-radius: 10%;
+    border-bottom-left-radius: 1%;
+    background-color: #fff;
+    height: fit-content;
+}
+
+.imgdes {
+    margin-left: 4%;
+    margin-top: 4%;
+    width: 92%;
+    border-radius: 5%;
+}
+
+.des1 {
+    color: #de2b73;
+    margin-left: 7%;
+    margin-right: 7%;
+    margin-top: 4%;
+    font-size: 37px;
+    font-weight: 900;
+}
+
+.des2 {
+    color: #000;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 19px;
+    margin-left: 7%;
+    margin-right: 7%;
+}
+
+.hidediv {
+    opacity: 0;
+    animation: smooth-disappear 1s ease forwards;
+}
+
+.showdiv {
+    opacity:1;
+    animation: smooth-appear 1s ease forwards;
+}
+
+
+
+@keyframes smooth-appear {
+    from {
+        margin-top: 50%;
+    }
+    to{
+      margin-top: 20%;
+      opacity:1;
+    }
+}
+
+@keyframes smooth-disappear {
+    from {
+        margin-top: 20%;
+        opacity: 1;
+    }
+    to{
+      margin-top: 50%;
+    }
+}
+
+#myVideo {
+    height: 98vh !important;
+    padding: 0;
+    margin: auto;
+    position: relative;
+    display: block;
+    object-fit: cover;
+}
+
+@media (max-width: 1250px) {
+    #myVideo {
+        object-position: 65% 50%;
+    }
+}

@@ -1,0 +1,224 @@
+#shadow {
+    width: 100vw;
+    height: 24vh;
+    margin-left: -6px;
+    margin-top: -24vh;
+    transform: translateZ(10px);
+}
+
+footer {
+    box-shadow: 0px 0px 50px 0px rgba(0,0,0,0.4);
+    background-color: #000;
+    padding-bottom: 5%;
+}
+
+.footimg {
+    width: 15vmin;
+    margin-top: 0px;
+    margin-right: 15px;
+    /* margin-left: 35%; */
+}
+
+#footop {
+    width: 45%;
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.footp {
+    color: #fff;
+    font-size: 5vmin;
+    display: inline-block;
+    font-weight: 900;
+    text-shadow: 0.0px 10.0px 0.02px #de2b73, 
+                9.8px 2.1px 0.02px #de2b73,
+                4.2px -9.1px 0.02px #de2b73,
+                -8.0px -6.0px 0.02px #de2b73,
+                -7.6px 6.5px 0.02px #de2b73,
+                4.8px 8.8px 0.02px #de2b73,
+                9.6px -2.8px 0.02px #de2b73,
+                -0.7px -10.0px 0.02px #de2b73,
+                -9.9px -1.5px 0.02px #de2b73,
+                -3.5px 9.4px 0.02px #de2b73,
+                8.4px 5.4px 0.02px #de2b73,
+                7.1px -7.0px 0.02px #de2b73,
+                -5.4px -8.4px 0.02px #de2b73,
+                -9.4px 3.5px 0.02px #de2b73,
+                1.4px 9.9px 0.02px #de2b73,
+                10.0px 0.8px 0.02px #de2b73,
+                2.9px -9.6px 0.02px #de2b73,
+                -8.7px -4.8px 0.02px #de2b73,
+                -6.6px 7.5px 0.02px #de2b73,
+                5.9px 8.0px 0.02px #de2b73,
+                9.1px -4.1px 0.02px #de2b73,
+                -2.1px -9.8px 0.02px #de2b73,
+                -10.0px -0.1px 0.02px #de2b73,
+                -2.2px 9.8px 0.02px #de2b73,
+                9.1px 4.2px 0.02px #de2b73,
+                6.1px -8.0px 0.02px #de2b73,
+                -6.5px -7.6px 0.02px #de2b73,
+                -8.8px 4.7px 0.02px #de2b73, 
+                .7px 9.6px 0.02px #de2b73,
+                10.0px -0.6px 0.02px #de2b73,
+                1.5px -9.9px 0.02px #de2b73,
+                -9.3px -3.6px 0.02px #de2b73,
+                -5.5px 8.4px 0.02px #de2b73,
+                7.0px 7.2px 0.02px #de2b73,
+                8.5px -5.3px 0.02px #de2b73,
+                -3.4px -9.4px 0.02px #de2b73,
+                -9.9px 1.3px 0.02px #de2b73,
+                -0.8px 10.0px 0.02px #de2b73,
+                9.6px 2.9px 0.02px #de2b73,
+                4.9px -8.7px 0.02px #de2b73,
+                -7.5px -6.7px 0.02px #de2b73,
+                -8.1px 5.9px 0.02px #de2b73,
+                .0px 9.2px 0.02px #de2b73,
+                9.8px -2.0px 0.02px #de2b73,
+                0.2px -10.0px 0.02px #de2b73,
+                -9.7px -2.3px 0.02px #de2b73,
+                -4.3px 9.0px 0.02px #de2b73,
+                7.9px 6.1px 0.02px #de2b73;
+}
+
+
+
+.footpage {
+    margin-top: 1.3%;
+    color: #fff;
+    list-style-type: none;
+    display: inline-block;
+    margin-left: 25%;
+    width: 50%;
+    overflow: hidden;
+}
+
+.lifoot {
+    font-size: 30px;
+    float: left;
+    margin-left: 15%;
+}
+
+.afoot {
+    color: #fff;
+    text-decoration: none;
+    display: inline-block;
+    /* padding-bottom: 1.5rem; */
+    position: relative;
+}
+
+.afoot:hover {
+    color: #fff;
+}
+  
+.afoot::before {
+    content: "";
+    position: absolute;
+    bottom: 0;
+    width: 0;
+    height: 2px;
+    background-color: #ec0b87;
+    transition: width 0.25s ease-out;
+}
+
+.afoot:hover::before {
+    width: 100%;
+}
+
+a.afoot:focus {
+    text-decoration: underline;
+    text-decoration-color: #ec0b87;
+    text-decoration-thickness: 2px;
+    text-underline-offset: 16px;
+}
+
+.breaker {
+    height: 1px;
+    width: 50%;
+    margin-left: 25%;
+    background-color: #606060;
+    display: inline-block;
+    transform: translateZ(10px);
+}
+
+.aif {
+    text-decoration: none;
+    margin-left: 2%;
+}
+
+.if {
+    font-size: 28px;
+    text-decoration: none; 
+    color: #fff;
+}
+
+.if:hover {
+    color: #606060;
+}
+
+.icons {
+    margin-top: 1.3%;
+    margin-left: 43%;
+}
+
+@media (max-width: 1950px) {
+    
+
+    .lifoot {
+        font-size: 20px;
+    }
+}
+
+@media (max-width: 1500px) {
+    .footimg {
+        margin-left: 25%;
+    }
+}
+
+@media (max-width: 1400px) {
+    .footimg {
+        margin-left: 20%;
+    }
+}
+
+@media (max-width: 1250px) {
+    .p {
+        height: 400vh;
+    }
+
+    .footimg {
+        margin-left: 17vw;
+    }
+
+    .lifoot {
+        margin-left: 10%;
+    }
+    
+    #lihome {
+        margin-left: 10%;
+    }
+}
+
+@media (max-width: 950px) {
+    .lifoot {
+        margin-left: 9%;
+    }
+    
+    #lihome {
+        margin-left: 8.5%;
+    }
+}
+
+
+@media (max-width: 767px) {
+    .lifoot {
+        margin-left: 7%;
+    }
+    
+    #lihome {
+        margin-left: 3%;
+    }
+
+    .icons {
+        margin-left: 36%;
+    }
+}

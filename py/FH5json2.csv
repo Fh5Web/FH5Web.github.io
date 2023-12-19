@@ -1,0 +1,674 @@
+,Name_and_model,Country,Engine,Engine_placement,Transmission,Weight_ratio,Bhp,Torque,Rarity
+0,2017 Abarth 124 Spider,Italy,1.4L Turbocharged I4,Front-Engined,6-speed Transmission, 54%/46%,165 bhp (123 kW), 184 lb⋅ft (249 N·m),Common
+1,1968 Abarth 595 esseesse,Italy,0.6L Naturally-Aspirated I2,Rear-Engined,4-speed Transmission, 42%/58%,28 bhp (21 kW), 34 lb⋅ft (46 N·m),Common
+2,2016 Abarth 695 Biposto,Italy,1.4L Turbocharged I4,Front-Engined,5-speed Transmission, 64%/36%,186 bhp (139 kW), 183 lb⋅ft (248 N·m),Common
+3,1980 Abarth Fiat 131,Italy,2.0L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 54%/46%,140 bhp (104 kW), 130 lb⋅ft (176 N·m),Common
+4,2001 Acura Integra Type-R,United States of America,1.8L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 62%/38%,195 bhp (145 kW), 130 lb⋅ft (176 N·m),Common
+5,2017 Acura NSX,United States of America,3.5L Twin-Turbocharged Hybrid V6Dual front electric motors & rear electric motor,Mid-Engined,9-speed Transmission, 42%/58%,573 bhp (427 kW), 623 lb⋅ft (845 N·m),Rare
+6,2002 Acura RSX Type-S,United States of America,2.0L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 61%/39%,200 bhp (149 kW), 142 lb⋅ft (193 N·m),Common
+7,1992 Alfa Romeo 155 Q4,Italy,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 61%/39%,187 bhp (139 kW), 219 lb⋅ft (297 N·m),Common
+8,1968 Alfa Romeo 33 Stradale,Italy,2.0L Naturally-Aspirated V8,Mid-Engined,6-speed Transmission, 40%/60%,245 bhp (183 kW), 148 lb⋅ft (201 N·m),Legendary
+9,2014 Alfa Romeo 4C,Italy,1.7L Turbocharged I4,Mid-Engined,6-speed Transmission, 41%/59%,240 bhp (179 kW), 238 lb⋅ft (323 N·m),Rare
+10,2007 Alfa Romeo 8C Competizione,Italy,4.7L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 49%/51%,450 bhp (336 kW), 354 lb⋅ft (480 N·m),Epic
+11,2017 Alfa Romeo Giulia Quadrifoglio,Italy,2.9L Twin-Turbocharged V6,Front-Engined,6-speed Transmission, 50%/50%,506 bhp (377 kW), 443 lb⋅ft (600 N·m),Rare
+12,1965 Alfa Romeo Giulia Sprint GTA Stradale,Italy,1.6L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 54%/46%,115 bhp (86 kW), 105 lb⋅ft (142 N·m),Rare
+13,1965 Alfa Romeo Giulia TZ2,Italy,1.6L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 54%/46%,170 bhp (127 kW), 130 lb⋅ft (176 N·m),Legendary
+14,2017 Alpine A110,France,1.8L Turbocharged I4,Mid-Engined,7-speed Transmission, 44%/56%,248 bhp (185 kW), 236 lb⋅ft (320 N·m),Epic
+15,1973 Alpine A110 1600s,France,1.6L Naturally-Aspirated I4,Rear-Engined,5-speed Transmission, 40%/60%,123 bhp (92 kW), 106 lb⋅ft (144 N·m),Rare
+16,2015 Alumi Craft Class 10 Race Car,United States of America,2.4L Naturally-Aspirated I4,Rear-Engined,6-speed Transmission, 45%/55%,196 bhp (146 kW), 190 lb⋅ft (258 N·m),Epic
+17,1973 AMC Gremlin X,United States of America,5.0L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 54%/46%,150 bhp (112 kW), 245 lb⋅ft (332 N·m),Common
+18,1971 AMC Javelin AMX,United States of America,6.6L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 53%/47%,330 bhp (246 kW), 430 lb⋅ft (583 N·m),Rare
+19,1970 AMC Rebel %22The Machine%22,United States of America,6.4L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 55%/45%,340 bhp (254 kW), 427 lb⋅ft (579 N·m),Rare
+20,2554 AMG TRANSPORT DYNAMICS M12S Warthog CST,United States of America,8.0L Twin-Turbocharged V8,Front-Engined,6-speed Transmission, 54%/46%,720 bhp (537 kW), 855 lb⋅ft (1160 N·m),Legendary
+21,2018 Apollo Intensa Emozione,Germany,6.3L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 45%/55%,780 bhp (582 kW), 560 lb⋅ft (759 N·m),Legendary
+22,2018 Apollo Intensa Emozione,Germany,6.3L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 45%/55%,780 bhp (582 kW), 560 lb⋅ft (759 N·m),Legendary
+23,2013 Ariel Atom 500 V8,United Kingdom,3.0L Naturally-Aspirated V8,Mid-Engined,6-speed Transmission, 36%/64%,475 bhp (354 kW), 268 lb⋅ft (363 N·m),Epic
+24,2016 Ariel Nomad,United Kingdom,2.4L Naturally-Aspirated I4,Rear-Engined,6-speed Transmission, 38%/62%,236 bhp (176 kW), 221 lb⋅ft (300 N·m),Rare
+25,2012 Ascari KZ1R,United Kingdom,5.0L Naturally-Aspirated V8,Mid-Engined,6-speed Transmission, 46%/54%,521 bhp (389 kW), 398 lb⋅ft (540 N·m),Epic
+26,1964 Aston Martin DB5,United Kingdom,4.0L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 51%/49%,325 bhp (242 kW), 288 lb⋅ft (390 N·m),Epic
+27,2017 Aston Martin DB11,United Kingdom,5.2L Twin-Turbocharged V12,Front-Engined,8-speed Transmission, 51%/49%,608 bhp (453 kW), 516 lb⋅ft (700 N·m),Epic
+28,2019 Aston Martin DBS Superleggera,United Kingdom,5.2L Twin-Turbocharged V12,Front-Engined,8-speed Transmission, 51%/49%,715 bhp (533 kW), 663 lb⋅ft (899 N·m),Epic
+29,2021 Aston Martin DBX,United Kingdom,4.0L Twin-Turbocharged V8,Front-Engined,9-speed Transmission, 54%/46%,543 bhp (405 kW), 516 lb⋅ft (700 N·m),Rare
+30,2010 Aston Martin One-77,United Kingdom,7.3L Naturally-Aspirated V12,Front-Engined,6-speed Transmission, 49%/51%,750 bhp (559 kW), 553 lb⋅ft (750 N·m),Legendary
+31,2013 Aston Martin V12 Vantage S,United Kingdom,5.9L Naturally-Aspirated V12,Front-Engined,7-speed Transmission, 52%/48%,565 bhp (421 kW), 457 lb⋅ft (620 N·m),Epic
+32,2019 Aston Martin Valhalla Concept Car,United Kingdom,3.0L Twin-Turbocharged V6,Mid-Engined,8-speed Transmission, 41%/59%,1042 bhp (777 kW), 995 lb⋅ft (1349 N·m),Legendary
+33,2019 Aston Martin Vantage,United Kingdom,4.0L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 50%/50%,503 bhp (375 kW), 505 lb⋅ft (685 N·m),Epic
+34,2016 Aston Martin Vantage GT12,United Kingdom,5.9L Naturally-Aspirated V12,Front-Engined,7-speed Transmission, 51%/49%,593 bhp (442 kW), 461 lb⋅ft (625 N·m),Epic
+35,2017 Aston Martin Vulcan AMR Pro,United Kingdom,7.0L Naturally-Aspirated V12,Front-Engined,6-speed Transmission, 54%/46%,820 bhp (611 kW), 590 lb⋅ft (800 N·m),Legendary
+36,2018 ATS GT,Italy,3.8L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,720 bhp (537 kW), 575 lb⋅ft (780 N·m),Epic
+37,1986 Audi 2 Audi Sport quattro S1,Germany,2.1L Turbocharged I5,Front-Engined,6-speed Transmission, 52%/48%,469 bhp (350 kW), 354 lb⋅ft (480 N·m),Legendary
+38,2013 Audi R8 Coup%C3%A9 V10 plus 5.2 FSI quattro,Germany,5.2L Naturally-Aspirated V10,Mid-Engined,7-speed Transmission, 44%/56%,542 bhp (404 kW), 398 lb⋅ft (540 N·m),Epic
+39,2016 Audi R8 V10 plus,Germany,5.2L Naturally-Aspirated V10,Mid-Engined,7-speed Transmission, 44%/56%,602 bhp (449 kW), 413 lb⋅ft (560 N·m),Epic
+40,1995 Audi RS 2 Avant,Germany,2.2L Turbocharged I5,Front-Engined,6-speed Transmission, 58%/42%,311 bhp (232 kW), 302 lb⋅ft (409 N·m),Common
+41,2020 Audi RS 3 Sedan,Germany,2.5L Turbocharged I5,Front-Engined,7-speed Transmission, 58%/42%,394 bhp (294 kW), 354 lb⋅ft (480 N·m),Rare
+42,2011 Audi RS 3 Sportback,Germany,2.5L Turbocharged I5,Front-Engined,7-speed Transmission, 60%/40%,335 bhp (250 kW), 332 lb⋅ft (450 N·m),Common
+43,2006 Audi RS 4,Germany,4.2L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 58%/42%,420 bhp (313 kW), 317 lb⋅ft (430 N·m),Rare
+44,2001 Audi RS 4 Avant (2001),Germany,2.7L Twin-Turbocharged V6,Front-Engined,6-speed Transmission, 55%/45%,375 bhp (280 kW), 324 lb⋅ft (439 N·m),Common
+45,2013 Audi RS 4 Avant (2013),Germany,4.2L Naturally-Aspirated V8,Front-Engined,7-speed Transmission, 53%/47%,444 bhp (331 kW), 331 lb⋅ft (449 N·m),Rare
+46,2018 Audi RS 4 Avant (2018),Germany,2.9L Twin-Turbocharged v6,Front-Engined,8-speed Transmission, 57%/43%,444 bhp (331 kW), 442 lb⋅ft (599 N·m),Rare
+47,2011 Audi RS 5 Coup%C3%A9,Germany,4.2L Naturally-Aspirated V8,Front-Engined,7-speed Transmission, 57%/43%,442 bhp (330 kW), 317 lb⋅ft (430 N·m),Rare
+48,2018 Audi RS 5 Coup%C3%A9 (2018),Germany,2.9L Twin-Turbocharged v6,Front-Engined,8-speed Transmission, 57%/43%,444 bhp (331 kW), 443 lb⋅ft (601 N·m),Rare
+49,2003 Audi RS 6 (2003),Germany,4.2L Twin-Turbocharged V8,Front-Engined,6-speed Transmission, 59%/41%,450 bhp (336 kW), 415 lb⋅ft (563 N·m),Rare
+50,2009 Audi RS 6 (2009),Germany,5.0L Twin-Turbocharged V10,Front-Engined,6-speed Transmission, 59%/41%,570 bhp (425 kW), 478 lb⋅ft (648 N·m),Epic
+51,2015 Audi RS 6 Avant,Germany,4.0L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 53%/47%,552 bhp (412 kW), 516 lb⋅ft (700 N·m),Rare
+52,2021 Audi RS 6 Avant (2021),Germany,4.0L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 55%/45%,591 bhp (441 kW), 590 lb⋅ft (800 N·m),Rare
+53,2013 Audi RS 7 Sportback,Germany,4.0L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 60%/40%,552 bhp (412 kW), 553 lb⋅ft (750 N·m),Epic
+54,2021 Audi RS 7 Sportback (2021),Germany,4.0L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 56%/44%,591 bhp (441 kW), 590 lb⋅ft (800 N·m),Rare
+55,2021 Audi RS e-tron GT,Germany,2x electric motors,Mid-Engined,2-speed Transmission, 50%/50%,637 bhp (475 kW), 612 lb⋅ft (830 N·m),Epic
+56,2015 Audi S1,Germany,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 60%/40%,228 bhp (170 kW), 273 lb⋅ft (370 N·m),Common
+57,1983 Audi Sport quattro,Germany,2.1L Turbocharged I5,Front-Engined,5-speed Transmission, 55%/45%,306 bhp (228 kW), 258 lb⋅ft (350 N·m),Epic
+58,2018 Audi TT RS,Germany,2.5L Turbocharged I5 (LEV3-ULEV125),Front-Engined,7-speed Transmission, 61%/39%,400 bhp (298 kW), 354 lb⋅ft (480 N·m),Rare
+59,2010 Audi TT RS Coup%C3%A9,Germany,2.5L Turbocharged I5,Front-Engined,6-speed Transmission, 60%/40%,335 bhp (250 kW), 332 lb⋅ft (450 N·m),Rare
+60,2015 Audi TTS Coup%C3%A9,Germany,2.0L Turbocharged I4,Front-Engined,7-speed Transmission, 57%/43%,310 bhp (231 kW), 280 lb⋅ft (380 N·m),Common
+61,1958 Austin-Healey Sprite MkI,United Kingdom,0.9L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 54%/46%,45 bhp (34 kW), 52 lb⋅ft (71 N·m),Common
+62,1939 Auto Union Type D,Germany,3.0L Twin-Screw Supercharged V12,Mid-Engined,5-speed Transmission, 42%/58%,485 bhp (362 kW), 413 lb⋅ft (560 N·m),Legendary
+63,2014 BAC Mono,United Kingdom,2.3L Naturally-Aspirated I4 Duratec,Mid-Engined,6-speed Transmission, 48%/52%,280 bhp (209 kW), 206 lb⋅ft (280 N·m),Epic
+64,1931 Bentley 4-1/2 Liter Supercharged,United Kingdom,4.4L Supercharged I4,Front-Engined,4-speed Transmission, 56%/44%,175 bhp (130 kW), 310 lb⋅ft (420 N·m),Legendary
+65,1931 Bentley 8-Liter,United Kingdom,8.0L Naturally-Aspirated I6,Front-Engined,4-speed Transmission, 59%/41%,220 bhp (164 kW), 383 lb⋅ft (519 N·m),Legendary
+66,2016 Bentley Bentayga,United Kingdom,6.0L Twin-Turbocharged W12,Front-Engined,8-speed Transmission, 57%/43%,599 bhp (447 kW), 663 lb⋅ft (899 N·m),Epic
+67,2017 Bentley Continental Supersports (2017),United Kingdom,6.0L Twin-Turbocharged W12,Front-Engined,8-speed Transmission, 58%/42%,700 bhp (522 kW), 750 lb⋅ft (1017 N·m),Epic
+68,1991 Bentley Turbo R,United Kingdom,6.7L Turbocharged V8,Front-Engined,3-speed Transmission, 51%/49%,328 bhp (245 kW), 487 lb⋅ft (660 N·m),Rare
+69,2011 BMW 1 Series M Coupe,Germany,3.0L Twin-Turbocharged I6,Front-Engined,6-speed Transmission, 52%/48%,335 bhp (250 kW), 332 lb⋅ft (450 N·m),Rare
+70,1973 BMW 2002 Turbo,Germany,2.0L Turbocharged I4,Front-Engined,4-speed Transmission, 54%/46%,168 bhp (125 kW), 181 lb⋅ft (245 N·m),Legendary
+71,2015 BMW i8,Germany,1.5L Turbocharged Hybrid I3,Mid-Engined,6-speed Transmission, 49%/51%,357 bhp (266 kW), 420 lb⋅ft (570 N·m),Rare
+72,1957 BMW Isetta 300 Export,Germany,0.3L Naturally-Aspirated I1,Rear-Engined,4-speed Transmission, 40%/60%,13 bhp (10 kW), 14 lb⋅ft (19 N·m),Common
+73,1981 BMW M1,Germany,3.4L Naturally-Aspirated I6,Mid-Engined,5-speed Transmission, 44%/56%,277 bhp (207 kW), 243 lb⋅ft (329 N·m),Epic
+74,2016 BMW M2 Coup%C3%A9,Germany,3.0L Turbocharged I6,Front-Engined,6-speed Transmission, 51%/49%,365 bhp (272 kW), 369 lb⋅ft (500 N·m),Common
+75,1991 BMW M3 (1991),Germany,2.3L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 51%/49%,214 bhp (160 kW), 180 lb⋅ft (244 N·m),Rare
+76,1997 BMW M3 (1997),Germany,3.2L Naturally-Aspirated I6,Front-Engined,6-speed Transmission, 50%/50%,321 bhp (239 kW), 258 lb⋅ft (350 N·m),Common
+77,2005 BMW M3 (2005),Germany,3.2L Naturally-Aspirated I6,Front-Engined,6-speed Transmission, 50%/50%,333 bhp (248 kW), 262 lb⋅ft (355 N·m),Common
+78,2008 BMW M3 (2008),Germany,4.0L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 52%/48%,414 bhp (309 kW), 295 lb⋅ft (400 N·m),Common
+79,2002 BMW M3-GTR,Germany,4.0L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 50%/50%,380 bhp (283 kW), 288 lb⋅ft (390 N·m),Epic
+80,2010 BMW M3 GTS,Germany,4.4L Naturally-Aspirated V8,Front-Engined,7-speed Transmission, 52%/48%,444 bhp (331 kW), 325 lb⋅ft (441 N·m),Epic
+81,2021 BMW M4 Competition Coup%C3%A9,Germany,3.0L Twin-Turbocharged I6,Front-Engined,8-speed Transmission, 53%/47%,503 bhp (375 kW), 479 lb⋅ft (649 N·m),Rare
+82,2014 BMW M4 Coup%C3%A9,Germany,3.0L Twin-Turbocharged I6,Front-Engined,7-speed Transmission, 52%/48%,431 bhp (321 kW), 405 lb⋅ft (550 N·m),Rare
+83,2016 BMW M4 GTS,Germany,3.0L Twin-Turbocharged I6,Front-Engined,6-speed Transmission, 51%/49%,493 bhp (368 kW), 443 lb⋅ft (600 N·m),Epic
+84,1988 BMW M5 (1988),Germany,3.5L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 52%/48%,282 bhp (210 kW), 251 lb⋅ft (340 N·m),Rare
+85,1995 BMW M5 (1995),Germany,3.8L Naturally-Aspirated I6,Front-Engined,6-speed Transmission, 50%/50%,342 bhp (255 kW), 301 lb⋅ft (408 N·m),Rare
+86,2003 BMW M5 (2003),Germany,5.0L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 53%/47%,394 bhp (294 kW), 368 lb⋅ft (499 N·m),Common
+87,2009 BMW M5 (2009),Germany,5.0L Naturally-Aspirated V10,Front-Engined,7-speed Transmission, 52%/48%,500 bhp (373 kW), 383 lb⋅ft (520 N·m),Common
+88,2012 BMW M5 (2012),Germany,4.4L Twin-Turbocharged V8,Front-Engined,7-speed Transmission, 52%/48%,552 bhp (412 kW), 501 lb⋅ft (679 N·m),Rare
+89,2018 BMW M5 (2018),Germany,4.4L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 55%/45%,599 bhp (447 kW), 553 lb⋅ft (750 N·m),Rare
+90,2013 BMW M6 Coupe (2013),Germany,4.4L Twin-Turbocharged V8,Front-Engined,7-speed Transmission, 53%/47%,560 bhp (418 kW), 500 lb⋅ft (678 N·m),Rare
+91,2020 BMW M8 Competition Coupe,Germany,4.4L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 53%/47%,617 bhp (460 kW), 553 lb⋅ft (750 N·m),Rare
+92,2011 BMW X5 M,Germany,4.4L Twin-Turbocharged V8,Front-Engined,6-speed Transmission, 51%/49%,547 bhp (408 kW), 501 lb⋅ft (679 N·m),Common
+93,2011 BMW X5 M,Germany,4.4L Twin-Turbocharged V8,Front-Engined,6-speed Transmission, 51%/49%,547 bhp (408 kW), 501 lb⋅ft (679 N·m),Common
+94,2015 BMW X6 M (2015),Germany,4.4L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 52%/48%,567 bhp (423 kW), 553 lb⋅ft (750 N·m),Epic
+95,2002 BMW Z3 M Coupe,Germany,3.2L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 50%/50%,315 bhp (235 kW), 251 lb⋅ft (340 N·m),Common
+96,2019 BMW Z4 Roadster,Germany,3.0L Turbocharged I6,Front-Engined,8-speed Transmission, 50%/50%,382 bhp (285 kW), 369 lb⋅ft (500 N·m),Common
+97,2008 BMW Z4 M Coupe,Germany,3.2L Naturally-Aspirated I6,Front-Engined,6-speed Transmission, 50%/50%,343 bhp (256 kW), 269 lb⋅ft (365 N·m),Common
+98,2019 Brabham BT62,Australia,5.4L Naturally-Aspirated V8,Mid-Engined,6-speed Transmission, 41%/59%,700 bhp (522 kW), 492 lb⋅ft (667 N·m),Legendary
+99,2018 Bugatti Chiron,France,8.0L Quad-Turbocharged W16,Mid-Engined,7-speed Transmission, 43%/57%,1479 bhp (1103 kW), 1180 lb⋅ft (1600 N·m),Legendary
+100,2019 Bugatti Divo,France,8.0L Quad-Turbocharged W16,Mid-Engined,7-speed Transmission, 43%/57%,1479 bhp (1103 kW), 1180 lb⋅ft (1600 N·m),Legendary
+101,1992 Bugatti EB110 Super Sport,France,3.5L Quad-Turbocharged V12,Mid-Engined,6-speed Transmission, 40%/60%,611 bhp (456 kW), 480 lb⋅ft (651 N·m),Legendary
+102,1926 Bugatti Type 35 C,France,2.0L Supercharged I8,Front-Engined,4-speed Transmission, 55%/45%,95 bhp (71 kW), 96 lb⋅ft (130 N·m),Legendary
+103,2011 Bugatti Veyron Super Sport,France,8.0L Quad-Turbocharged W16,Mid-Engined,7-speed Transmission, 45%/55%,1183 bhp (882 kW), 1105 lb⋅ft (1499 N·m),Legendary
+104,1970 Buick GSX,United States of America,7.4L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 59%/41%,360 bhp (268 kW), 510 lb⋅ft (691 N·m),Rare
+105,1987 Buick Regal GNX,United States of America,3.8L Turbocharged V6,Front-Engined,4-speed Transmission, 55%/45%,300 bhp (224 kW), 380 lb⋅ft (515 N·m),Rare
+106,2016 Cadillac ATS-V,United States of America,3.6L Twin-Turbocharged V6,Front-Engined,6-speed Transmission, 51%/49%,464 bhp (346 kW), 444 lb⋅ft (602 N·m),Common
+107,2016 Cadillac CTS-V Sedan,United States of America,6.2L Supercharged V8,Front-Engined,8-speed Transmission, 53%/47%,640 bhp (477 kW), 630 lb⋅ft (854 N·m),Common
+108,2013 Cadillac XTS Limousine,United States of America,3.6L Naturally-Aspirated V6,Front-Engined,6-speed Transmission, 60%/40%,304 bhp (227 kW), 264 lb⋅ft (358 N·m),Rare
+109,2018 Can-Am Maverick X RS Turbo R,United States of America,0.9L Turbocharged I3,Mid-Engined,1-speed Transmission, 40%/60%,172 bhp (128 kW), 124 lb⋅ft (168 N·m),Common
+110,2013 Caterham Superlight R500,United Kingdom,2.0L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 47%/53%,263 bhp (196 kW), 177 lb⋅ft (240 N·m),Rare
+111,1955 Chevrolet 150 Utility Sedan,United States of America,4.3L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 55%/45%,180 bhp (134 kW), 260 lb⋅ft (353 N·m),Common
+112,1957 Chevrolet Bel Air,United States of America,4.6L Naturally-Aspirated V8,Front-Engined,2-speed Transmission, 57%/43%,220 bhp (164 kW), 300 lb⋅ft (407 N·m),Rare
+113,1969 Chevrolet Camaro Super Sport Coupe,United States of America,6.5L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 58%/42%,375 bhp (280 kW), 415 lb⋅ft (563 N·m),Rare
+114,2015 Chevrolet Camaro Z/28 (2015),United States of America,7.0L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 52%/48%,505 bhp (377 kW), 481 lb⋅ft (652 N·m),Rare
+115,1970 Chevrolet Camaro Z28 (1970),United States of America,5.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 57%/43%,360 bhp (268 kW), 380 lb⋅ft (515 N·m),Rare
+116,1979 Chevrolet Camaro Z28 (1979),United States of America,5.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 56%/44%,175 bhp (130 kW), 270 lb⋅ft (366 N·m),Rare
+117,2017 Chevrolet Camaro ZL1 (2017),United States of America,6.2L Supercharged V8,Front-Engined,6-speed Transmission, 50%/50%,650 bhp (485 kW), 650 lb⋅ft (881 N·m),Rare
+118,2018 Chevrolet Camaro ZL1 1LE,United States of America,6.2L Supercharged V8,Front-Engined,6-speed Transmission, 54%/46%,650 bhp (485 kW), 650 lb⋅ft (881 N·m),Rare
+119,1970 Chevrolet Chevelle Super Sport 454,United States of America,7.4L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 59%/41%,450 bhp (336 kW), 500 lb⋅ft (678 N·m),Rare
+120,2017 Chevrolet Colorado ZR2,United States of America,3.6L Naturally-Aspirated V6,Front-Engined,6-speed Transmission, 57%/43%,308 bhp (230 kW), 275 lb⋅ft (373 N·m),Common
+121,1953 Chevrolet Corvette (1953),United States of America,3.8L Naturally-Aspirated I6,Front-Engined,2-speed Transmission, 53%/47%,160 bhp (119 kW), 223 lb⋅ft (302 N·m),Legendary
+122,1953 Chevrolet Corvette (1953),United States of America,3.8L Naturally-Aspirated I6,Front-Engined,2-speed Transmission, 53%/47%,160 bhp (119 kW), 223 lb⋅ft (302 N·m),Legendary
+123,1960 Chevrolet Corvette (1960),United States of America,4.6L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 55%/45%,290 bhp (216 kW), 290 lb⋅ft (393 N·m),Epic
+124,1967 Chevrolet Corvette Stingray 427,United States of America,7.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 46%/54%,435 bhp (324 kW), 460 lb⋅ft (624 N·m),Epic
+125,2020 Chevrolet C8 Corvette Stingray,United States of America,6.2L Naturally-Aspirated V8,Mid-Engined,8-speed Transmission, 40%/60%,495 bhp (369 kW), 469 lb⋅ft (636 N·m),Rare
+126,2002 Chevrolet Corvette Z06 (2002),United States of America,5.7L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 56%/44%,405 bhp (302 kW), 400 lb⋅ft (542 N·m),Common
+127,2015 Chevrolet Corvette Z06 (2015),United States of America,6.2L Supercharged V8,Front-Engined,8-speed Transmission, 50%/50%,650 bhp (485 kW), 650 lb⋅ft (881 N·m),Rare
+128,2009 Chevrolet Corvette ZR1 (2009),United States of America,6.2L Supercharged V8,Front-Engined,6-speed Transmission, 52%/48%,638 bhp (476 kW), 604 lb⋅ft (819 N·m),Rare
+129,2019 Chevrolet Corvette ZR1 (2019),United States of America,6.2L Supercharged V8,Front-Engined,8-speed Transmission, 50%/50%,755 bhp (563 kW), 715 lb⋅ft (969 N·m),Epic
+130,1970 Chevrolet Corvette ZR-1,United States of America,5.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 49%/51%,370 bhp (276 kW), 380 lb⋅ft (515 N·m),Epic
+131,1995 Chevrolet Corvette ZR-1 (1995),United States of America,5.7L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 52%/48%,405 bhp (302 kW), 385 lb⋅ft (522 N·m),Common
+132,1970 Chevrolet El Camino Super Sport 454,United States of America,7.4L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 60%/40%,450 bhp (336 kW), 500 lb⋅ft (678 N·m),Rare
+133,2018 Chevrolet Hot Wheels COPO Camaro,United States of America,5.7L Supercharged V8,Front-Engined,4-speed Transmission, 55%/45%,1100 bhp (820 kW), 850 lb⋅ft (1152 N·m),Rare
+134,1996 Chevrolet Impala Super Sport,United States of America,5.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 55%/45%,260 bhp (194 kW), 330 lb⋅ft (447 N·m),Common
+135,1964 Chevrolet Impala Super Sport 409,United States of America,6.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 56%/44%,425 bhp (317 kW), 425 lb⋅ft (576 N·m),Common
+136,1988 Chevrolet Monte Carlo Super Sport,United States of America,5.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 57%/43%,180 bhp (134 kW), 225 lb⋅ft (305 N·m),Common
+137,1969 Chevrolet Nova Super Sport 396,United States of America,6.5L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 55%/45%,375 bhp (280 kW), 415 lb⋅ft (563 N·m),Common
+138,1970 Datsun 510,Japan,1.6L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 54%/46%,96 bhp (72 kW), 100 lb⋅ft (136 N·m),Common
+139,2018 Chevrolet Silverado 1500 DeBerti Design Drift Truck,United States of America,7.0L Supercharged V8,Front-Engined,6-speed Transmission, 51%/49%,1005 bhp (749 kW), 912 lb⋅ft (1237 N·m),Epic
+140,2018 Ford F-150 Prerunner DeBerti Design Truck,United States of America,5.0L Twin-Turbocharged V8,Front-Engined,10-speed Transmission, 49%/51%,800 bhp (597 kW), 800 lb⋅ft (1085 N·m),Epic
+141,2018 Ford Mustang GT DeBerti Design,United States of America,6.9L Naturally-Aspirated V8 (NASCAR),Front-Engined,6-speed Transmission, 51%/49%,900 bhp (671 kW), 626 lb⋅ft (849 N·m),Common
+142,2019 DeBerti Toyota Tacoma TRD %22The Performance Truck%22,United States of America,6.2L Supercharged V8,Front-Engined,3-speed Transmission, 50%/50%,707 bhp (527 kW), 650 lb⋅ft (881 N·m),Epic
+143,2013 Jeep Wrangler Unlimited DeBerti Design,United States of America,2.8L Naturally-Aspirated V6,Rear-Engined,5-speed Transmission, 38%/62%,130 bhp (97 kW), 160 lb⋅ft (217 N·m),Legendary
+144,1982 DeLorean DMC-12,United States of America,7.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 58%/42%,425 bhp (317 kW), 490 lb⋅ft (664 N·m),Epic
+145,1970 Dodge Challenger R/T,United States of America,6.2L Supercharged V8,Front-Engined,8-speed Transmission, 58%/42%,840 bhp (626 kW), 770 lb⋅ft (1044 N·m),Rare
+146,2018 Dodge Challenger SRT Demon,United States of America,6.2L Supercharged V8,Front-Engined,8-speed Transmission, 57%/43%,707 bhp (527 kW), 650 lb⋅ft (881 N·m),Rare
+147,2015 Dodge Challenger SRT Hellcat,United States of America,7.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 54%/46%,425 bhp (317 kW), 490 lb⋅ft (664 N·m),Epic
+148,1969 Dodge Charger Daytona HEMI,United States of America,7.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 54%/46%,425 bhp (317 kW), 490 lb⋅ft (664 N·m),Rare
+149,1969 Dodge Charger R/T,United States of America,7.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 54%/46%,425 bhp (317 kW), 490 lb⋅ft (664 N·m),Rare
+150,1969 Dodge Charger R/T,United States of America,6.2L Twin-Screw Supercharged V8,Front-Engined,8-speed Transmission, 54%/46%,707 bhp (527 kW), 650 lb⋅ft (881 N·m),Rare
+151,2015 Dodge Charger SRT Hellcat,United States of America,7.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 58%/42%,425 bhp (317 kW), 490 lb⋅ft (664 N·m),Rare
+152,1970 Dodge Coronet Super Bee,United States of America,7.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 54%/46%,425 bhp (317 kW), 490 lb⋅ft (664 N·m),Legendary
+153,1968 Dodge Dart HEMI Super Stock,United States of America,6.4L Naturally-Aspirated V8,Front-Engined,8-speed Transmission, 52%/48%,475 bhp (354 kW), 470 lb⋅ft (637 N·m),Common
+154,2018 Dodge Durango SRT,United States of America,6.1L Naturally-Aspirated V8,Front-Engined,5-speed Transmission, 53%/47%,425 bhp (317 kW), 420 lb⋅ft (569 N·m),Rare
+155,2008 Dodge Magnum SRT-8,United States of America,8.4L Naturally-Aspirated V10,Front-Engined,6-speed Transmission, 49%/51%,640 bhp (477 kW), 600 lb⋅ft (813 N·m),Rare
+156,2013 Dodge SRT Viper GTS,United States of America,8.4L Naturally-Aspirated V10,Front-Engined,6-speed Transmission, 49%/51%,640 bhp (477 kW), 600 lb⋅ft (813 N·m),Rare
+157,2013 Dodge SRT Viper GTS,United States of America,8.4L Naturally-Aspirated V10,Front-Engined,6-speed Transmission, 50%/50%,645 bhp (481 kW), 600 lb⋅ft (813 N·m),Epic
+158,2016 Dodge Viper ACR,United States of America,8.0L Naturally-Aspirated V10,Front-Engined,6-speed Transmission, 48%/52%,460 bhp (343 kW), 500 lb⋅ft (678 N·m),Legendary
+159,1999 Dodge Viper GTS ACR,United States of America,8.4L Naturally-Aspirated V10,Front-Engined,6-speed Transmission, 49%/51%,600 bhp (447 kW), 560 lb⋅ft (760 N·m),Rare
+160,2008 Dodge Viper SRT10 ACR,Netherlands,2.5L Twin-Charged I5,Front-Engined,5-speed Transmission, 48%/52%,375 bhp (280 kW), 350 lb⋅ft (475 N·m),Epic
+161,2013 Donkervoort D8 GTO,United Kingdom,4.7L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 54%/46%,330 bhp (246 kW), 361 lb⋅ft (489 N·m),Legendary
+162,2012 Eagle Speedster,United States of America,1.8L Turbocharged I4,Front-Engined,6-speed Transmission, 52%/48%,252 bhp (188 kW), 230 lb⋅ft (312 N·m),Rare
+163,2018 Exomotive Exocet Off-Road,United States of America,1.8L Turbocharged I4,Front-Engined,6-speed Transmission, 52%/48%,252 bhp (188 kW), 230 lb⋅ft (312 N·m),Rare
+164,2018 Exomotive Exocet Off-Road,Italy,4.0L Naturally-Aspirated V12,Mid-Engined,5-speed Transmission, 40%/60%,450 bhp (336 kW), 385 lb⋅ft (522 N·m),Legendary
+165,1967 Ferrari 330 P4,Italy,3.9L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,661 bhp (493 kW), 561 lb⋅ft (761 N·m),Epic
+166,2017 Ferrari 25 Corse Clienti 488 Challenge,Italy,3.0L Naturally-Aspirated V12,Front-Engined,5-speed Transmission, 52%/48%,262 bhp (195 kW), 188 lb⋅ft (255 N·m),Legendary
+167,1957 Ferrari 250 California,Italy,3.0L Naturally-Aspirated V12,Front-Engined,5-speed Transmission, 52%/48%,254 bhp (189 kW), 215 lb⋅ft (292 N·m),Legendary
+168,1962 Ferrari 250 GT Berlinetta Lusso,Italy,3.0L Naturally-Aspirated V12,Front-Engined,5-speed Transmission, 52%/48%,300 bhp (224 kW), 216 lb⋅ft (293 N·m),Legendary
+169,1962 Ferrari 250 GTO,Italy,3.0L Naturally-Aspirated V12,Front-Engined,4-speed Transmission, 52%/48%,300 bhp (224 kW), 223 lb⋅ft (302 N·m),Legendary
+170,1957 Ferrari 250 Testa Rossa,Italy,2.9L Twin-Turbocharged V8,Mid-Engined,5-speed Transmission, 47%/53%,395 bhp (295 kW), 366 lb⋅ft (496 N·m),Legendary
+171,1984 Ferrari 288 GTO,Italy,3.0L Twin-Turbocharged Hybrid V6,Mid-Engined,8-speed Transmission, 41%/59%,818 bhp (610 kW), 664 lb⋅ft (900 N·m),Epic
+172,2022 Ferrari 296 GTB,Italy,3.6L Naturally-Aspirated V8,Mid-Engined,6-speed Transmission, 43%/57%,409 bhp (305 kW), 275 lb⋅ft (373 N·m),Epic
+173,2003 Ferrari 360 Challenge Stradale,Italy,4.4L Naturally-Aspirated V12,Front-Engined,5-speed Transmission, 52%/48%,405 bhp (302 kW), 365 lb⋅ft (495 N·m),Epic
+174,1968 Ferrari 365 GTB/4,Italy,4.3L Naturally-Aspirated V8,Mid-Engined,6-speed Transmission, 43%/57%,503 bhp (375 kW), 346 lb⋅ft (469 N·m),Epic
+175,2007 Ferrari 430 Scuderia,Italy,4.5L Naturally-Aspirated V8,Mid-Engined,7-speed Transmission, 42%/58%,562 bhp (419 kW), 398 lb⋅ft (540 N·m),Epic
+176,2009 Ferrari 458 Italia,Italy,4.5L Naturally-Aspirated V8,Mid-Engined,7-speed Transmission, 42%/58%,597 bhp (445 kW), 398 lb⋅ft (540 N·m),Epic
+177,2013 Ferrari 458 Speciale,Italy,3.9L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,660 bhp (492 kW), 560 lb⋅ft (760 N·m),Epic
+178,2015 Ferrari 488 GTB,Italy,3.9L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,711 bhp (530 kW), 567 lb⋅ft (769 N·m),Epic
+179,2019 Ferrari 488 Pista,Italy,4.9L Naturally-Aspirated V12,Mid-Engined,5-speed Transmission, 42%/58%,421 bhp (314 kW), 360 lb⋅ft (488 N·m),Epic
+180,1992 Ferrari 512 TR,Italy,5.7L Naturally-Aspirated V12,Front-Engined,6-speed Transmission, 50%/50%,508 bhp (379 kW), 434 lb⋅ft (588 N·m),Epic
+181,2002 Ferrari 575M Maranello,Italy,6.0L Naturally-Aspirated V12,Front-Engined,6-speed Transmission, 47%/53%,661 bhp (493 kW), 457 lb⋅ft (620 N·m),Epic
+182,2010 Ferrari 599 GTO,Italy,6.0L Naturally-Aspirated V12,Front-Engined,6-speed Transmission, 47%/53%,691 bhp (515 kW), 479 lb⋅ft (650 N·m),Legendary
+183,2010 Ferrari 599XX,Italy,6.0L Naturally-Aspirated V12,Front-Engined,6-speed Transmission, 47%/53%,740 bhp (552 kW), 516 lb⋅ft (700 N·m),Legendary
+184,2012 Ferrari 599XX Evolution,Italy,6.5L Naturally-Aspirated V12,Front-Engined,7-speed Transmission, 47%/53%,788 bhp (588 kW), 529 lb⋅ft (717 N·m),Legendary
+185,2017 Ferrari 812 Superfast,Italy,3.9L Twin-Turbocharged V8,Front-Engined,7-speed Transmission, 47%/53%,554 bhp (413 kW), 556 lb⋅ft (754 N·m),Epic
+186,2014 Ferrari California T,Italy,2.4L Naturally-Aspirated V6,Mid-Engined,5-speed Transmission, 41%/59%,199 bhp (148 kW), 165 lb⋅ft (224 N·m),Epic
+187,1969 Ferrari Dino 246 GT,Italy,6.0L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 44%/56%,650 bhp (485 kW), 485 lb⋅ft (658 N·m),Legendary
+188,2002 Ferrari Enzo Ferrari,Italy,6.3L Naturally-Aspirated V12,Front-Engined,7-speed Transmission, 46%/54%,769 bhp (573 kW), 519 lb⋅ft (704 N·m),Epic
+189,2015 Ferrari F12tdf,Italy,3.5L Naturally-Aspirated V8,Mid-Engined,6-speed Transmission, 41%/59%,375 bhp (280 kW), 268 lb⋅ft (363 N·m),Epic
+190,1994 Ferrari F355 Berlinetta,Italy,2.9L Twin-Turbocharged V8,Mid-Engined,5-speed Transmission, 42%/58%,478 bhp (356 kW), 424 lb⋅ft (575 N·m),Legendary
+191,1987 Ferrari F40,Italy,2.9L Twin-Turbocharged V8,Mid-Engined,5-speed Transmission, 42%/58%,691 bhp (515 kW), 526 lb⋅ft (713 N·m),Legendary
+192,1989 Ferrari F40 Competizione,Italy,4.7L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 42%/58%,513 bhp (383 kW), 347 lb⋅ft (470 N·m),Legendary
+193,1995 Ferrari F50,Italy,4.7L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 42%/58%,750 bhp (559 kW), 383 lb⋅ft (520 N·m),Legendary
+194,1996 Ferrari F50 GT,Italy,3.9L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,711 bhp (530 kW), 567 lb⋅ft (769 N·m),Legendary
+195,2020 Ferrari F8 Tributo,Italy,6.3L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 47%/53%,789 bhp (588 kW), 506 lb⋅ft (686 N·m),Legendary
+196,2005 Ferrari FXX,Italy,6.3L Naturally-Aspirated Hybrid V12HY-KERS unit,Mid-Engined,7-speed Transmission, 41%/59%,1036 bhp (773 kW), 664 lb⋅ft (900 N·m),Legendary
+197,2014 Ferrari FXX K,Italy,6.3L Naturally-Aspirated Hybrid V12HY-KERS unit,Mid-Engined,7-speed Transmission, 41%/59%,1036 bhp (773 kW), 663 lb⋅ft (899 N·m),Legendary
+198,2018 Ferrari FXX-K Evo,Italy,6.3L Naturally-Aspirated V12,Front-Engined,7-speed Transmission, 47%/53%,680 bhp (507 kW), 514 lb⋅ft (697 N·m),Epic
+199,2017 Ferrari GTC4Lusso,Italy,3.9L Twin-Turbocharged V8,Rear-Engined,7-speed Transmission, 42%/58%,681 bhp (508 kW), 560 lb⋅ft (759 N·m),Legendary
+200,2017 Ferrari J50,Italy,6.3L Naturally-Aspirated Hybrid V12HY-KERS unit,Mid-Engined,7-speed Transmission, 41%/59%,949 bhp (708 kW), 663 lb⋅ft (900 N·m),Legendary
+201,2013 Ferrari LaFerrari,Italy,6.5L Naturally-Aspirated V12,Front-Engined,7-speed Transmission, 48%/52%,799 bhp (596 kW), 530 lb⋅ft (719 N·m),Legendary
+202,2019 Ferrari Monza SP2,Italy,3.9L Twin-Turbocharged V8,Front-Engined,7-speed Transmission, 46%/54%,591 bhp (441 kW), 560 lb⋅ft (759 N·m),Epic
+203,2018 Ferrari Portofino,Italy,3.9L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 50%/50%,612 bhp (456 kW), 561 lb⋅ft (760 N·m),Epic
+204,2020 Ferrari Roma,Italy,4.0L Twin-Turbocharged Hybrid V8,Mid-Engined,8-speed Transmission, 45%/55%,986 bhp (735 kW), 912 lb⋅ft (1237 N·m),Legendary
+205,2020 Ferrari SF90 Stradale,Italy,2.0L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 54%/46%,102 bhp (76 kW), 110 lb⋅ft (149 N·m),Common
+206,1980 FIAT 124 Sport Spider,United States of America,7.0L Naturally-Aspirated V8,Mid-Engined,4-speed Transmission, 38%/62%,485 bhp (362 kW), 475 lb⋅ft (644 N·m),Legendary
+207,1966 Ford GT40 Mk II,United States of America,2.0L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 50%/50%,255 bhp (190 kW), 175 lb⋅ft (237 N·m),Epic
+208,1977 Ford 5 Escort RS1800 MK II,United States of America,7.5L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 60%/40%,850 bhp (634 kW), 690 lb⋅ft (936 N·m),Epic
+209,2014 Ford 11 Rockstar F-150 Trophy Truck,United States of America,2.0L Turbocharged I4,Front-Engined,info_not_found, 54%/46%,600 bhp (447 kW), 664 lb⋅ft (900 N·m),Epic
+210,2017 Ford 14 Rahal Letterman Lanigan Racing GRC Fiesta,United States of America,7.0L Naturally-Aspirated V8 (Z427),Front-Engined,3-speed Transmission, 52%/48%,600 bhp (447 kW), 558 lb⋅ft (757 N·m),Epic
+211,2017 Ford 25 %22Brocky%22 Ultra4 Bronco RTR,United States of America,7.2L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 51%/49%,1000 bhp (746 kW), 737 lb⋅ft (999 N·m),Epic
+212,2018 Ford Mustang RTR,United States of America,7.2L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 51%/49%,1000 bhp (746 kW), 737 lb⋅ft (999 N·m),Epic
+213,2018 Ford Mustang RTR,United States of America,2.7L Twin-Turbocharged V6,Front-Engined,10-speed Transmission, 49%/51%,325 bhp (242 kW), 400 lb⋅ft (542 N·m),Epic
+214,2020 Ford 2069 Ford Performance Bronco R,United States of America,2.7L Twin-Turbocharged V6,Front-Engined,10-speed Transmission, 49%/51%,325 bhp (242 kW), 400 lb⋅ft (542 N·m),Epic
+215,2020 Ford 2069 Ford Performance Bronco R,United Kingdom,1.0L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 50%/50%,39 bhp (29 kW), 52 lb⋅ft (71 N·m),Common
+216,1959 Ford Anglia 105E,United States of America,4.9L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 55%/45%,205 bhp (153 kW), 300 lb⋅ft (407 N·m),Common
+217,1975 Ford Bronco,United States of America,2.7L Twin-Turbocharged V6,Front-Engined,10-speed Transmission, 55%/45%,310 bhp (231 kW), 400 lb⋅ft (542 N·m),Rare
+218,2021 Ford Bronco (2021),United States of America,3.1L Naturally-Aspirated V6,Front-Engined,4-speed Transmission, 53%/47%,148 bhp (110 kW), 187 lb⋅ft (254 N·m),Rare
+219,1973 Ford Capri RS3100,United States of America,4.6L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 55%/45%,250 bhp (186 kW), 297 lb⋅ft (403 N·m),Common
+220,2010 Ford Crown Victoria Police Interceptor,United States of America,3.6L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 54%/46%,85 bhp (63 kW), 155 lb⋅ft (210 N·m),Common
+221,1940 Ford De Luxe Coupe,United States of America,3.6L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 54%/46%,65 bhp (48 kW), 130 lb⋅ft (176 N·m),Common
+222,1932 Ford De Luxe Five-Window Coupe,United States of America,3.6L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 54%/46%,65 bhp (48 kW), 130 lb⋅ft (176 N·m),Common
+223,1932 Ford De Luxe Five-Window Coupe,United States of America,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 56%/44%,224 bhp (167 kW), 224 lb⋅ft (304 N·m),Rare
+224,1992 Ford Escort RS Cosworth,United States of America,1.6L Turbocharged I4,Front-Engined,5-speed Transmission, 61%/39%,130 bhp (97 kW), 133 lb⋅ft (180 N·m),Common
+225,1986 Ford Escort RS Turbo,United States of America,1.6L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 54%/46%,113 bhp (84 kW), 110 lb⋅ft (149 N·m),Rare
+226,1973 Ford Escort RS1600,United States of America,1.8L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 54%/46%,115 bhp (86 kW), 126 lb⋅ft (171 N·m),Rare
+227,1977 Ford Escort RS1800,United States of America,4.5L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 58%/42%,173 bhp (129 kW), 260 lb⋅ft (353 N·m),Legendary
+228,1956 Ford F-100,United States of America,3.5L Twin-Turbocharged V6,Front-Engined,10-speed Transmission, 57%/43%,450 bhp (336 kW), 510 lb⋅ft (691 N·m),Common
+229,2017 Ford F-150 Raptor (2017),United States of America,6.2L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 57%/43%,411 bhp (306 kW), 434 lb⋅ft (588 N·m),Rare
+230,2011 Ford F-150 SVT Raptor,United States of America,5.0L Supercharged V8,Front-Engined,6-speed Transmission, 54%/46%,471 bhp (351 kW), 420 lb⋅ft (570 N·m),Common
+231,2015 Ford Falcon GT F 351,United States of America,5.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 55%/45%,410 bhp (306 kW), 364 lb⋅ft (494 N·m),Rare
+232,1972 Ford Falcon XA GT-HO,United States of America,1.6L Turbocharged I4,Front-Engined,6-speed Transmission, 61%/39%,197 bhp (147 kW), 202 lb⋅ft (274 N·m),Common
+233,2014 Ford Fiesta ST,United States of America,1.6L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 60%/40%,84 bhp (63 kW), 91 lb⋅ft (123 N·m),Epic
+234,1981 Ford Fiesta XR2,United States of America,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 63%/37%,212 bhp (158 kW), 228 lb⋅ft (309 N·m),Common
+235,2003 Ford Focus RS (2003),United States of America,2.5L Turbocharged I5,Front-Engined,6-speed Transmission, 62%/38%,300 bhp (224 kW), 318 lb⋅ft (431 N·m),Common
+236,2009 Ford Focus RS (2009),United States of America,2.3L Turbocharged I4,Front-Engined,6-speed Transmission, 59%/41%,350 bhp (261 kW), 350 lb⋅ft (475 N·m),Epic
+237,2017 Ford Focus RS (2017),United States of America,5.0L Supercharged V8,Front-Engined,6-speed Transmission, 53%/47%,422 bhp (315 kW), 402 lb⋅ft (545 N·m),Common
+238,2014 Ford FPV Limited Edition Pursuit Ute,United States of America,5.4L Twin-Screw Supercharged V8,Mid-Engined,6-speed Transmission, 43%/57%,550 bhp (410 kW), 500 lb⋅ft (678 N·m),Epic
+239,2005 Ford GT (2005),United States of America,3.5L Twin-Turbocharged V6,Mid-Engined,7-speed Transmission, 43%/57%,630 bhp (470 kW), 539 lb⋅ft (731 N·m),Epic
+240,2017 Ford GT (2017),United States of America,3.5L Twin-Turbocharged V6,Mid-Engined,7-speed Transmission, 43%/57%,630 bhp (470 kW), 539 lb⋅ft (731 N·m),Epic
+241,2017 Ford GT (2017),United States of America,4.7L Naturally-Aspirated V8,Mid-Engined,5-speed Transmission, 39%/61%,390 bhp (291 kW), 345 lb⋅ft (468 N·m),Legendary
+242,1964 Ford GT40 Mk I,United States of America,2.0L Naturally-Aspirated I4,Mid-Engined,5-speed Transmission, 44%/56%,200 bhp (149 kW), 155 lb⋅ft (210 N·m),Rare
+243,1970 Ford GT70,United States of America,1.6L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 52%/48%,115 bhp (86 kW), 108 lb⋅ft (146 N·m),Common
+244,1966 Ford Lotus Cortina,United States of America,1.6L Turbocharged I4,Front-Engined,6-speed Transmission, 53%/47%,375 bhp (280 kW), 332 lb⋅ft (450 N·m),Epic
+245,2017 Ford M-Sport Fiesta RS,United States of America,4.9L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 56%/44%,290 bhp (216 kW), 290 lb⋅ft (393 N·m),Rare
+246,1969 Ford Mustang Boss 302,United States of America,5.0L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 53%/47%,460 bhp (343 kW), 420 lb⋅ft (569 N·m),Common
+247,2018 Ford Mustang GT (2018),United States of America,6.4L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 57%/43%,325 bhp (242 kW), 427 lb⋅ft (579 N·m),Legendary
+248,1968 Ford Mustang 2%2B2 Fastback,United States of America,4.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 56%/44%,271 bhp (202 kW), 312 lb⋅ft (423 N·m),Rare
+249,1965 Ford Mustang GT Coupe,United States of America,7.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 60%/40%,376 bhp (280 kW), 450 lb⋅ft (610 N·m),Epic
+250,1971 Ford Mustang Mach 1,United States of America,7x Electric Motors,Mid-Engined,1-speed Transmission, 48%/52%,1400 bhp (1044 kW), 1832 lb⋅ft (2484 N·m),Legendary
+251,2021 Ford Mustang Mach-E 1400,United States of America,5.0L Naturally-Aspirated V8,Front-Engined,10-speed Transmission, 54%/46%,460 bhp (343 kW), 420 lb⋅ft (569 N·m),Rare
+252,2018 Ford Mustang RTR Spec 5,United States of America,5.2L Supercharged V8,Front-Engined,7-speed Transmission, 56%/44%,760 bhp (567 kW), 625 lb⋅ft (847 N·m),Rare
+253,2020 Ford Mustang Shelby GT500,United States of America,1.8L Naturally-Aspirated I4 (Cosworth BDA),Front-Engined,4-speed Transmission, 52%/48%,200 bhp (149 kW), 160 lb⋅ft (217 N·m),Legendary
+254,1967 Ford Racing Escort Mk1,United States of America,1.7L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 59%/41%,153 bhp (114 kW), 119 lb⋅ft (161 N·m),Rare
+255,1999 Ford Racing Puma,United States of America,1.7L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 59%/41%,153 bhp (114 kW), 119 lb⋅ft (161 N·m),Rare
+256,1999 Ford Racing Puma,United States of America,2.0L Twin-Turbocharged I4,Front-Engined,10-speed Transmission, 57%/43%,211 bhp (157 kW), 368 lb⋅ft (499 N·m),Epic
+257,2019 Ford Ranger Raptor,United States of America,4.9L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 55%/45%,349 bhp (260 kW), 413 lb⋅ft (560 N·m),Epic
+258,2014 Ford Ranger T6 Rally Raid,United States of America,2.1L Turbocharged I4,Mid-Engined,5-speed Transmission, 50%/50%,506 bhp (377 kW), 401 lb⋅ft (544 N·m),Epic
+259,1985 Ford RS200 Evolution,United States of America,5.2L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 53%/47%,526 bhp (392 kW), 429 lb⋅ft (582 N·m),Rare
+260,2016 Ford Shelby GT350R,United States of America,5.8L Twin-Screw Supercharged V8,Front-Engined,6-speed Transmission, 57%/43%,662 bhp (494 kW), 631 lb⋅ft (856 N·m),Rare
+261,2013 Ford Shelby GT500 (2013),United States of America,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 51%/49%,224 bhp (167 kW), 206 lb⋅ft (279 N·m),Rare
+262,1987 Ford Sierra Cosworth RS500,United States of America,3.9L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 52%/48%,100 bhp (75 kW), 180 lb⋅ft (244 N·m),Common
+263,1946 Ford Super Deluxe Station Wagon,United States of America,6.7L Turbocharged V8 (Power Stroke),Front-Engined,10-speed Transmission, 55%/45%,475 bhp (354 kW), 1050 lb⋅ft (1424 N·m),Common
+264,2020 Ford Super Duty F-450 DRW Platinum,United States of America,3.0L Naturally-Aspirated V6,Mid-Engined,5-speed Transmission, 45%/55%,295 bhp (220 kW), 283 lb⋅ft (384 N·m),Epic
+265,1994 Ford Supervan 3,United States of America,4.9L Naturally-Aspirated V8,Front-Engined,5-speed Transmission, 57%/43%,235 bhp (175 kW), 280 lb⋅ft (380 N·m),Common
+266,1993 Ford SVT Cobra R (1993),United States of America,5.4L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 57%/43%,385 bhp (287 kW), 385 lb⋅ft (522 N·m),Common
+267,2000 Ford SVT Cobra R (2000),United States of America,1.7L Naturally-Aspirated V4,Front-Engined,info_not_found, 52%/48%,73 bhp (54 kW), 91 lb⋅ft (123 N·m),Common
+268,1965 Ford Transit,United States of America,3.2L Turbocharged I5,Front-Engined,6-speed Transmission, 60%/40%,198 bhp (148 kW), 346 lb⋅ft (469 N·m),Rare
+269,2011 Ford Transit SuperSportVan,United States of America,5.8L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 59%/41%,300 bhp (224 kW), 380 lb⋅ft (515 N·m),Rare
+270,1973 Ford XB Falcon GT,United States of America,5.0L Supercharged V8,Front-Engined,4-speed Transmission, 52%/48%,986 bhp (735 kW), 832 lb⋅ft (1128 N·m),Epic
+271,2015 Formula Drift 13 Ford Mustang,United States of America,3.4L Turbocharged I6 (2JZ-GE),Front-Engined,5-speed Transmission, 49%/51%,1035 bhp (772 kW), 920 lb⋅ft (1247 N·m),Epic
+272,1995 Formula Drift 34 Toyota Supra MkIV,United States of America,8.3L Twin-Turbocharged V10,Front-Engined,4-speed Transmission, 50%/50%,1350 bhp (1007 kW), 1400 lb⋅ft (1898 N·m),Epic
+273,2006 Formula Drift 43 Dodge Viper SRT10,United States of America,4.0L Twin-Turbocharged V6,Front-Engined,6-speed Transmission, 51%/49%,1015 bhp (757 kW), 845 lb⋅ft (1146 N·m),Epic
+274,2018 Formula Drift 64 Nissan 370Z,United States of America,6.2L Naturally-Aspirated V8 (LS7),Front-Engined,6-speed Transmission, 49%/51%,822 bhp (613 kW), 678 lb⋅ft (919 N·m),Epic
+275,2020 Formula Drift 91 BMW M2,United States of America,6.2L Supercharged V8,Front-Engined,4-speed Transmission, 53%/47%,750 bhp (559 kW), 750 lb⋅ft (1017 N·m),Epic
+276,1989 Formula Drift 98 BMW 325i,United States of America,2.0L Turbocharged 3-Rotor Rotary (20B),Front-Engined,5-speed Transmission, 55%/45%,1000 bhp (746 kW), 566 lb⋅ft (767 N·m),Epic
+277,2009 Formula Drift 99 Mazda RX-8,Italy,6.0L Supercharged V12,Front-Engined,6-speed Transmission, 47%/53%,917 bhp (684 kW), 756 lb⋅ft (1025 N·m),Epic
+278,2007 Formula Drift 117 599 GTB Fiorano,United States of America,3.0L Turbocharged I6 (B58),Front-Engined,4-speed Transmission, 48%/52%,1033 bhp (770 kW), 908 lb⋅ft (1231 N·m),Epic
+279,2020 Formula Drift 151 Toyota GR Supra,United States of America,6.2L Supercharged V8 (LT4),Front-Engined,7-speed Transmission, 50%/50%,825 bhp (615 kW), 825 lb⋅ft (1119 N·m),Epic
+280,2017 Formula Drift 357 Chevrolet Corvette Z06,United States of America,2.7L Turbocharged I4 (2AR-FE),Front-Engined,6-speed Transmission, 54%/46%,1185 bhp (884 kW), 867 lb⋅ft (1175 N·m),Epic
+281,2019 Formula Drift 411 Toyota Corolla Hatchback,United States of America,6.2L Supercharged V8,Front-Engined,6-speed Transmission, 55%/45%,1000 bhp (746 kW), 900 lb⋅ft (1220 N·m),Epic
+282,2016 Formula Drift 530 HSV Maloo Gen-F,United States of America,7.0L Supercharged V8,Front-Engined,6-speed Transmission, 50%/50%,1050 bhp (783 kW), 850 lb⋅ft (1152 N·m),Epic
+283,2013 Formula Drift 777 Chevrolet Corvette,United States of America,7.0L Supercharged V8 (LSX),Front-Engined,4-speed Transmission, 50%/50%,1251 bhp (933 kW), 1118 lb⋅ft (1516 N·m),Epic
+284,1997 Formula Drift 777 Nissan 240SX,United States of America,2.5L Turbocharged I6 (RB25DET),Front-Engined,5-speed Transmission, 51%/49%,424 bhp (316 kW), 354 lb⋅ft (480 N·m),Rare
+285,1975 Forsberg Racing Nissan %22Gold Leader%22 Datsun 280Z,United States of America,3.4L Turbocharged I6 (2JZ-GTE),Front-Engined,4-speed Transmission, 53%/47%,850 bhp (634 kW), 740 lb⋅ft (1003 N·m),Rare
+286,2010 Forsberg Racing Toyota Gumout 2JZ Camry Stock Car,Canada,7.4L Twin-Turbocharged V8,Rear-Engined,5-speed Transmission, 33%/67%,1750 bhp (1305 kW), 1475 lb⋅ft (2000 N·m),Epic
+287,2018 Funco Motorsports F9,United States of America,5.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 55%/45%,300 bhp (224 kW), 335 lb⋅ft (454 N·m),Legendary
+288,1970 GMC Jimmy,United States of America,4.3L Turbocharged V6,Front-Engined,4-speed Transmission, 63%/37%,280 bhp (209 kW), 360 lb⋅ft (488 N·m),Epic
+289,1991 GMC Syclone,United States of America,4.3L Turbocharged V6,Front-Engined,4-speed Transmission, 57%/43%,280 bhp (209 kW), 360 lb⋅ft (488 N·m),Epic
+290,1992 GMC Typhoon,United States of America,5.7L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 55%/45%,165 bhp (123 kW), 275 lb⋅ft (373 N·m),Common
+291,1983 GMC Vandura G-1500,Australia,4.9L Naturally-Aspirated V8,Front-Engined,5-speed Transmission, 56%/44%,263 bhp (196 kW), 308 lb⋅ft (418 N·m),Rare
+292,1985 HDT VK Commodore Group A,United States of America,3.5L Twin-Turbocharged V6,Front-Engined,10-speed Transmission, 51%/49%,600 bhp (447 kW), 622 lb⋅ft (843 N·m),Legendary
+293,2019 Hennessey VelociRaptor 6x6,United States of America,6.6L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 45%/55%,1817 bhp (1355 kW), 1193 lb⋅ft (1617 N·m),Legendary
+294,2021 Hennessey Venom F5,United States of America,6.2L Twin-Turbocharged V8,Mid-Engined,6-speed Transmission, 42%/58%,1200 bhp (895 kW), 1155 lb⋅ft (1566 N·m),Legendary
+295,2012 Hennessey Venom GT,Australia,5.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 55%/45%,275 bhp (205 kW), 360 lb⋅ft (488 N·m),Common
+296,1973 Holden HQ Monaro GTS 350,Australia,5.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 52%/48%,240 bhp (179 kW), 315 lb⋅ft (427 N·m),Common
+297,1974 Holden Sandman HQ Panelvan,Australia,5.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 59%/41%,216 bhp (161 kW), 295 lb⋅ft (400 N·m),Rare
+298,1977 Holden Torana A9X,Japan,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 55%/45%,600 bhp (447 kW), 531 lb⋅ft (720 N·m),Epic
+299,2016 Honda Civic Coupe GRC,Japan,1.5L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 62%/38%,120 bhp (89 kW), 92 lb⋅ft (125 N·m),Epic
+300,1984 Honda Civic CRX Mugen,Japan,1.2L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 60%/40%,76 bhp (57 kW), 75 lb⋅ft (102 N·m),Common
+301,1974 Honda Civic RS,Japan,1.6L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 62%/38%,182 bhp (136 kW), 118 lb⋅ft (160 N·m),Common
+302,1997 Honda Civic Type R (1997),Japan,2.0L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 61%/39%,212 bhp (158 kW), 149 lb⋅ft (202 N·m),Common
+303,2004 Honda Civic Type-R (2004),Japan,2.0L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 60%/40%,198 bhp (148 kW), 142 lb⋅ft (193 N·m),Common
+304,2007 Honda Civic Type-R (2007),Japan,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 65%/35%,306 bhp (228 kW), 295 lb⋅ft (400 N·m),Common
+305,2015 Honda Civic Type R (2015),Japan,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 62%/38%,306 bhp (228 kW), 295 lb⋅ft (400 N·m),Rare
+306,2018 Honda Civic Type R (2018),Japan,1.6L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 62%/38%,158 bhp (118 kW), 112 lb⋅ft (152 N·m),Common
+307,1991 Honda CR-X SiR,Japan,3.2L Naturally-Aspirated V6,Mid-Engined,5-speed Transmission, 42%/58%,276 bhp (206 kW), 217 lb⋅ft (294 N·m),Epic
+308,1992 Honda NSX-R (1992),Japan,3.2L Naturally-Aspirated V6,Mid-Engined,5-speed Transmission, 43%/57%,290 bhp (216 kW), 225 lb⋅ft (305 N·m),Epic
+309,2005 Honda NSX-R (2005),Japan,3.2L Naturally-Aspirated V6,Mid-Engined,6-speed Transmission, 43%/57%,290 bhp (216 kW), 224 lb⋅ft (304 N·m),Epic
+310,2005 Honda NSX-R GT,Japan,2.3L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 62%/38%,160 bhp (119 kW), 156 lb⋅ft (212 N·m),Common
+311,1994 Honda Prelude Si,Japan,3.5L Naturally-Aspirated V6,Front-Engined,6-speed Transmission, 58%/42%,550 bhp (410 kW), 470 lb⋅ft (637 N·m),Epic
+312,2015 Honda Ridgeline Baja Trophy Truck,Japan,2.0L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 50%/50%,247 bhp (184 kW), 161 lb⋅ft (218 N·m),Common
+313,2003 Honda S2000,Japan,2.0L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 49%/51%,237 bhp (177 kW), 162 lb⋅ft (220 N·m),Common
+314,2009 Honda S2000 CR,United States of America,5.8L Naturally-Aspirated V8,Front-Engined,5-speed Transmission, 49%/51%,410 bhp (306 kW), 390 lb⋅ft (529 N·m),Rare
+315,1955 Hoonigan Chevrolet Bel Air,United States of America,7.4L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 55%/45%,475 bhp (354 kW), 520 lb⋅ft (705 N·m),Rare
+316,1972 Hoonigan Chevrolet %22Napalm Nova%22,United States of America,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 52%/48%,371 bhp (277 kW), 368 lb⋅ft (499 N·m),Epic
+317,1994 Hoonigan Ford Escort Cosworth WRC %22Cossie V2%22,United States of America,2.5L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 54%/46%,333 bhp (248 kW), 246 lb⋅ft (334 N·m),Epic
+318,1978 Hoonigan Ford Escort RS1800,United States of America,6.7L Twin-Turbocharged V8,Front-Engined,6-speed Transmission, 50%/50%,1400 bhp (1044 kW), 1200 lb⋅ft (1627 N·m),Epic
+319,1965 Hoonigan Ford %22Hoonicorn%22 Mustang,United States of America,2.1L Turbocharged I4,Mid-Engined,6-speed Transmission, 50%/50%,750 bhp (559 kW), 590 lb⋅ft (800 N·m),Epic
+320,1986 Hoonigan Ford RS200 Evolution,United States of America,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 60%/40%,600 bhp (447 kW), 663 lb⋅ft (899 N·m),Legendary
+321,2016 Hoonigan Gymkhana 9 Ford Focus RS RX,United States of America,2.0L Turbocharged I4,Front-Engined,7-speed Transmission, 55%/45%,620 bhp (462 kW), 600 lb⋅ft (813 N·m),Epic
+322,1991 Hoonigan Gymkhana 10 Ford Escort Cosworth Group A,United States of America,3.5L Twin-Turbocharged V6,Front-Engined,6-speed Transmission, 57%/43%,914 bhp (682 kW), 702 lb⋅ft (952 N·m),Epic
+323,1977 Hoonigan Gymkhana 10 Ford F-150 %27Hoonitruck%27,United States of America,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 60%/40%,600 bhp (447 kW), 663 lb⋅ft (899 N·m),Epic
+324,2016 Hoonigan Gymkhana 10 Ford Focus RS RX,United States of America,6.7L Twin-Turbocharged V8,Front-Engined,6-speed Transmission, 50%/50%,1400 bhp (1044 kW), 1200 lb⋅ft (1627 N·m),Epic
+325,1965 Hoonigan Gymkhana 10 Ford Hoonicorn Mustang,United States of America,5.3L Turbocharged V8,Front-Engined,6-speed Transmission, 53%/47%,600 bhp (447 kW), 590 lb⋅ft (800 N·m),Rare
+326,1992 Hoonigan Mazda RX-7 Twerkstallion,United States of America,3.3L Turbocharged F6,Rear-Engined,5-speed Transmission, 40%/60%,385 bhp (287 kW), 400 lb⋅ft (543 N·m),Rare
+327,1991 Hoonigan Rauh-Welt Begriff Porsche 911 Turbo,United States of America,3.0L Turbocharged I6,Mid-Engined,6-speed Transmission, 43%/57%,639 bhp (477 kW), 636 lb⋅ft (862 N·m),Legendary
+328,2018 Hot Wheels 2JetZ,United States of America,3.5L Naturally-Aspirated I4,Mid-Engined,8-speed Transmission, 40%/60%,650 bhp (485 kW), 320 lb⋅ft (434 N·m),Epic
+329,2012 Hot Wheels Bad to the Blade,United States of America,5.7L Supercharged V8,Front-Engined,6-speed Transmission, 53%/47%,520 bhp (388 kW), 540 lb⋅ft (732 N·m),Legendary
+330,2013 Hot Wheels Baja Bone Shaker,United States of America,5.7L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 65%/35%,402 bhp (300 kW), 398 lb⋅ft (540 N·m),Legendary
+331,2011 Hot Wheels Bone Shaker,United States of America,5.2L Supercharged V8,Rear-Engined,8-speed Transmission, 45%/55%,760 bhp (567 kW), 625 lb⋅ft (847 N·m),Legendary
+332,2000 Hot Wheels Deora II,United States of America,7.3L Turbocharged V8,Front-Engined,5-speed Transmission, 52%/48%,400 bhp (298 kW), 687 lb⋅ft (931 N·m),Legendary
+333,1949 Hot Wheels Ford F-5 Dually Custom Hot Rod,United States of America,5.8L Supercharged V8,Front-Engined,5-speed Transmission, 55%/45%,504 bhp (376 kW), 458 lb⋅ft (621 N·m),Legendary
+334,2005 Hot Wheels Ford Mustang,United States of America,5.0L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 55%/45%,350 bhp (261 kW), 400 lb⋅ft (542 N·m),Legendary
+335,1957 Hot Wheels Nash Metropolitan Custom,United States of America,1.0L Turbocharged I3,Mid-Engined,8-speed Transmission, 45%/55%,205 bhp (153 kW), 206 lb⋅ft (280 N·m),Legendary
+336,2012 Hot Wheels Rip Rod,United States of America,16.5L Supercharged Dual V8,Front-Engined,6-speed Transmission, 57%/43%,1401 bhp (1045 kW), 1401 lb⋅ft (1900 N·m),Legendary
+337,1969 Hot Wheels Twin Mill,Australia,6.2L Supercharged V8,Front-Engined,6-speed Transmission, 53%/47%,577 bhp (430 kW), 546 lb⋅ft (740 N·m),Rare
+338,2014 HSV GEN-F GTS,Australia,6.2L Supercharged V8,Front-Engined,6-speed Transmission, 55%/45%,577 bhp (430 kW), 546 lb⋅ft (740 N·m),Common
+339,2014 HSV Limited Edition Gen-F GTS Maloo,United States of America,6.6L Turbocharged V8,Front-Engined,5-speed Transmission, 52%/48%,300 bhp (224 kW), 520 lb⋅ft (705 N·m),Rare
+340,2006 Hummer H1 Alpha,South Korea,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 64%/36%,270 bhp (201 kW), 260 lb⋅ft (353 N·m),Epic
+341,2019 Hyundai Veloster N,United States of America,3.0L Twin-Turbocharged V6,Front-Engined,6-speed Transmission, 55%/45%,400 bhp (298 kW), 400 lb⋅ft (542 N·m),Common
+342,2015 Infiniti Q60 Concept,United States of America,5.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 56%/44%,193 bhp (144 kW), 273 lb⋅ft (370 N·m),Common
+343,1970 International Scout 800A,Italy,2x electric motors,Mid-Engined,2-speed Transmission, 49%/51%,750 bhp (559 kW), 774 lb⋅ft (1050 N·m),Rare
+344,2019 Italdesign DaVinci Concept,Italy,5.2L Naturally-Aspirated V10,Mid-Engined,7-speed Transmission, 42%/58%,602 bhp (449 kW), 413 lb⋅ft (560 N·m),Legendary
+345,2018 Italdesign Zerouno,United Kingdom,3.4L Naturally-Aspirated I6,Front-Engined,4-speed Transmission, 54%/46%,245 bhp (183 kW), 242 lb⋅ft (328 N·m),Legendary
+346,1956 Jaguar D-Type,United Kingdom,3.8L Naturally-Aspirated I6,Front-Engined,4-speed Transmission, 47%/53%,265 bhp (198 kW), 260 lb⋅ft (353 N·m),Epic
+347,1961 Jaguar E-type S1,United Kingdom,3.0L Supercharged V6,Front-Engined,8-speed Transmission, 50%/50%,380 bhp (283 kW), 332 lb⋅ft (450 N·m),Common
+348,2017 Jaguar F-PACE S,United Kingdom,5.0L Supercharged V8,Front-Engined,8-speed Transmission, 53%/47%,575 bhp (429 kW), 516 lb⋅ft (700 N·m),Epic
+349,2016 Jaguar F-TYPE Project 7,United Kingdom,5.0L Supercharged V8,Front-Engined,8-speed Transmission, 52%/48%,550 bhp (410 kW), 502 lb⋅ft (681 N·m),Epic
+350,2015 Jaguar F-TYPE R Coup%C3%A9,United Kingdom,2x electric motors,Front-Engined,1-speed Transmission, 50%/50%,394 bhp (294 kW), 513 lb⋅ft (696 N·m),Rare
+351,2018 Jaguar I-Pace,United Kingdom,3.8L Naturally-Aspirated I6,Front-Engined,4-speed Transmission, 50%/50%,340 bhp (254 kW), 314 lb⋅ft (426 N·m),Legendary
+352,1964 Jaguar Lightweight E-Type,United Kingdom,3.8L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 57%/43%,220 bhp (164 kW), 240 lb⋅ft (325 N·m),Epic
+353,1959 Jaguar Mk II 3.8,United Kingdom,6.0L Naturally-Aspirated V12,Mid-Engined,5-speed Transmission, 48%/52%,450 bhp (336 kW), 420 lb⋅ft (569 N·m),Legendary
+354,1991 Jaguar Sport XJR-15,United Kingdom,3.0L Supercharged V6,Front-Engined,8-speed Transmission, 53%/47%,340 bhp (254 kW), 332 lb⋅ft (450 N·m),Common
+355,2015 Jaguar XE-S,United Kingdom,5.0L Supercharged V8,Front-Engined,8-speed Transmission, 54%/46%,550 bhp (410 kW), 502 lb⋅ft (681 N·m),Rare
+356,2015 Jaguar XFR-S,United Kingdom,5.0L Naturally-Aspirated V12,Mid-Engined,5-speed Transmission, 44%/56%,502 bhp (374 kW), 378 lb⋅ft (512 N·m),Rare
+357,1966 Jaguar XJ13,United Kingdom,3.5L Twin-Turbocharged V6,Mid-Engined,5-speed Transmission, 42%/58%,542 bhp (404 kW), 473 lb⋅ft (641 N·m),Legendary
+358,1993 Jaguar XJ220,United Kingdom,3.5L Twin-Turbocharged V6,Mid-Engined,5-speed Transmission, 42%/58%,680 bhp (507 kW), 526 lb⋅ft (713 N·m),Rare
+359,1993 Jaguar XJ220S TWR,United Kingdom,5.0L Supercharged V8,Front-Engined,6-speed Transmission, 53%/47%,542 bhp (404 kW), 501 lb⋅ft (679 N·m),Rare
+360,2012 Jaguar XKR-S (2012),United Kingdom,5.0L Supercharged V8,Front-Engined,6-speed Transmission, 54%/46%,542 bhp (404 kW), 502 lb⋅ft (680 N·m),Epic
+361,2015 Jaguar XKR-S GT,United States of America,5.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 53%/47%,151 bhp (113 kW), 245 lb⋅ft (332 N·m),Common
+362,1976 Jeep CJ5 Renegade,United States of America,6.4L Naturally-Aspirated V8,Front-Engined,8-speed Transmission, 54%/46%,470 bhp (350 kW), 465 lb⋅ft (630 N·m),Common
+363,2014 Jeep Grand Cherokee SRT,United States of America,6.2L Twin-Screw Supercharged V8,Front-Engined,8-speed Transmission, 57%/43%,707 bhp (527 kW), 645 lb⋅ft (875 N·m),Common
+364,2018 Jeep Grand Cherokee Trackhawk,United States of America,3.6L Naturally-Aspirated V6,Front-Engined,8-speed Transmission, 53%/47%,285 bhp (213 kW), 260 lb⋅ft (353 N·m),Common
+365,2020 Jeep Gladiator Rubicon,United States of America,6.2L Twin-Screw Supercharged V8,Front-Engined,6-speed Transmission, 55%/45%,707 bhp (527 kW), 650 lb⋅ft (881 N·m),Rare
+366,2016 Jeep Trailcat,United States of America,3.6L Naturally-Aspirated V6,Front-Engined,5-speed Transmission, 50%/50%,285 bhp (213 kW), 260 lb⋅ft (353 N·m),Common
+367,2012 Jeep Wrangler Rubicon,Sweden,5.0L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 45%/55%,946 bhp (705 kW), 811 lb⋅ft (1100 N·m),Legendary
+368,2011 Koenigsegg Agera,Sweden,5.0L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 44%/56%,1341 bhp (1000 kW), 1010 lb⋅ft (1369 N·m),Legendary
+369,2017 Koenigsegg Agera RS,Sweden,4.7L Supercharged V8,Mid-Engined,6-speed Transmission, 45%/55%,564 bhp (421 kW), 469 lb⋅ft (636 N·m),Epic
+370,2002 Koenigsegg CC8S,Sweden,5.0L Naturally-Aspirated V8,Mid-Engined,6-speed Transmission, 50%/50%,610 bhp (455 kW), 442 lb⋅ft (599 N·m),Legendary
+371,2008 Koenigsegg CCGT,Sweden,5.0L Twin-Turbocharged V8,Mid-Engined,9-speed Transmission, 45%/55%,1280 bhp (954 kW), 883 lb⋅ft (1197 N·m),Legendary
+372,2020 Koenigsegg Jesko,Sweden,5.0L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 44%/56%,1360 bhp (1014 kW), 1011 lb⋅ft (1371 N·m),Legendary
+373,2015 Koenigsegg One:1,Sweden,5.0L Twin-Turbocharged Hybrid V83x YASA-developed Electric Motors,Mid-Engined,1-speed Transmission, 45%/55%,1757 bhp (1310 kW), 1578 lb⋅ft (2140 N·m),Legendary
+374,2016 Koenigsegg Regera,Austria,2.0L Turbocharged I4,Mid-Engined,6-speed Transmission, 45%/55%,326 bhp (243 kW), 295 lb⋅ft (400 N·m),Epic
+375,2018 KTM X-Bow GT4,Austria,2.0L Turbocharged I4,Mid-Engined,6-speed Transmission, 40%/60%,295 bhp (220 kW), 295 lb⋅ft (400 N·m),Rare
+376,2013 KTM X-Bow R,Italy,6.5L Naturally-Aspirated V12,Mid-Engined,7-speed Transmission, 43%/57%,700 bhp (522 kW), 509 lb⋅ft (691 N·m),Epic
+377,2012 Lamborghini Aventador J,Italy,6.5L Naturally-Aspirated V12,Mid-Engined,7-speed Transmission, 43%/57%,700 bhp (522 kW), 509 lb⋅ft (690 N·m),Epic
+378,2012 Lamborghini Aventador LP700-4,Italy,6.5L Naturally-Aspirated V12,Mid-Engined,7-speed Transmission, 43%/57%,740 bhp (552 kW), 509 lb⋅ft (690 N·m),Epic
+379,2016 Lamborghini Aventador Superveloce,Italy,6.5L Naturally-Aspirated V12,Mid-Engined,7-speed Transmission, 43%/57%,759 bhp (566 kW), 531 lb⋅ft (720 N·m),Epic
+380,2018 Lamborghini Aventador SVJ,Italy,6.5L Naturally-Aspirated V12,Mid-Engined,7-speed Transmission, 43%/57%,759 bhp (566 kW), 508 lb⋅ft (689 N·m),Legendary
+381,2016 Lamborghini Centenario LP 770-4,Italy,5.2L Naturally-Aspirated V12,Mid-Engined,5-speed Transmission, 41%/59%,455 bhp (339 kW), 369 lb⋅ft (500 N·m),Epic
+382,1988 Lamborghini Countach LP5000 QV,Italy,6.0L Naturally-Aspirated V12,Mid-Engined,5-speed Transmission, 40%/60%,590 bhp (440 kW), 472 lb⋅ft (640 N·m),Epic
+383,1999 Lamborghini Diablo GTR,Italy,5.7L Naturally-Aspirated V12,Mid-Engined,5-speed Transmission, 41%/59%,530 bhp (395 kW), 446 lb⋅ft (605 N·m),Epic
+384,1997 Lamborghini Diablo SV,Italy,3.9L Naturally-Aspirated V12,Front-Engined,5-speed Transmission, 52%/48%,350 bhp (261 kW), 290 lb⋅ft (393 N·m),Rare
+385,1973 Lamborghini Espada 400 GT,Italy,6.5L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 41%/59%,818 bhp (610 kW), 590 lb⋅ft (800 N·m),Legendary
+386,2020 Lamborghini Essenza SCV12,Italy,5.2L Naturally-Aspirated V10,Mid-Engined,6-speed Transmission, 43%/57%,562 bhp (419 kW), 398 lb⋅ft (540 N·m),Epic
+387,2012 Lamborghini Gallardo LP570-4 Spyder Performante,Italy,5.2L Naturally-Aspirated V10,Mid-Engined,6-speed Transmission, 43%/57%,562 bhp (419 kW), 398 lb⋅ft (540 N·m),Epic
+388,2011 Lamborghini Gallardo LP 570-4 Superleggera,Italy,5.2L Naturally-Aspirated V10,Mid-Engined,7-speed Transmission, 42%/58%,630 bhp (470 kW), 442 lb⋅ft (599 N·m),Rare
+389,2020 Lamborghini Hurac%C3%A1n Evo,Italy,5.2L Naturally-Aspirated V10,Mid-Engined,7-speed Transmission, 43%/57%,602 bhp (449 kW), 413 lb⋅ft (560 N·m),Epic
+390,2014 Lamborghini Hurac%C3%A1n LP 610-4,Italy,5.2L Naturally-Aspirated V10,Mid-Engined,7-speed Transmission, 43%/57%,630 bhp (470 kW), 442 lb⋅ft (599 N·m),Epic
+391,2018 Lamborghini Hurac%C3%A1n Performante,Italy,5.2L Naturally-Aspirated V10,Mid-Engined,7-speed Transmission, 41%/59%,630 bhp (470 kW), 417 lb⋅ft (565 N·m),Legendary
+392,2020 Lamborghini Hurac%C3%A1n STO,Italy,5.2L Naturally-Aspirated V10,Mid-Engined,7-speed Transmission, 41%/59%,630 bhp (470 kW), 417 lb⋅ft (565 N·m),Legendary
+393,2022 Lamborghini Hurac%C3%A1n Tecnica,Italy,5.1L Naturally-Aspirated V12,Front-Engined,5-speed Transmission, 50%/50%,450 bhp (336 kW), 369 lb⋅ft (500 N·m),Epic
+394,1986 Lamborghini LM 002,Italy,3.9L Naturally-Aspirated V12,Mid-Engined,5-speed Transmission, 44%/56%,350 bhp (261 kW), 272 lb⋅ft (369 N·m),Legendary
+395,1967 Lamborghini Miura P400,Italy,6.5L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 42%/58%,651 bhp (485 kW), 487 lb⋅ft (660 N·m),Epic
+396,2010 Lamborghini Murci%C3%A9lago LP 670-4 SV,Italy,6.5L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 42%/58%,641 bhp (478 kW), 487 lb⋅ft (660 N·m),Legendary
+397,2008 Lamborghini Revent%C3%B3n,Italy,6.5L Naturally-Aspirated V12,Mid-Engined,7-speed Transmission, 43%/57%,759 bhp (566 kW), 531 lb⋅ft (720 N·m),Legendary
+398,2020 Lamborghini SC20,Italy,5.2L Naturally-Aspirated V10,Mid-Engined,6-speed Transmission, 43%/57%,571 bhp (426 kW), 398 lb⋅ft (540 N·m),Legendary
+399,2011 Lamborghini Sesto Elemento,Italy,5.2L Naturally-Aspirated V10,Mid-Engined,6-speed Transmission, 43%/57%,571 bhp (426 kW), 398 lb⋅ft (540 N·m),Legendary
+400,2011 Lamborghini Sesto Elemento,Italy,6.5L Naturally-Aspirated Hybrid V12,Mid-Engined,7-speed Transmission, 43%/57%,808 bhp (603 kW), 557 lb⋅ft (755 N·m),Epic
+401,2020 Lamborghini Si%C3%A1n Roadster,Italy,4.0L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 52%/48%,641 bhp (478 kW), 626 lb⋅ft (849 N·m),Rare
+402,2019 Lamborghini Urus,Italy,6.5L Naturally-Aspirated V12,Mid-Engined,7-speed Transmission, 43%/57%,740 bhp (552 kW), 508 lb⋅ft (689 N·m),Legendary
+403,2013 Lamborghini Veneno,Italy,2.0L Supercharged I4,Mid-Engined,5-speed Transmission, 44%/56%,202 bhp (151 kW), 172 lb⋅ft (233 N·m),Rare
+404,1982 Lancia 037 Stradale,Italy,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 63%/37%,210 bhp (157 kW), 224 lb⋅ft (304 N·m),Common
+405,1992 Lancia Delta HF Integrale Evo,Italy,1.7L Twin-Charged I4,Mid-Engined,5-speed Transmission, 45%/55%,247 bhp (184 kW), 214 lb⋅ft (290 N·m),Rare
+406,1986 Lancia Delta S4,Italy,2.4L Naturally-Aspirated V6,Mid-Engined,5-speed Transmission, 46%/54%,190 bhp (142 kW), 165 lb⋅ft (224 N·m),Rare
+407,1974 Lancia Stratos HF Stradale,United Kingdom,3.9L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 52%/48%,182 bhp (136 kW), 232 lb⋅ft (315 N·m),Common
+408,1997 Land Rover Defender 90,United Kingdom,3.0L Turbocharged Hybrid I6 (P400),Front-Engined,8-speed Transmission, 55%/45%,395 bhp (295 kW), 406 lb⋅ft (550 N·m),Common
+409,2020 Land Rover Defender 110 X,United Kingdom,3.5L Naturally-Aspirated V8,Front-Engined,info_not_found, 50%/50%,135 bhp (101 kW), 185 lb⋅ft (251 N·m),Common
+410,1973 Land Rover Range Rover,United Kingdom,5.0L Supercharged V8,Front-Engined,8-speed Transmission, 52%/48%,550 bhp (410 kW), 502 lb⋅ft (680 N·m),Rare
+411,2015 Land Rover Range Rover Sport SVR,United Kingdom,3.0L Supercharged V6,Front-Engined,8-speed Transmission, 49%/51%,375 bhp (280 kW), 332 lb⋅ft (450 N·m),Rare
+412,2018 Land Rover Range Rover Velar First Edition,United Kingdom,2.2L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 57%/43%,69 bhp (51 kW), 120 lb⋅ft (163 N·m),Common
+413,1972 Land Rover Series III,United States of America,4.8L Naturally-Aspirated V10,Front-Engined,6-speed Transmission, 48%/52%,552 bhp (412 kW), 354 lb⋅ft (480 N·m),Epic
+414,2010 Lexus LFA,United States of America,5.0L Naturally-Aspirated V8,Front-Engined,8-speed Transmission, 55%/45%,467 bhp (348 kW), 388 lb⋅ft (526 N·m),Epic
+415,2015 Lexus RC F,United States of America,3.0L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 53%/47%,225 bhp (168 kW), 210 lb⋅ft (285 N·m),Rare
+416,1997 Lexus SC300,United States of America,6.2L Naturally-Aspirated V8,Mid-Engined,3-speed Transmission, 50%/50%,430 bhp (321 kW), 424 lb⋅ft (575 N·m),Rare
+417,2014 Local Motors Rally Fighter,United Kingdom,5.0L Naturally-Aspirated V8,Mid-Engined,5-speed Transmission, 36%/64%,460 bhp (343 kW), 395 lb⋅ft (536 N·m),Epic
+418,1969 Lola 6 Penske Sunoco T70 MkIIIB,United Kingdom,3.5L Supercharged V6,Mid-Engined,6-speed Transmission, 36%/64%,410 bhp (306 kW), 308 lb⋅ft (418 N·m),Epic
+419,2016 Lotus 3-Eleven,United Kingdom,1.6L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 47%/53%,126 bhp (94 kW), 113 lb⋅ft (153 N·m),Common
+420,1971 Lotus Elan Sprint,United Kingdom,3.5L Twin-Turbocharged V8,Mid-Engined,6-speed Transmission, 42%/58%,350 bhp (261 kW), 295 lb⋅ft (400 N·m),Legendary
+421,1997 Lotus Elise GT1,United Kingdom,1.8L Naturally-Aspirated I4,Mid-Engined,5-speed Transmission, 39%/61%,190 bhp (142 kW), 140 lb⋅ft (190 N·m),Common
+422,1999 Lotus Elise Series 1 Sport 190,United Kingdom,4x Electric Motors,Mid-Engined,1-speed Transmission, 48%/52%,1973 bhp (1471 kW), 1253 lb⋅ft (1699 N·m),Legendary
+423,2020 Lotus Evija,United Kingdom,3.5L Supercharged V6,Mid-Engined,6-speed Transmission, 41%/59%,345 bhp (257 kW), 295 lb⋅ft (400 N·m),Rare
+424,2012 Lotus Exige S,Italy,3.0L Supercharged I8,Front-Engined,4-speed Transmission, 55%/45%,360 bhp (268 kW), 332 lb⋅ft (450 N·m),Legendary
+425,1939 Maserati 8CTF,Italy,4.7L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 47%/53%,432 bhp (322 kW), 361 lb⋅ft (490 N·m),Epic
+426,2010 Maserati Gran Turismo S,Italy,4.7L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 47%/53%,432 bhp (322 kW), 361 lb⋅ft (490 N·m),Epic
+427,2010 Maserati Gran Turismo S,Italy,3.0L Twin-Turbocharged V6,Front-Engined,8-speed Transmission, 50%/50%,424 bhp (316 kW), 427 lb⋅ft (579 N·m),Common
+428,2017 Maserati Levante S,Italy,6.0L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 41%/59%,756 bhp (564 kW), 523 lb⋅ft (709 N·m),Legendary
+429,2008 Maserati MC12 Versione Corsa,Japan,1.8L Turbocharged I4,Front-Engined,6-speed Transmission, 52%/48%,178 bhp (133 kW), 166 lb⋅ft (225 N·m),Common
+430,2005 Mazda Mazdaspeed MX-5,Japan,2.0L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 51%/49%,167 bhp (125 kW), 140 lb⋅ft (190 N·m),Common
+431,2013 Mazda MX-5 (2013),Japan,2.0L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 50%/50%,155 bhp (116 kW), 148 lb⋅ft (200 N·m),Common
+432,2016 Mazda MX-5 (2016),Japan,1.8L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 51%/49%,128 bhp (95 kW), 110 lb⋅ft (149 N·m),Common
+433,1994 Mazda MX-5 Miata (1994),Japan,1.3L Twin-Turbocharged 2-Rotor Rotary,Front-Engined,5-speed Transmission, 50%/50%,261 bhp (195 kW), 217 lb⋅ft (294 N·m),Common
+434,1997 Mazda RX-7,Japan,1.3L Twin-Turbocharged 2-Rotor Rotary,Front-Engined,6-speed Transmission, 50%/50%,280 bhp (209 kW), 231 lb⋅ft (313 N·m),Rare
+435,2002 Mazda RX-7 Spirit R Type-A,Japan,1.3L Naturally-Aspirated 2-Rotor Rotary,Front-Engined,6-speed Transmission, 52%/48%,232 bhp (173 kW), 159 lb⋅ft (216 N·m),Rare
+436,2011 Mazda RX-8 R3,Japan,1.3L Turbocharged 2-Rotor Rotary,Front-Engined,5-speed Transmission, 51%/49%,200 bhp (149 kW), 196 lb⋅ft (266 N·m),Epic
+437,1990 Mazda Savanna RX-7,United Kingdom,3.8L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,562 bhp (419 kW), 443 lb⋅ft (600 N·m),Epic
+438,2015 McLaren 570S Coup%C3%A9,United Kingdom,3.8L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 43%/57%,591 bhp (441 kW), 457 lb⋅ft (620 N·m),Epic
+439,2018 McLaren 600LT Coup%C3%A9,United Kingdom,3.8L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 43%/57%,612 bhp (456 kW), 457 lb⋅ft (620 N·m),Epic
+440,2021 McLaren 620R,United Kingdom,3.8L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,641 bhp (478 kW), 502 lb⋅ft (680 N·m),Epic
+441,2015 McLaren 650S Coup%C3%A9,United Kingdom,3.8L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,641 bhp (478 kW), 500 lb⋅ft (678 N·m),Epic
+442,2014 McLaren 650S Spider,United Kingdom,4.0L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,710 bhp (529 kW), 568 lb⋅ft (770 N·m),Epic
+443,2018 McLaren 720S Coup%C3%A9,United Kingdom,4.0L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,711 bhp (530 kW), 567 lb⋅ft (769 N·m),Epic
+444,2019 McLaren 720S Spider,United Kingdom,4.0L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 41%/59%,755 bhp (563 kW), 590 lb⋅ft (800 N·m),Epic
+445,2021 McLaren 765LT,United Kingdom,6.1L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 41%/59%,627 bhp (468 kW), 480 lb⋅ft (651 N·m),Legendary
+446,1993 McLaren F1,United Kingdom,6.1L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 41%/59%,618 bhp (461 kW), 480 lb⋅ft (651 N·m),Legendary
+447,1997 McLaren F1 GT,United Kingdom,4.0L Twin-Turbocharged V8 (M840T),Mid-Engined,info_not_found, 43%/57%,611 bhp (456 kW), 464 lb⋅ft (629 N·m),Common
+448,2020 McLaren GT,United Kingdom,3.8L Twin-Turbocharged Hybrid V81x Electric Motor,Mid-Engined,7-speed Transmission, 42%/58%,903 bhp (673 kW), 664 lb⋅ft (900 N·m),Legendary
+449,2013 McLaren P1,United Kingdom,4.0L Twin-Turbocharged V8,Mid-Engined,7-speed Transmission, 42%/58%,789 bhp (588 kW), 590 lb⋅ft (800 N·m),Legendary
+450,2018 McLaren Senna,United Kingdom,4.0L Twin-Turbocharged Hybrid V8,Mid-Engined,7-speed Transmission, 42%/58%,1036 bhp (773 kW), 847 lb⋅ft (1148 N·m),Epic
+451,2019 McLaren Speedtail,Germany,4.0L Twin-Turbocharged V8,Front-Engined,7-speed Transmission, 53%/47%,503 bhp (375 kW), 516 lb⋅ft (700 N·m),Rare
+452,2016 Mercedes-AMG C 63 S Coup%C3%A9,Germany,4.0L Twin-Turbocharged V8,Front-Engined,9-speed Transmission, 55%/45%,603 bhp (450 kW), 626 lb⋅ft (849 N·m),Epic
+453,2018 Mercedes-AMG E 63 S,Germany,4.0L Twin-Turbocharged V8,Front-Engined,9-speed Transmission, 52%/48%,630 bhp (470 kW), 663 lb⋅ft (899 N·m),Epic
+454,2018 Mercedes-AMG GT 4-Door Coup%C3%A9,Germany,4.0L Twin-Turbocharged V8,Front-Engined,7-speed Transmission, 47%/53%,577 bhp (430 kW), 516 lb⋅ft (700 N·m),Epic
+455,2017 Mercedes-AMG GT R,Germany,4.0L Twin-Turbocharged V8,Front-Engined,7-speed Transmission, 47%/53%,503 bhp (375 kW), 479 lb⋅ft (650 N·m),Rare
+456,2015 Mercedes-AMG GT S,Germany,1.6L Turbocharged Hybrid V6,Mid-Engined,8-speed Transmission, 49%/51%,877 bhp (654 kW), 535 lb⋅ft (725 N·m),Legendary
+457,2021 Mercedes-AMG One,Germany,12.8L Turbocharged I6,Mid-Engined,10-speed Transmission, 60%/40%,1080 bhp (805 kW), 3685 lb⋅ft (4996 N·m),Epic
+458,2015 Mercedes-Benz 24 Tankpool24 Racing Truck,Germany,12.8L Turbocharged I6,Mid-Engined,10-speed Transmission, 60%/40%,1080 bhp (805 kW), 3685 lb⋅ft (4996 N·m),Epic
+459,2015 Mercedes-Benz 24 Tankpool24 Racing Truck,Germany,2.5L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 53%/47%,235 bhp (175 kW), 181 lb⋅ft (245 N·m),Rare
+460,1990 Mercedes-Benz 190E 2.5-16 Evolution II,Germany,3.0L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 48%/52%,241 bhp (180 kW), 217 lb⋅ft (294 N·m),Legendary
+461,1954 Mercedes-Benz 300 SL Coup%C3%A9,Germany,3.0L Naturally-Aspirated I8,Front-Engined,5-speed Transmission, 42%/58%,310 bhp (231 kW), 234 lb⋅ft (317 N·m),Legendary
+462,1955 Mercedes-Benz 300 SLR,Germany,2.0L Turbocharged I4,Front-Engined,7-speed Transmission, 60%/40%,355 bhp (265 kW), 332 lb⋅ft (450 N·m),Rare
+463,2013 Mercedes-Benz A 45 AMG,Germany,6.9L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 42%/58%,622 bhp (464 kW), 539 lb⋅ft (731 N·m),Legendary
+464,1998 Mercedes-Benz AMG CLK GTR,Germany,6.9L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 42%/58%,622 bhp (464 kW), 539 lb⋅ft (731 N·m),Legendary
+465,1998 Mercedes-Benz AMG CLK GTR,Germany,6.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 53%/47%,379 bhp (283 kW), 417 lb⋅ft (565 N·m),Common
+466,1987 Mercedes-Benz AMG Hammer Coupe,Germany,6.2L Naturally-Aspirated V8,Front-Engined,7-speed Transmission, 54%/46%,510 bhp (380 kW), 457 lb⋅ft (620 N·m),Rare
+467,2012 Mercedes-Benz C 63 AMG Coup%C3%A9 Black Series,Germany,5.5L Twin-Turbocharged V8,Front-Engined,7-speed Transmission, 55%/45%,577 bhp (430 kW), 590 lb⋅ft (800 N·m),Rare
+468,2013 Mercedes-Benz E 63 AMG (2013),Germany,5.5L Twin-Turbocharged V8,Front-Engined,7-speed Transmission, 47%/53%,536 bhp (400 kW), 560 lb⋅ft (760 N·m),Epic
+469,2014 Mercedes-Benz G 63 AMG 6x6,Germany,6.0L Twin-Turbocharged V12,Front-Engined,7-speed Transmission, 55%/45%,603 bhp (450 kW), 737 lb⋅ft (1000 N·m),Rare
+470,2013 Mercedes-Benz G 65 AMG,Germany,6.0L Twin-Turbocharged V12,Front-Engined,5-speed Transmission, 52%/48%,661 bhp (493 kW), 738 lb⋅ft (1001 N·m),Epic
+471,2009 Mercedes-Benz SL 65 AMG Black Series,Germany,5.5L Naturally-Aspirated V8,Front-Engined,7-speed Transmission, 50%/50%,415 bhp (309 kW), 398 lb⋅ft (540 N·m),Rare
+472,2012 Mercedes-Benz SLK 55 AMG,Germany,6.2L Naturally-Aspirated V8,Front-Engined,7-speed Transmission, 47%/53%,571 bhp (426 kW), 479 lb⋅ft (650 N·m),Epic
+473,2011 Mercedes-Benz SLS AMG,Germany,7.1L Supercharged I6,Front-Engined,4-speed Transmission, 52%/48%,200 bhp (149 kW), 332 lb⋅ft (450 N·m),Legendary
+474,1929 Mercedes-Benz Super Sport Kurz Barker Roadster,Germany,5.1L Turbocharged I4,Front-Engined,8-speed Transmission, 53%/47%,228 bhp (170 kW), 663 lb⋅ft (899 N·m),Rare
+475,2014 Mercedes-Benz Unimog U5023,Germany,3.0L Supercharged V12,Front-Engined,5-speed Transmission, 50%/50%,483 bhp (360 kW), 361 lb⋅ft (490 N·m),Legendary
+476,1939 Mercedes-Benz W154,Germany,2.3L Twin-Turbocharged I4,Front-Engined,7-speed Transmission, 52%/48%,188 bhp (140 kW), 332 lb⋅ft (450 N·m),Common
+477,2018 Mercedes-Benz X-Class,United States of America,7.0L Naturally-Aspirated V8 (Super Cobra Jet),Front-Engined,4-speed Transmission, 57%/43%,370 bhp (276 kW), 450 lb⋅ft (610 N·m),Rare
+478,1970 Mercury Cyclone Spoiler,United States of America,1.5L Naturally-Aspirated F4,Rear-Engined,4-speed Transmission, 35%/65%,60 bhp (45 kW), 82 lb⋅ft (111 N·m),Epic
+479,1971 Meyers Manx,United States of America,1.5L Naturally-Aspirated F4,Rear-Engined,4-speed Transmission, 35%/65%,60 bhp (45 kW), 82 lb⋅ft (111 N·m),Epic
+480,1971 Meyers Manx,United Kingdom,3.0L Naturally-Aspirated V6,Mid-Engined,5-speed Transmission, 45%/55%,410 bhp (306 kW), 270 lb⋅ft (366 N·m),Legendary
+481,1986 MG Metro 6R4,United Kingdom,1.3L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 60%/40%,75 bhp (56 kW), 80 lb⋅ft (108 N·m),Rare
+482,1965 MINI Cooper S,United Kingdom,1.3L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 60%/40%,75 bhp (56 kW), 80 lb⋅ft (108 N·m),Rare
+483,1965 MINI Cooper S,United Kingdom,1.6L Turbocharged I4,Front-Engined,6-speed Transmission, 62%/38%,208 bhp (155 kW), 192 lb⋅ft (260 N·m),Common
+484,2009 MINI John Cooper Works,United Kingdom,2.0L Turbocharged I4,Front-Engined,8-speed Transmission, 58%/42%,228 bhp (170 kW), 258 lb⋅ft (350 N·m),Common
+485,2018 MINI John Cooper Works Countryman All4,United Kingdom,1.6L Turbocharged I4,Front-Engined,6-speed Transmission, 61%/39%,215 bhp (160 kW), 206 lb⋅ft (280 N·m),Rare
+486,2012 MINI John Cooper Works GP (2012),United Kingdom,2.0L Turbocharged I4,Front-Engined,8-speed Transmission, 64%/36%,302 bhp (225 kW), 332 lb⋅ft (450 N·m),Rare
+487,2021 MINI John Cooper Works GP (2021),United Kingdom,3.0L Twin-Turbocharged I6,Front-Engined,6-speed Transmission, 55%/45%,307 bhp (229 kW), 516 lb⋅ft (700 N·m),Epic
+488,2014 MINI X-Raid All4 Racing Countryman,United Kingdom,3.0L Twin-Turbocharged I6,Front-Engined,6-speed Transmission, 58%/42%,340 bhp (254 kW), 590 lb⋅ft (800 N·m),Epic
+489,2018 MINI X-Raid John Cooper Works Buggy,Japan,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 59%/41%,210 bhp (157 kW), 214 lb⋅ft (290 N·m),Common
+490,1995 Mitsubishi Eclipse GSX,Japan,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 58%/42%,237 bhp (177 kW), 224 lb⋅ft (304 N·m),Rare
+491,1992 Mitsubishi Galant VR-4,Japan,3.0L Twin-Turbocharged V6,Front-Engined,6-speed Transmission, 61%/39%,320 bhp (239 kW), 315 lb⋅ft (427 N·m),Common
+492,1997 Mitsubishi GTO,Japan,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 60%/40%,286 bhp (213 kW), 289 lb⋅ft (392 N·m),Rare
+493,2006 Mitsubishi Lancer Evolution IX MR,Japan,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 58%/42%,280 bhp (209 kW), 300 lb⋅ft (407 N·m),Rare
+494,1999 Mitsubishi Lancer Evolution VI GSR,Japan,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 60%/40%,277 bhp (207 kW), 295 lb⋅ft (400 N·m),Rare
+495,2004 Mitsubishi Lancer Evolution VIII MR,Japan,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 60%/40%,305 bhp (227 kW), 314 lb⋅ft (426 N·m),Rare
+496,2008 Mitsubishi Lancer Evolution X GSR,Japan,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 60%/40%,305 bhp (227 kW), 314 lb⋅ft (426 N·m),Rare
+497,2008 Mitsubishi Lancer Evolution X GSR,Japan,2.6L Turbocharged I4,Front-Engined,5-speed Transmission, 53%/47%,188 bhp (140 kW), 233 lb⋅ft (316 N·m),Rare
+498,1988 Mitsubishi Starion ESI-R,United Kingdom,2.0L Naturally-Aspirated V2,Front-Engined,5-speed Transmission, 61%/39%,82 bhp (61 kW), 103 lb⋅ft (140 N·m),Common
+499,2014 Morgan 3 Wheeler,United Kingdom,0.8L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 58%/42%,34 bhp (25 kW), 44 lb⋅ft (60 N·m),Common
+500,1965 Morris Mini-Traveller,United Kingdom,1.0L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 52%/48%,37 bhp (28 kW), 48 lb⋅ft (65 N·m),Common
+501,1958 Morris Minor 1000,United Kingdom,1.0L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 52%/48%,37 bhp (28 kW), 48 lb⋅ft (65 N·m),Common
+502,1958 Morris Minor 1000,United Kingdom,0.8L Naturally-Aspirated I4,Front-Engined,info_not_found, 52%/48%,29 bhp (22 kW), 40 lb⋅ft (54 N·m),Common
+503,1953 Morris Minor Series II Traveler,United States of America,7.0L Naturally-Aspirated V8,Mid-Engined,6-speed Transmission, 43%/57%,520 bhp (388 kW), 504 lb⋅ft (683 N·m),Rare
+504,2006 Mosler MT900 GT3,United States of America,7.0L Supercharged V8,Mid-Engined,6-speed Transmission, 40%/60%,530 bhp (395 kW), 515 lb⋅ft (698 N·m),Epic
+505,2010 Mosler MT900S,United Kingdom,24.0L Naturally-Aspirated W12,Front-Engined,3-speed Transmission, 54%/46%,564 bhp (421 kW), 1249 lb⋅ft (1693 N·m),Legendary
+506,1933 Napier Napier-Railton,Japan,2.4L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 53%/47%,155 bhp (116 kW), 160 lb⋅ft (217 N·m),Common
+507,1993 Nissan 240SX SE,Japan,3.7L Naturally-Aspirated V6,Front-Engined,6-speed Transmission, 53%/47%,332 bhp (248 kW), 270 lb⋅ft (366 N·m),Common
+508,2010 Nissan 370Z,Japan,3.5L Naturally-Aspirated V6,Front-Engined,6-speed Transmission, 53%/47%,287 bhp (214 kW), 273 lb⋅ft (370 N·m),Common
+509,2003 Nissan Fairlady Z,Japan,3.5L Naturally-Aspirated V6,Front-Engined,6-speed Transmission, 53%/47%,287 bhp (214 kW), 273 lb⋅ft (370 N·m),Common
+510,2003 Nissan Fairlady Z,Japan,2.0L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 51%/49%,160 bhp (119 kW), 133 lb⋅ft (180 N·m),Epic
+511,1969 Nissan Fairlady Z 432,Japan,3.0L Twin-Turbocharged V6,Front-Engined,5-speed Transmission, 54%/46%,276 bhp (206 kW), 283 lb⋅ft (384 N·m),Common
+512,1994 Nissan Fairlady Z Version S Twin Turbo,Japan,3.8L Twin-Turbocharged V6,Front-Engined,6-speed Transmission, 54%/46%,565 bhp (421 kW), 467 lb⋅ft (633 N·m),Rare
+513,2017 Nissan GT-R (2017),Japan,3.8L Twin-Turbocharged V6,Front-Engined,6-speed Transmission, 55%/45%,542 bhp (404 kW), 466 lb⋅ft (632 N·m),Rare
+514,2012 Nissan GT-R Black Edition,Japan,2.6L Twin-Turbocharged I6,Front-Engined,5-speed Transmission, 54%/46%,300 bhp (224 kW), 275 lb⋅ft (373 N·m),Legendary
+515,1995 Nissan Nismo GT-R LM,Japan,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 62%/38%,227 bhp (169 kW), 209 lb⋅ft (283 N·m),Rare
+516,1991 Nissan Pulsar GTI-R,Japan,3.5L Naturally-Aspirated V6,Front-Engined,6-speed Transmission, 51%/49%,268 bhp (200 kW), 265 lb⋅ft (359 N·m),Epic
+517,2004 Nissan Pickup 23 Rally Raid,Japan,3.5L Twin-Turbocharged V8,Mid-Engined,5-speed Transmission, 42%/58%,550 bhp (410 kW), 471 lb⋅ft (639 N·m),Legendary
+518,1998 Nissan R390,Japan,3.3L Turbocharged I6,Front-Engined,5-speed Transmission, 58%/42%,108 bhp (81 kW), 188 lb⋅ft (255 N·m),Common
+519,1985 Nissan Safari Turbo,Japan,1.6L Turbocharged I4,Front-Engined,6-speed Transmission, 61%/39%,188 bhp (140 kW), 177 lb⋅ft (240 N·m),Rare
+520,2018 Nissan Sentra Nismo,Japan,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 55%/45%,202 bhp (151 kW), 202 lb⋅ft (274 N·m),Common
+521,1992 Nissan Silvia CLUB K%27s,Japan,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 54%/46%,217 bhp (162 kW), 202 lb⋅ft (274 N·m),Common
+522,1994 Nissan Silvia K%27s,Japan,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 54%/46%,217 bhp (162 kW), 202 lb⋅ft (274 N·m),Common
+523,1998 Nissan Silvia K%27s AERO,Japan,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 51%/49%,250 bhp (186 kW), 203 lb⋅ft (275 N·m),Common
+524,2000 Nissan Silvia Spec-R,Japan,2.0L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 54%/46%,160 bhp (119 kW), 133 lb⋅ft (180 N·m),Rare
+525,1971 Nissan Skyline 2000GT-R,Japan,2.6L Twin-Turbocharged I6,Front-Engined,5-speed Transmission, 58%/42%,276 bhp (206 kW), 261 lb⋅ft (354 N·m),Rare
+526,1993 Nissan Skyline GT-R V-Spec (1993),Japan,2.6L Twin-Turbocharged I6,Front-Engined,5-speed Transmission, 56%/44%,278 bhp (207 kW), 271 lb⋅ft (367 N·m),Rare
+527,1997 Nissan Skyline GT-R V-Spec (1997),Japan,2.6L Twin-Turbocharged I6,Front-Engined,6-speed Transmission, 57%/43%,327 bhp (244 kW), 293 lb⋅ft (397 N·m),Rare
+528,2002 Nissan Skyline GT-R V-Spec II,Japan,2.0L Turbocharged I6,Front-Engined,5-speed Transmission, 52%/48%,206 bhp (154 kW), 181 lb⋅ft (245 N·m),Common
+529,1987 Nissan Skyline GTS-R (R31),Japan,2.0L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 55%/45%,158 bhp (118 kW), 130 lb⋅ft (176 N·m),Epic
+530,1973 Nissan Skyline H/T 2000GT-R,Japan,5.0L Turbocharged V8,Front-Engined,6-speed Transmission, 57%/43%,310 bhp (231 kW), 555 lb⋅ft (752 N·m),Common
+531,2016 Nissan TITAN Warrior Concept,United Kingdom,4.4L Twin-Turbocharged V8,Mid-Engined,6-speed Transmission, 40%/60%,650 bhp (485 kW), 605 lb⋅ft (820 N·m),Epic
+532,2010 Noble M600,Germany,2.4L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 55%/45%,275 bhp (205 kW), 221 lb⋅ft (300 N·m),Rare
+533,1984 Opel Manta 400,Italy,6.0L Twin-Turbocharged V12,Mid-Engined,7-speed Transmission, 44%/56%,740 bhp (552 kW), 737 lb⋅ft (1000 N·m),Legendary
+534,2016 Pagani Huayra BC,Italy,6.0L Twin-Turbocharged V12,Mid-Engined,7-speed Transmission, 44%/56%,740 bhp (552 kW), 737 lb⋅ft (1000 N·m),Legendary
+535,2016 Pagani Huayra BC,Italy,7.3L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 47%/53%,678 bhp (506 kW), 575 lb⋅ft (780 N·m),Legendary
+536,2009 Pagani Zonda Cinque Roadster,Italy,7.3L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 47%/53%,678 bhp (506 kW), 575 lb⋅ft (780 N·m),Legendary
+537,2009 Pagani Zonda Cinque Roadster,Italy,6.0L Naturally-Aspirated V12,Mid-Engined,6-speed Transmission, 46%/54%,739 bhp (551 kW), 523 lb⋅ft (710 N·m),Legendary
+538,2010 Pagani Zonda R,United Kingdom,0.048L Naturally-Aspirated I1,Mid-Engined,3-speed Transmission, 50%/50%,4 bhp (3 kW), 6 lb⋅ft (8 N·m),Legendary
+539,1962 Peel P50,United Kingdom,0.048L Naturally-Aspirated I1,Front-Engined,3-speed Transmission, 50%/50%,4 bhp (3 kW), 6 lb⋅ft (8 N·m),Rare
+540,1965 Peel Trident,United States of America,2.3L Naturally-Aspirated I4,Rear-Engined,6-speed Transmission, 45%/55%,196 bhp (146 kW), 190 lb⋅ft (258 N·m),Rare
+541,2011 Penhall The Cholla,France,1.3L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 65%/35%,99 bhp (74 kW), 87 lb⋅ft (118 N·m),Rare
+542,1991 Peugeot 205 Rallye,France,1.8L Turbocharged I4,Mid-Engined,5-speed Transmission, 45%/55%,200 bhp (149 kW), 188 lb⋅ft (255 N·m),Legendary
+543,1984 Peugeot 205 T16,France,2.0L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 58%/42%,280 bhp (209 kW), 184 lb⋅ft (249 N·m),Rare
+544,2007 Peugeot 207 Super 2000,United States of America,6.3L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 56%/44%,300 bhp (224 kW), 400 lb⋅ft (542 N·m),Rare
+545,1968 Plymouth Barracuda Formula-S,United States of America,7.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 58%/42%,425 bhp (317 kW), 490 lb⋅ft (664 N·m),Epic
+546,1971 Plymouth Cuda 426 HEMI,United States of America,5.7L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 57%/43%,305 bhp (227 kW), 370 lb⋅ft (502 N·m),Rare
+547,1958 Plymouth Fury,United States of America,1.0L Naturally-Aspirated I2,Rear-Engined,2-speed Transmission, 45%/55%,110 bhp (82 kW), 70 lb⋅ft (95 N·m),Common
+548,2015 Polaris RZR XP 1000 EPS,United States of America,6.6L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 58%/42%,201 bhp (150 kW), 325 lb⋅ft (441 N·m),Rare
+549,1977 Pontiac Firebird Trans Am (1977),United States of America,5.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 57%/43%,216 bhp (161 kW), 315 lb⋅ft (427 N·m),Common
+550,1987 Pontiac Firebird Trans Am GTA,United States of America,5.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 57%/43%,216 bhp (161 kW), 315 lb⋅ft (427 N·m),Common
+551,1987 Pontiac Firebird Trans Am GTA,United States of America,7.5L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 58%/42%,372 bhp (277 kW), 480 lb⋅ft (651 N·m),Common
+552,1973 Pontiac Firebird Trans Am SD-455,United States of America,6.4L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 58%/42%,360 bhp (268 kW), 424 lb⋅ft (575 N·m),Common
+553,1965 Pontiac GTO (1965),Germany,4.9L Naturally-Aspirated F12,Mid-Engined,5-speed Transmission, 36%/64%,601 bhp (448 kW), 415 lb⋅ft (563 N·m),Legendary
+554,1970 Porsche 3 917 LH,Germany,4.5L Naturally-Aspirated F12,Mid-Engined,5-speed Transmission, 36%/64%,601 bhp (448 kW), 415 lb⋅ft (563 N·m),Legendary
+555,1971 Porsche 23 917/20,Germany,3.6L Naturally-Aspirated F6,Rear-Engined,5-speed Transmission, 42%/58%,325 bhp (242 kW), 287 lb⋅ft (389 N·m),Epic
+556,1989 Porsche 65 Rothsport Racing 911 %22Desert Flyer%22,Germany,2.8L Twin-Turbocharged F6,Rear-Engined,6-speed Transmission, 44%/56%,394 bhp (294 kW), 320 lb⋅ft (434 N·m),Legendary
+557,1986 Porsche 185 959 Prodrive Rally Raid,Germany,1.6L Naturally-Aspirated F4,Rear-Engined,4-speed Transmission, 45%/55%,75 bhp (56 kW), 86 lb⋅ft (117 N·m),Epic
+558,1959 Porsche 356 A 1600 Super,Germany,2.3L Naturally-Aspirated F4,Rear-Engined,5-speed Transmission, 41%/59%,220 bhp (164 kW), 181 lb⋅ft (245 N·m),Epic
+559,1964 Porsche 356 C Cabriolet Emory Special,Germany,1.5L Naturally-Aspirated F4,Mid-Engined,5-speed Transmission, 48%/52%,109 bhp (81 kW), 95 lb⋅ft (129 N·m),Legendary
+560,1955 Porsche 550A Spyder,Germany,2.5L Turbocharged F4,Mid-Engined,7-speed Transmission, 44%/56%,361 bhp (269 kW), 317 lb⋅ft (430 N·m),Epic
+561,2018 Porsche 718 Cayman GTS,Germany,4.0L Naturally-Aspirated F6,Rear-Engined,6-speed Transmission, 42%/58%,431 bhp (321 kW), 315 lb⋅ft (427 N·m),Epic
+562,1995 Porsche 911 Carrera 2 by Gunther Werks,Germany,2.7L Naturally-Aspirated F6,Rear-Engined,5-speed Transmission, 41%/59%,207 bhp (154 kW), 188 lb⋅ft (255 N·m),Legendary
+563,1973 Porsche 911 Carrera RS,Germany,3.0L Twin-Turbocharged F6,Rear-Engined,8-speed Transmission, 45%/55%,444 bhp (331 kW), 391 lb⋅ft (530 N·m),Rare
+564,2019 Porsche 911 Carrera S,Germany,3.2L Twin-Turbocharged F6,Mid-Engined,6-speed Transmission, 48%/52%,536 bhp (400 kW), 443 lb⋅ft (600 N·m),Legendary
+565,1998 Porsche 911 GT1 Strassenversion,Germany,3.6L Twin-Turbocharged F6,Rear-Engined,6-speed Transmission, 38%/62%,424 bhp (316 kW), 398 lb⋅ft (540 N·m),Epic
+566,1995 Porsche 911 GT2 (1995),Germany,3.6L Twin-Turbocharged F6,Rear-Engined,6-speed Transmission, 39%/61%,611 bhp (456 kW), 516 lb⋅ft (700 N·m),Epic
+567,2012 Porsche 911 GT2 RS (2012),Germany,3.8L Twin-Turbocharged F6,Rear-Engined,7-speed Transmission, 40%/60%,691 bhp (515 kW), 553 lb⋅ft (750 N·m),Epic
+568,2018 Porsche 911 GT2 RS (2018),Germany,3.6L Naturally-Aspirated F6,Rear-Engined,6-speed Transmission, 38%/62%,381 bhp (284 kW), 284 lb⋅ft (385 N·m),Rare
+569,2004 Porsche 911 GT3 (2004),Germany,4.0L Naturally-Aspirated F6,Rear-Engined,7-speed Transmission, 39%/61%,493 bhp (368 kW), 339 lb⋅ft (460 N·m),Epic
+570,2016 Porsche 911 GT3 RS (2016),Germany,4.0L Naturally-Aspirated F6,Rear-Engined,7-speed Transmission, 39%/61%,514 bhp (383 kW), 346 lb⋅ft (469 N·m),Epic
+571,2019 Porsche 911 GT3 RS (2019),Germany,4.0L Naturally-Aspirated F6,Rear-Engined,7-speed Transmission, 39%/61%,514 bhp (383 kW), 346 lb⋅ft (469 N·m),Epic
+572,2019 Porsche 911 GT3 RS (2019),Germany,4.0L Naturally-Aspirated F6,Rear-Engined,6-speed Transmission, 40%/60%,493 bhp (368 kW), 339 lb⋅ft (460 N·m),Epic
+573,2012 Porsche 911 GT3 RS 4.0,Germany,3.9L Naturally-Aspirated F6,Rear-Engined,6-speed Transmission, 38%/62%,493 bhp (368 kW), 317 lb⋅ft (430 N·m),Epic
+574,1990 Porsche 911 reimagined by Singer - DLS,Germany,4.0L Naturally-Aspirated F6,Rear-Engined,6-speed Transmission, 39%/61%,503 bhp (375 kW), 346 lb⋅ft (469 N·m),Rare
+575,2019 Porsche 911 Speedster,Germany,3.8L Naturally-Aspirated F6,Rear-Engined,6-speed Transmission, 38%/62%,408 bhp (304 kW), 310 lb⋅ft (420 N·m),Epic
+576,2010 Porsche 911 Sport Classic,Germany,3.3L Turbocharged F6,Rear-Engined,4-speed Transmission, 40%/60%,296 bhp (221 kW), 304 lb⋅ft (412 N·m),Epic
+577,1982 Porsche 911 Turbo 3.3,Germany,3.8L Twin-Turbocharged F6,Rear-Engined,7-speed Transmission, 39%/61%,560 bhp (418 kW), 553 lb⋅ft (750 N·m),Rare
+578,2014 Porsche 911 Turbo S,Germany,2.0L Naturally-Aspirated F6,Mid-Engined,5-speed Transmission, 46%/54%,125 bhp (93 kW), 131 lb⋅ft (178 N·m),Rare
+579,1970 Porsche 914/6,Germany,4.6L Naturally-Aspirated Hybrid V82x Electric Motors,Mid-Engined,7-speed Transmission, 43%/57%,887 bhp (661 kW), 829 lb⋅ft (1125 N·m),Legendary
+580,2014 Porsche 918 Spyder,Germany,2.5L Turbocharged I4,Front-Engined,5-speed Transmission, 51%/49%,247 bhp (184 kW), 258 lb⋅ft (350 N·m),Rare
+581,1989 Porsche 944 Turbo,Germany,3.0L Turbocharged I4,Front-Engined,5-speed Transmission, 51%/49%,305 bhp (227 kW), 369 lb⋅ft (500 N·m),Rare
+582,1993 Porsche 968 Turbo S,Germany,2.8L Twin-Turbocharged F6,Rear-Engined,6-speed Transmission, 43%/57%,450 bhp (336 kW), 369 lb⋅ft (500 N·m),Legendary
+583,1987 Porsche 959,Germany,5.7L Naturally-Aspirated V10,Mid-Engined,6-speed Transmission, 42%/58%,605 bhp (451 kW), 435 lb⋅ft (590 N·m),Epic
+584,2003 Porsche Carrera GT,Germany,4.0L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 52%/48%,550 bhp (410 kW), 568 lb⋅ft (770 N·m),Epic
+585,2018 Porsche Cayenne Turbo (2018),Germany,3.8L Naturally-Aspirated F6,Mid-Engined,6-speed Transmission, 44%/56%,385 bhp (287 kW), 310 lb⋅ft (420 N·m),Rare
+586,2016 Porsche Cayman GT4,Germany,3.4L Naturally-Aspirated F6,Mid-Engined,7-speed Transmission, 46%/54%,340 bhp (254 kW), 280 lb⋅ft (380 N·m),Rare
+587,2015 Porsche Cayman GTS,Germany,5.0L Naturally-Aspirated V8 (Ford Coyote),Front-Engined,6-speed Transmission, 53%/47%,360 bhp (268 kW), 442 lb⋅ft (599 N·m),Epic
+588,2018 Porsche Macan LPR Rally Raid,Germany,2.9L Twin-Turbocharged V6,Front-Engined,7-speed Transmission, 57%/43%,434 bhp (324 kW), 405 lb⋅ft (549 N·m),Rare
+589,2019 Porsche Macan Turbo (2019),Germany,4.0L Twin-Turbocharged V8,Front-Engined,8-speed Transmission, 55%/45%,550 bhp (410 kW), 568 lb⋅ft (770 N·m),Rare
+590,2017 Porsche Panamera Turbo (2017),Germany,2x electric motors (AC synchronous),Rear-Engined,2-speed Transmission, 49%/51%,752 bhp (561 kW), 774 lb⋅ft (1049 N·m),Common
+591,2020 Porsche Taycan Turbo S,Germany,2x electric motors (AC synchronous),Rear-Engined,2-speed Transmission, 49%/51%,752 bhp (561 kW), 774 lb⋅ft (1049 N·m),Common
+592,2020 Porsche Taycan Turbo S,United Kingdom,3.5L Twin-Turbocharged V6,Mid-Engined,7-speed Transmission, 41%/59%,454 bhp (339 kW), 500 lb⋅ft (678 N·m),Epic
+593,2015 Radical RXC Turbo,United States of America,6x electric motors,Mid-Engined,1-speed Transmission, 46%/54%,1251 bhp (933 kW), 3653 lb⋅ft (4953 N·m),Epic
+594,2019 RAESR Tachyon Speed,United States of America,6.4L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 59%/41%,410 bhp (306 kW), 429 lb⋅ft (582 N·m),Common
+595,2017 RAM 2500 Power Wagon,United Kingdom,0.7L Naturally-Aspirated I4,Front-Engined,4-speed Transmission, 44%/56%,32 bhp (24 kW), 38 lb⋅ft (52 N·m),Common
+596,1972 Reliant Supervan III,France,0.75L Naturally-Aspirated I4 (680),Front-Engined,4-speed Transmission, 58%/42%,27 bhp (20 kW), 41 lb⋅ft (56 N·m),Legendary
+597,1968 Renault 4L Export,France,1.4L Turbocharged I4,Mid-Engined,5-speed Transmission, 40%/60%,157 bhp (117 kW), 163 lb⋅ft (221 N·m),Rare
+598,1980 Renault 5 Turbo,France,1.3L Naturally-Aspirated I4 (C-Type 812),Rear-Engined,5-speed Transmission, 40%/60%,103 bhp (77 kW), 86 lb⋅ft (117 N·m),Common
+599,1967 Renault 8 Gordini,France,2.0L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 63%/37%,198 bhp (148 kW), 159 lb⋅ft (216 N·m),Common
+600,2010 Renault Clio R.S.,France,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 65%/35%,270 bhp (201 kW), 265 lb⋅ft (359 N·m),Rare
+601,2016 Renault Clio R.S. 16 Concept,France,1.6L Turbocharged I4,Front-Engined,6-speed Transmission, 65%/35%,197 bhp (147 kW), 177 lb⋅ft (240 N·m),Common
+602,2013 Renault Clio R.S. 200 EDC,France,2.0L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 64%/36%,142 bhp (106 kW), 129 lb⋅ft (175 N·m),Common
+603,1993 Renault Clio Williams,France,1.8L Turbocharged I4,Front-Engined,7-speed Transmission, 61%/39%,275 bhp (205 kW), 287 lb⋅ft (389 N·m),Rare
+604,2018 Renault Megane R.S.,France,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 65%/35%,250 bhp (186 kW), 251 lb⋅ft (340 N·m),Common
+605,2010 Renault Megane R.S. 250,France,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 66%/34%,227 bhp (169 kW), 228 lb⋅ft (309 N·m),Rare
+606,2008 Renault M%C3%A9gane R26.R,Croatia,4 liquid-cooled permanent magnet synchronous electric motors,Mid-Engined,2-speed Transmission, 48%/52%,1887 bhp (1407 kW), 1695 lb⋅ft (2298 N·m),Legendary
+607,2019 Rimac Concept Two,United States of America,7.2L Naturally-Aspirated V8,Front-Engined,3-speed Transmission, 48%/52%,850 bhp (634 kW), 640 lb⋅ft (868 N·m),Epic
+608,2016 RJ Anderson 37 Polaris RZR-Rockstar Energy Pro 2 Truck,United States of America,2.5L Turbocharged I4,Mid-Engined,6-speed Transmission, 42%/58%,456 bhp (340 kW), 600 lb⋅ft (813 N·m),Epic
+609,2018 Saleen S1,United States of America,7.0L Naturally-Aspirated V8,Mid-Engined,6-speed Transmission, 40%/60%,575 bhp (429 kW), 570 lb⋅ft (773 N·m),Epic
+610,2004 Saleen S7,United Kingdom,3.3L Twin-Turbocharged F6,Mid-Engined,5-speed Transmission, 45%/55%,600 bhp (447 kW), 479 lb⋅ft (649 N·m),Common
+611,1993 Schuppan 962CR,United States of America,7.0L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 52%/48%,425 bhp (317 kW), 500 lb⋅ft (678 N·m),Legendary
+612,1965 Shelby Cobra 427 S/C,United States of America,4.7L Naturally-Aspirated V8,Front-Engined,4-speed Transmission, 53%/47%,390 bhp (291 kW), 341 lb⋅ft (462 N·m),Legendary
+613,1965 Shelby Cobra Daytona Coup%C3%A9,United States of America,1.3L Turbocharged I4,Mid-Engined,6-speed Transmission, 43%/57%,600 bhp (447 kW), 287 lb⋅ft (389 N·m),Epic
+614,2020 Sierra Cars 23 Yokohama Alpha,United States of America,1.3L Naturally-Aspirated I4 (Hayabusa),Mid-Engined,6-speed Transmission, 45%/55%,194 bhp (145 kW), 114 lb⋅ft (155 N·m),Rare
+615,2021 Sierra Cars RX3,Japan,1.6L Naturally-Aspirated F4,Front-Engined,4-speed Transmission, 63%/37%,69 bhp (51 kW), 84 lb⋅ft (114 N·m),Common
+616,1980 Subaru BRAT GL,Japan,2.0L Naturally-Aspirated F4,Front-Engined,6-speed Transmission, 55%/45%,200 bhp (149 kW), 151 lb⋅ft (205 N·m),Common
+617,2013 Subaru BRZ,Japan,2.2L Turbocharged F4,Front-Engined,5-speed Transmission, 58%/42%,276 bhp (206 kW), 265 lb⋅ft (360 N·m),Legendary
+618,1998 Subaru Impreza 22B STi,Japan,2.0L Turbocharged F4,Front-Engined,6-speed Transmission, 58%/42%,278 bhp (207 kW), 290 lb⋅ft (394 N·m),Common
+619,2004 Subaru Impreza WRX STi (2004),Japan,2.0L Turbocharged F4,Front-Engined,6-speed Transmission, 58%/42%,311 bhp (232 kW), 311 lb⋅ft (422 N·m),Common
+620,2005 Subaru Impreza WRX STi (2005),Japan,2.5L Turbocharged F4,Front-Engined,6-speed Transmission, 58%/42%,305 bhp (227 kW), 335 lb⋅ft (455 N·m),Rare
+621,2008 Subaru Impreza WRX STI (2008),Japan,2.0L Turbocharged F4,Front-Engined,5-speed Transmission, 57%/43%,217 bhp (162 kW), 199 lb⋅ft (270 N·m),Common
+622,1990 Subaru Legacy RS,Japan,2.5L Turbocharged F4,Front-Engined,6-speed Transmission, 59%/41%,341 bhp (254 kW), 330 lb⋅ft (447 N·m),Common
+623,2019 Subaru STI S209,Japan,2.5L Turbocharged F4,Front-Engined,6-speed Transmission, 58%/42%,305 bhp (227 kW), 290 lb⋅ft (393 N·m),Rare
+624,2011 Subaru WRX STI (2011),Japan,2.5L Turbocharged F4,Front-Engined,6-speed Transmission, 59%/41%,305 bhp (227 kW), 290 lb⋅ft (394 N·m),Common
+625,2015 Subaru WRX STI (2015),Japan,2.0L Turbocharged F4,Front-Engined,6-speed Transmission, 51%/49%,600 bhp (447 kW), 479 lb⋅ft (649 N·m),Common
+626,2018 Subaru WRX STI ARX Supercar,Japan,3.4L Naturally-Aspirated V6,Mid-Engined,5-speed Transmission, 40%/60%,360 bhp (268 kW), 265 lb⋅ft (359 N·m),Legendary
+627,1993 Toyota 1 T100 Baja Truck,Japan,2.0L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 51%/49%,150 bhp (112 kW), 130 lb⋅ft (176 N·m),Epic
+628,1969 Toyota 2000GT,Japan,2.0L Naturally-Aspirated F4,Front-Engined,6-speed Transmission, 55%/45%,197 bhp (147 kW), 151 lb⋅ft (205 N·m),Rare
+629,2013 Toyota GT86,Japan,2.0L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 58%/42%,97 bhp (72 kW), 106 lb⋅ft (144 N·m),Rare
+630,1974 Toyota Celica GT,Japan,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 60%/40%,232 bhp (173 kW), 224 lb⋅ft (304 N·m),Rare
+631,1992 Toyota Celica GT-Four RC ST185,Japan,2.0L Turbocharged I4,Front-Engined,5-speed Transmission, 60%/40%,255 bhp (190 kW), 224 lb⋅ft (304 N·m),Epic
+632,1994 Toyota Celica GT-Four ST205,Japan,1.8L Naturally-Aspirated I4,Front-Engined,6-speed Transmission, 64%/36%,187 bhp (139 kW), 133 lb⋅ft (180 N·m),Rare
+633,2003 Toyota Celica SS-I,Japan,4.2L Naturally-Aspirated I6,Front-Engined,4-speed Transmission, 54%/46%,135 bhp (101 kW), 210 lb⋅ft (285 N·m),Common
+634,1979 Toyota FJ40,Japan,3.0L Turbocharged I6 (BMW B58),Front-Engined,8-speed Transmission, 51%/49%,335 bhp (250 kW), 365 lb⋅ft (495 N·m),Rare
+635,2020 Toyota GR Supra,Japan,3.0L Turbocharged I4,Front-Engined,5-speed Transmission, 50%/50%,169 bhp (126 kW), 265 lb⋅ft (359 N·m),Rare
+636,2007 Toyota Hilux Arctic Trucks AT38,Japan,3.0L Turbocharged i4,Front-Engined,6-speed Transmission, 50%/50%,161 bhp (120 kW), 253 lb⋅ft (343 N·m),Rare
+637,2016 Toyota Land Cruiser Arctic Trucks AT37,Japan,2.0L Turbocharged I4,Mid-Engined,5-speed Transmission, 42%/58%,241 bhp (180 kW), 228 lb⋅ft (309 N·m),Rare
+638,1995 Toyota MR2 GT,Japan,1.6L Supercharged I4,Mid-Engined,5-speed Transmission, 43%/57%,145 bhp (108 kW), 140 lb⋅ft (190 N·m),Rare
+639,1989 Toyota MR2 SC,Japan,1.6L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 53%/47%,128 bhp (95 kW), 110 lb⋅ft (149 N·m),Epic
+640,1985 Toyota Sprinter Trueno GT Apex,Japan,2.0L Twin-Turbocharged I6,Front-Engined,5-speed Transmission, 53%/47%,206 bhp (154 kW), 203 lb⋅ft (275 N·m),Rare
+641,1992 Toyota Supra 2.0 GT,Japan,3.0L Twin-Turbocharged I6,Front-Engined,6-speed Transmission, 53%/47%,320 bhp (239 kW), 315 lb⋅ft (427 N·m),Rare
+642,1998 Toyota Supra RZ,Japan,3.0L Twin-Turbocharged I6,Front-Engined,6-speed Transmission, 53%/47%,320 bhp (239 kW), 315 lb⋅ft (427 N·m),Rare
+643,1998 Toyota Supra RZ,United Kingdom,7.7L Naturally-Aspirated V12,Front-Engined,6-speed Transmission, 53%/47%,800 bhp (597 kW), 649 lb⋅ft (880 N·m),Epic
+644,1998 TVR Cerbera Speed 12,United Kingdom,5.0L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 50%/50%,480 bhp (358 kW), 430 lb⋅ft (583 N·m),Rare
+645,2018 TVR Griffith,United Kingdom,4.0L Naturally-Aspirated I6,Front-Engined,5-speed Transmission, 53%/47%,406 bhp (303 kW), 349 lb⋅ft (473 N·m),Rare
+646,2005 TVR Sagaris,United Kingdom,6.8L Supercharged V8,Mid-Engined,6-speed Transmission, 38%/62%,1020 bhp (761 kW), 920 lb⋅ft (1248 N·m),Epic
+647,2015 Ultima Evolution Coupe 1020,United Kingdom,1.6L Turbocharged I4,Front-Engined,6-speed Transmission, 63%/37%,202 bhp (151 kW), 206 lb⋅ft (279 N·m),Common
+648,2016 Vauxhall Corsa VXR (2016),United Kingdom,3.6L Twin-Turbocharged I6,Front-Engined,6-speed Transmission, 55%/45%,379 bhp (283 kW), 419 lb⋅ft (568 N·m),Rare
+649,1990 Vauxhall Lotus Carlton,United Kingdom,6.0L Naturally-Aspirated V8,Front-Engined,6-speed Transmission, 53%/47%,398 bhp (297 kW), 391 lb⋅ft (530 N·m),Common
+650,2005 Vauxhall Monaro VXR,Germany,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 55%/45%,553 bhp (412 kW), 464 lb⋅ft (629 N·m),Epic
+651,2017 Volkswagen 34 Volkswagen Andretti Rallycross Beetle,Germany,1.6L Naturally-Aspirated F4,Rear-Engined,4-speed Transmission, 42%/58%,93 bhp (69 kW), 102 lb⋅ft (138 N·m),Rare
+652,1970 Volkswagen 1107 Desert Dingo Racing Stock Bug,Germany,1.2L Naturally-Aspirated F4,Rear-Engined,4-speed Transmission, 42%/58%,40 bhp (30 kW), 65 lb⋅ft (88 N·m),Legendary
+653,1963 Volkswagen Beetle,Germany,1.2L Naturally-Aspirated F4,Rear-Engined,4-speed Transmission, 42%/58%,40 bhp (30 kW), 65 lb⋅ft (88 N·m),Legendary
+654,1963 Volkswagen Beetle,Germany,1.6L Naturally-Aspirated I4,Rear-Engined,4-speed Transmission, 42%/58%,80 bhp (60 kW), 106 lb⋅ft (144 N·m),Rare
+655,1969 Volkswagen Class 5/1600 Baja Bug,Germany,2.8L Naturally-Aspirated V6,Front-Engined,5-speed Transmission, 58%/42%,178 bhp (133 kW), 177 lb⋅ft (240 N·m),Common
+656,1995 Volkswagen Corrado VR6,Germany,1.8L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 63%/37%,112 bhp (84 kW), 109 lb⋅ft (148 N·m),Common
+657,1983 Volkswagen Golf GTI,Germany,1.8L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 63%/37%,139 bhp (104 kW), 120 lb⋅ft (163 N·m),Common
+658,1992 Volkswagen Golf Gti 16v Mk2,Germany,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 54%/46%,267 bhp (199 kW), 254 lb⋅ft (345 N·m),Rare
+659,2010 Volkswagen Golf R (2010),Germany,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 61%/39%,296 bhp (221 kW), 283 lb⋅ft (384 N·m),Common
+660,2014 Volkswagen Golf R (2014),Germany,3.2L Naturally-Aspirated V6,Front-Engined,6-speed Transmission, 62%/38%,241 bhp (180 kW), 236 lb⋅ft (320 N·m),Rare
+661,2003 Volkswagen Golf R32,Germany,2.8L Naturally-Aspirated V6,Front-Engined,5-speed Transmission, 65%/35%,172 bhp (128 kW), 173 lb⋅ft (235 N·m),Common
+662,1998 Volkswagen GTI VR6 Mk3,Germany,1.6L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 65%/35%,52 bhp (39 kW), 72 lb⋅ft (98 N·m),Epic
+663,1982 Volkswagen Pickup LX,Germany,2.0L Turbocharged I4,Front-Engined,6-speed Transmission, 65%/35%,261 bhp (195 kW), 258 lb⋅ft (350 N·m),Rare
+664,2011 Volkswagen Scirocco R,Germany,1.7L Naturally-Aspirated I4,Front-Engined,5-speed Transmission, 63%/37%,74 bhp (55 kW), 89 lb⋅ft (121 N·m),Common
+665,1981 Volkswagen Scirocco S,Germany,1.5L Naturally-Aspirated F4,Rear-Engined,4-speed Transmission, 48%/52%,50 bhp (37 kW), 82 lb⋅ft (111 N·m),Rare
+666,1963 Volkswagen Type 2 De Luxe,Sweden,2.1L Turbocharged I4,Front-Engined,5-speed Transmission, 54%/46%,225 bhp (168 kW), 250 lb⋅ft (339 N·m),Common
+667,1983 Volvo 242 Turbo Evolution,Sweden,2.3L Turbocharged I5,Front-Engined,5-speed Transmission, 60%/40%,240 bhp (179 kW), 221 lb⋅ft (300 N·m),Common
+668,1997 Volvo 850 R,Sweden,3.0L Turbocharged I6,Front-Engined,6-speed Transmission, 60%/40%,346 bhp (258 kW), 368 lb⋅ft (499 N·m),Common
+669,2015 Volvo V60 Polestar,Mexico,2.3L Turbocharged I4,Mid-Engined,6-speed Transmission, 37%/63%,385 bhp (287 kW), 368 lb⋅ft (500 N·m),Epic
+670,2017 VUHL 05RR,United States of America,2.2L Naturally-Aspirated I4,Front-Engined,3-speed Transmission, 50%/50%,60 bhp (45 kW), 106 lb⋅ft (144 N·m),Common
+671,1945 Willys MB Jeep,Denmark,6.8L Twin-Charged V8,Mid-Engined,7-speed Transmission, 44%/56%,1086 bhp (810 kW), 1054 lb⋅ft (1429 N·m),Legendary
+672,2016 Zenvo ST1,Denmark,5.8L Supercharged V8,Mid-Engined,7-speed Transmission, 44%/56%,1177 bhp (878 kW), 811 lb⋅ft (1100 N·m),Legendary

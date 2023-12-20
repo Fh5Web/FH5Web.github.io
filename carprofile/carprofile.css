@@ -54,6 +54,47 @@ p {
     padding: 10px;
 }
 
+.slider {
+    float: left;
+    margin-left: 20%;
+    margin-right: 20%;
+    width: 60%;
+}
+
+/* .slider::-webkit-slider-thumb {
+    opacity: 0;
+}
+ 
+input[type="range"]::-webkit-slider-thumb{
+    -webkit-appearance:none !important;  
+}
+
+input[type=range]::-webkit-slider-runnable-track {
+    -webkit-appearance:none !important; 
+    background-color: #de2b73;
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 .bg {
     position: absolute;
     font-weight: 700;
@@ -113,10 +154,6 @@ p {
 .rating {
     float: left;
     margin-top: 45%;
-}
-
-.speed, .handling, .acceleration, .launch, .braking, .offroad{
-    text-align: right;
 }
 
 .model {

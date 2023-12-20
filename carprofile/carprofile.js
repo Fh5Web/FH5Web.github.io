@@ -47,10 +47,10 @@ fetch("json/csvjson.json")
               }
 
               var offroad = document.querySelector("#offroadslider");
-              if(response[i - 74].offroad === "info_not_found") {
+              if(response[i - 74].Offroad === "info_not_found") {
                 offroad.value = parseFloat("0");
               } else {
-                offroad.value = parseFloat(response[i - 74].offroad * 10);
+                offroad.value = parseFloat(response[i - 74].Offroad * 10);
               }
           }
         }
@@ -92,17 +92,14 @@ fetch("json/csvjson.json")
               }
 
               var offroad = document.querySelector("#offroadslider");
-              if(response[i - 94].offroad === "info_not_found") {
+              if(response[i - 94].Offroad === "info_not_found") {
                 offroad.value = parseFloat("0");
               } else {
-                offroad.value = parseFloat(response[i - 94].offroad * 10);
+                offroad.value = parseFloat(response[i - 94].Offroad * 10);
               }
+          }
         }
-        }
-      });
-
-
-
+});
 
 
   

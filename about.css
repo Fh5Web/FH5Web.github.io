@@ -453,7 +453,7 @@
 @media (max-width: 1000px){
   .logoimg {
     margin-top: 30vh;
-    height: 40vh;
+    height: 30vh;
   }
 
   .redibtn {
@@ -465,7 +465,7 @@
 @media (max-width: 767px) {
   .logoimg {
     margin-top: 40vh;
-    height: 30vh;
+    height: 20vh;
   }
 
   .redibtn {
@@ -480,7 +480,9 @@
 
 @media (max-width: 560px) {
   .logoimg {
-    width: 205px;
+    height: 50vw;
+    width: 100vw;
+    margin-top: 20vh;
   }
 
   #playgg {

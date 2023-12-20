@@ -35,7 +35,7 @@
     display: inline;
     position: relative;
     font-family: "TT Norms Pro";
-    font-size: 15vh;
+    font-size: 9vw;
     font-weight: 600;
     color: #fff;
     -webkit-text-stroke-width: 1px;
@@ -226,7 +226,7 @@ input[type="checkbox"] {
     }
 
     .p {
-        font-size: 9vh;
+        font-size: 15vw;
     }
 }
 

@@ -17,7 +17,7 @@ body {
 }
 
 #make {
-  padding-left: 6vw;
+  padding-left: 7vw;
   padding-right: 7vw;
   background-color: #2e2e31;
   padding-top: 10vh;
@@ -42,7 +42,7 @@ body {
 
 .imgdiv {
     width: 575px;
-    height: 322px;
+    height: auto;
     display: flex;
     padding: 0;
     overflow: hidden;
@@ -162,6 +162,7 @@ body {
   border-radius: 15px;
   border-style: solid;
   border-width: 1px 5px 5px 1px;
+  background-color: #ec247d;
 }
 
 .carinfobtn:active {
@@ -408,6 +409,31 @@ html, body {
 
 @media (max-width: 767px) {
   .txtcont {
-    margin-left: -552px;
+    margin-left: -572px;
+  }
+}
+
+@media (max-width: 650px) {
+  .imgdiv {
+    flex-shrink: 0;
+    
+  }
+
+  .carimg {
+    width: 100%;
+  }
+
+  .txtcont {
+    margin-left: -100%;
+  }
+
+  .carinfobtn {
+    margin-top: 40%;
+  }
+}
+
+@media (max-width: 520px) {
+  .carinfobtn {
+    margin-top: 55%;
   }
 }

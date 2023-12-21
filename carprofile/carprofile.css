@@ -1,3 +1,13 @@
+@font-face {
+    font-family: 'Amsi Pro Condensed';
+    src: local('Amsi Pro Condensed Bold'), local('Amsi-Pro-Condensed-Bold'),
+        url('font/AmsiProCondensed-Bold.woff2') format('woff2'),
+        url('font/AmsiProCondensed-Bold.woff') format('woff'),
+        url('font/AmsiProCondensed-Bold.ttf') format('truetype');
+    font-weight: 900;
+    font-style: normal;
+  }
+
 body {
     background-color: #2a2a2a;
     padding-bottom: 8vh;
@@ -127,87 +137,54 @@ input[type="range"]::-webkit-slider-thumb {
     height: 100%;
 }
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-.bg {
-    position: absolute;
-    font-weight: 700;
-    margin-left: 72%;
-    margin-top: 2.25%;
-    background-color: #f2f2f2;
-    height: 4.5vh;
-    padding-right: 1.2%;
-    padding-left: 1.2%;
-    z-index: -1;
-}
-
-.price, .source, .cr {
-    height: 4.5vh;
-    font-size: 30px;
-    float: left;
-}
-
-.source {
-    color: #341735;
-    background-image: linear-gradient(to right, #cc8522, #f7d658, #cc8522);
-    padding-top: 0.25%;
-    padding-left: 0.3%;
-    padding-right: 0.3%;
-    margin-left: 64%;
-    font-weight: 700;
-    margin-top: -2.9%;
-}
-
-.cr {
-    height: 3.5vh;
-    margin-top: 2.5%;
-    border-radius: 25px;
-    font-weight: 700;
-    margin-left: 71.8%;
-    background-color: #3f1f60;
-    color: #f2f2f2;
-    padding-right: 0.2%;
-    padding-left: 0.2%;
-}
-
-.price {
-    padding-left: 0.3%;
-    padding-right: 0.3%;
-    margin-left: 73.95%;
-    background-color: rgb(255, 255, 255, 0.2);
-    margin-top: -2.75%;
-    padding-top: 0.25%;
-    font-weight: 700;
-}
-
-.specs {
-    float: left;
-    margin-top: 45%;
-}
-
-.rating {
-    float: left;
-    margin-top: 45%;
-}
-
-.model {
-    position: absolute;
-    margin-top: 28%;
+.modelimg {
+    width: 50%;
     margin-left: 25%;
+    margin-right: 25%;
 }
 
-.drivetrain, .hp, .weight {
-    text-align: left;
+.tell {
+    color: #f2f2f2;
+    padding-left: 10%;
+    font-size: 25px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+    border-width: 0.5px;
+    border-color: #aeaeae;
+    margin-left: 2%;
+    margin-right: -2%;
 }
+
+
+.texts {
+    color: #f2f2f2;
+    text-align: right;
+    padding-right: 10%;
+    font-size: 25px;
+    padding-top: 3%;
+    padding-bottom: 3%;
+    border-style: solid;
+    border-left: none;
+    border-right: none;
+    border-width: 0.5px;
+    border-color: #aeaeae;
+    margin-left: -2%;
+    margin-right: 2%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+

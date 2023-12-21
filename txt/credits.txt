@@ -41,3 +41,5 @@ https://www.igcd.net/game.php?id=1000015617
 https://codepen.io/ritz078/pen/LGRWjE
 
 https://codepen.io/igor0ser/pen/amJZvp
+
+https://www.w3schools.com/bootstrap/bootstrap_carousel.asp

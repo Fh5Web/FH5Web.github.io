@@ -1,7 +1,6 @@
 #shadow {
-    width: 100vw;
+    width: 100%;
     height: 24vh;
-    margin-left: -6px;
     margin-top: -24vh;
     transform: translateZ(10px);
 }
@@ -23,6 +22,7 @@ footer {
     width: 45%;
     margin-left: auto;
     margin-right: auto;
+    text-align: center;
 }
 
 .footp {
@@ -80,30 +80,14 @@ footer {
                 7.9px 6.1px 0.02px #de2b73;
 }
 
-
-
-.footpage {
-    margin-top: 1.3%;
-    color: #fff;
-    list-style-type: none;
-    display: inline-block;
-    margin-left: 25%;
-    width: 50%;
-    overflow: hidden;
-}
-
-.lifoot {
-    font-size: 30px;
-    float: left;
-    margin-left: 15%;
+.footlinks {
+    text-align: center;
+    padding: 0.5%;
 }
 
 .afoot {
     color: #fff;
     text-decoration: none;
-    display: inline-block;
-    /* padding-bottom: 1.5rem; */
-    position: relative;
 }
 
 .afoot:hover {
@@ -161,8 +145,6 @@ a.afoot:focus {
 }
 
 @media (max-width: 1950px) {
-    
-
     .lifoot {
         font-size: 20px;
     }
@@ -170,13 +152,7 @@ a.afoot:focus {
 
 @media (max-width: 1500px) {
     .footimg {
-        margin-left: 25%;
-    }
-}
-
-@media (max-width: 1400px) {
-    .footimg {
-        margin-left: 20%;
+        display: none;
     }
 }
 
@@ -196,6 +172,25 @@ a.afoot:focus {
     #lihome {
         margin-left: 10%;
     }
+
+    .icons {
+        margin-left: 41%;
+    }
+}
+
+@media (max-width: 992px) {
+    .breaker {
+        width: 100%;
+        margin-left: 0;
+    }
+
+    .icons {
+        margin-left: 36%;
+    }
+
+    .icons {
+        margin-left: 39%;
+    }
 }
 
 @media (max-width: 950px) {
@@ -205,6 +200,10 @@ a.afoot:focus {
     
     #lihome {
         margin-left: 8.5%;
+    }
+
+    .icons {
+        margin-left: 36%;
     }
 }
 
@@ -219,6 +218,6 @@ a.afoot:focus {
     }
 
     .icons {
-        margin-left: 36%;
+        margin-left: 29%;
     }
 }

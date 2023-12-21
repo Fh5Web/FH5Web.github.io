@@ -13,8 +13,6 @@ https://www.jetbrains.com/space/?source=google&medium=cpc&campaign=12366377188&t
 
 * CLEAN *
 
-Keep colour pallete of home page. Remove colour pallete of cars.
-
 Fix media queries for upgrades and about page
 
 Sliding div width problem

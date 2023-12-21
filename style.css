@@ -1,6 +1,12 @@
-.row {
+.woroad {
     transform-style: preserve-3d;
     height: fit-content;
+    width: 99.9vw;
+    background-image: url('img/index/lines-traffic-paved-roads-background.jpg');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+
 }
 
 body {
@@ -232,13 +238,10 @@ body {
     margin-top: -4vh;
     margin-bottom: -4vh;
     padding: 0;
+    width: 100vw;
 }
 
 .p {
-    background-image: url('img/index/lines-traffic-paved-roads-background.jpg');
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
     color: #fff;
     height: fit-content;
     z-index: -1;
@@ -262,6 +265,10 @@ body {
     border-bottom-left-radius: 1%;
     background-color: #fff;
     height: fit-content;
+}
+
+#imghold4 {
+    margin-bottom: 10vw;
 }
 
 .imgdes {
@@ -322,8 +329,9 @@ body {
 
 #myVideo {
     height: 98vh !important;
+    width: 100vw;
     padding: 0;
-    margin: auto;
+    margin: 0;
     position: relative;
     display: block;
     object-fit: cover;
@@ -332,5 +340,11 @@ body {
 @media (max-width: 1250px) {
     #myVideo {
         object-position: 65% 50%;
+    }
+}
+
+@media (max-width: 1250px) {
+    .woroad {
+        padding-bottom: 50vh;
     }
 }

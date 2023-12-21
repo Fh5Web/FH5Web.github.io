@@ -53,6 +53,7 @@ fetch("json/csvjson.json")
                 offroad.value = parseFloat(response[i - 74].Offroad * 10);
               }
           }
+
         }
         for(let i = 450; i < 629; i++) {
           if(name === response[i - 94].Name_and_model) {

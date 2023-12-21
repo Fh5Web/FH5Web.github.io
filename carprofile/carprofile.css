@@ -24,7 +24,7 @@ p {
 }
 
 .agoback {
-    width: 8vw;
+    width: 200px;
     position: absolute;
     margin-left: 2vw;
     margin-top: 3vh;
@@ -54,7 +54,7 @@ p {
 
 .bottomdivver {
     height: 40vh;
-    background-color: #de2b73;
+    background-color: #2a2a2a;
 }
 
 .name {
@@ -77,7 +77,7 @@ p {
     border-color: #de2b73;
     margin-top: 1%;
     width: 98%;
-    height: 100%;
+    height: 99%;
 }
 
 input[type="range"] {
@@ -106,7 +106,7 @@ input[type="range"]::-webkit-slider-thumb {
 }
 
 #offroadslider {
-    margin-bottom: 5%;
+    margin-bottom: 1%;
 }
 
 .namer {
@@ -175,7 +175,61 @@ input[type="range"]::-webkit-slider-thumb {
     margin-right: 2%;
 }
 
+.pi {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
 
+.pimg {
+    height: 100%;
+    float: left;
+    padding-left: 25%;
+}
+
+.pirate {
+    padding-left: 5%;
+    padding-right: 5%;
+    border-style: solid;
+    border-color: #ffc533;
+    border-width: 2px;
+    float: left;
+    font-family: 'Amsi Pro Condensed';
+    font-size: 40px;
+    color: #3f2034;
+    background-color: #f2f2f2;
+    font-weight: 900;
+}
+
+.dtrain {
+    padding-top: 5%;
+    padding-bottom: 5%;
+}
+
+.dtraintext {
+    color: #3f2034;
+    float: left;
+    background-color: #f2f2f2;
+    font-weight: 900;
+    font-size: 40px;
+    margin-left: 15%;
+}
+
+.dimg {
+    float: left;
+    height: 94%;
+}
+
+.price {
+    font-size: 50px;
+    font-weight: 900;
+    color: #3f2034;
+    background-color: #fbdb3c;
+    margin-left: 2.1%;
+    width: 95.8%;
+    padding-top: 2.5%;
+    padding-bottom: 2.5%;
+    text-align: center;
+}
 
 
 

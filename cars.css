@@ -17,7 +17,7 @@ body {
 }
 
 #make {
-  padding-left: 7vw;
+  padding-left: 6vw;
   padding-right: 7vw;
   background-color: #2e2e31;
   padding-top: 10vh;
@@ -50,16 +50,18 @@ body {
 
 .imgdivholder {
   margin-right: auto;
-  margin-left: auto;
+  padding-left: 1vw;
 }
 
 .txt {
     display: block;
     font-size: 58px;
-    margin-top: 5vh;
+    margin-top: 4vh;
     text-transform: uppercase;
     font-weight: 750;
     color: #fff;
+    border-bottom: solid #de3d7d 5px;
+    margin-bottom: 1vh;
 }
 
 .imgdiv .txtcont {

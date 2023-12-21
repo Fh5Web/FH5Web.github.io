@@ -10,6 +10,32 @@ fetch("json/csvjson.json")
         var name = document.getElementById("name").textContent
 
         for(let i = 74; i <= 429; i++) {
+          var sliderr = document.querySelector(".carousel-inner")
+
+          var el = document.createElement("div");
+          if(name === response[i - 74].Name_and_model) {
+            el.className = "item active";
+            el.id = response[i - 74].Name_and_model;
+          } else {
+            el.className = "item";
+            el.id = response[i - 74].Name_and_model;
+          }
+          sliderr.appendChild(el);
+
+          var el1 = document.createElement("img");
+          el1.src = "img/All/" + i + ".jpg";
+          el1.className = "metimg"
+          el.appendChild(el1);
+
+          var el2 = document.createElement("div");
+          el2.className = "carousel-caption";
+          el.appendChild(el2)
+
+          var el3 = document.createElement("h3");
+          el3.textContent = response[i - 74].Name_and_model;
+          el3.className = "caption"
+          el2.appendChild(el3)
+
           if(name === response[i - 74].Name_and_model) {
               var speed = document.querySelector("#speedslider");
               if(response[i - 74].speed === "info_not_found") {
@@ -56,6 +82,32 @@ fetch("json/csvjson.json")
 
         }
         for(let i = 450; i < 629; i++) {
+          var sliderr = document.querySelector(".carousel-inner")
+
+          var el = document.createElement("div");
+          if(name === response[i - 94].Name_and_model) {
+            el.className = "item active";
+            el.id = response[i - 94].Name_and_model;
+          } else {
+            el.className = "item";
+            el.id = response[i - 94].Name_and_model;
+          }
+          sliderr.appendChild(el);
+
+          var el1 = document.createElement("img");
+          el1.src = "img/All/" + i + ".jpg";
+          el1.className = "metimg"
+          el.appendChild(el1);
+
+          var el2 = document.createElement("div");
+          el2.className = "carousel-caption";
+          el.appendChild(el2)
+
+          var el3 = document.createElement("h3");
+          el3.textContent = response[i - 94].Name_and_model;
+          el3.className = "caption"
+          el2.appendChild(el3)
+
           if(name === response[i - 94].Name_and_model) {
             var speed = document.querySelector("#speedslider");
               if(response[i - 94].speed === "info_not_found") {
@@ -99,6 +151,9 @@ fetch("json/csvjson.json")
                 offroad.value = parseFloat(response[i - 94].Offroad * 10);
               }
           }
+
+          
+
         }
 });
 

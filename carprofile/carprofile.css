@@ -11,7 +11,6 @@
 body {
     background-color: #2a2a2a;
     padding-bottom: 8vh;
-    width: 100vw;
 }
 
 .bigimg {
@@ -178,6 +177,7 @@ input[type="range"]::-webkit-slider-thumb {
 .pi {
     padding-top: 5%;
     padding-bottom: 5%;
+    padding-right: 0;
 }
 
 .pimg {
@@ -194,7 +194,7 @@ input[type="range"]::-webkit-slider-thumb {
     border-width: 2px;
     float: left;
     font-family: 'Amsi Pro Condensed';
-    font-size: 40px;
+    font-size: 1.85vw;
     color: #3f2034;
     background-color: #f2f2f2;
     font-weight: 900;
@@ -203,6 +203,7 @@ input[type="range"]::-webkit-slider-thumb {
 .dtrain {
     padding-top: 5%;
     padding-bottom: 5%;
+    padding-left: 0;
 }
 
 .dtraintext {
@@ -210,7 +211,7 @@ input[type="range"]::-webkit-slider-thumb {
     float: left;
     background-color: #f2f2f2;
     font-weight: 900;
-    font-size: 40px;
+    font-size: 1.85vw;
     margin-left: 15%;
 }
 
@@ -231,7 +232,9 @@ input[type="range"]::-webkit-slider-thumb {
     text-align: center;
 }
 
+@media (max-width: 1450px) {
 
+}
 
 
 

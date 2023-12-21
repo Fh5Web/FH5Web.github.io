@@ -191,9 +191,6 @@ input[type="range"]::-webkit-slider-thumb {
 .pirate {
     padding-left: 5%;
     padding-right: 5%;
-    border-style: solid;
-    border-color: #ffc533;
-    border-width: 2px;
     float: left;
     font-family: 'Amsi Pro Condensed';
     font-size: 1.85vw;
@@ -219,7 +216,7 @@ input[type="range"]::-webkit-slider-thumb {
 
 .dimg {
     float: left;
-    height: 94%;
+    height: 100%;
 }
 
 .price {

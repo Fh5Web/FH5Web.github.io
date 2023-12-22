@@ -1,4 +1,4 @@
-.row {
+.coolio {
     height: fit-content;
     padding-bottom: 20vh;
 }
@@ -20,6 +20,7 @@
 }
 
 .imgp {
+    position: absolute;
     margin-top: -80vh;
     padding-left: 10vw;
     margin-bottom: 30vh;
@@ -241,5 +242,27 @@ input[type="checkbox"] {
 
     .iconimgs {
         height: 10vh;
+    }
+}
+
+@media (max-width: 440px) {
+    .upgicon {
+        display: none;
+    }   
+
+    .dropbtn {
+        padding-bottom: 20%;
+    }
+
+
+}
+
+@media (max-width: 280px) {
+    .plusminus {
+        display: none;
+    }
+
+    .btntxt {
+        text-align: center;
     }
 }

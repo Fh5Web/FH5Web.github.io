@@ -13,6 +13,6 @@ https://www.jetbrains.com/space/?source=google&medium=cpc&campaign=12366377188&t
 
 * CLEAN *
 
-Fix media queries for about page
+Fix media queries for home and about page
 
 Sliding div width problem

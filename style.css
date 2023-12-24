@@ -1,7 +1,7 @@
 .woroad {
     transform-style: preserve-3d;
     height: fit-content;
-    width: 99.9vw;
+    width:fit-content;
     background-image: url('img/index/lines-traffic-paved-roads-background.jpg');
     background-position: center center;
     background-repeat: no-repeat;
@@ -94,61 +94,7 @@ body {
     }
 }
 
-@media (max-width: 768px) {
-    .topnav a:not(:first-child) {display: none;}
-    .topnav a.icon {
-        float: right;
-        display: block;
-    }
 
-    .top {
-        margin-top: 90px;
-        padding-top: 0px;
-    }
-
-    img.left {
-        margin-top: 0px;
-    }
-}
- 
-@media (max-width: 768px) {
-    .topnav.responsive {
-        position: fixed;
-        background-color: black;
-        top: 0;
-        width: 100%;
-    }
-
-    .topnav.responsive .icon {
-        position: absolute;
-        right: 0;
-        top: 0;
-    }
-    .topnav.responsive a {
-        float: none;
-        display: block;
-        text-align: center;
-    }
-
-    .topnav.responsive img.left{
-        margin-top: -90px;
-    }
-
-    .right {
-        background-color: rgb(0, 0, 0, 1);
-    }
-
-    .container {
-        background-position: 55%;
-    }
-
-    .logomid-holder {
-        height: 25vh;
-        width: 500px;
-        margin-top: -70vh;
-        margin-left: 10vw;
-    }
-}
 
 .redirect {
     width: fit-content;
@@ -188,51 +134,7 @@ body {
     top: 1px;
 }
 
-@media (min-width: 768px) and (max-width: 890px) {
-    .logomid-holder {
-        margin-top: -70vh;
-        margin-left: 10vw;
-    }
-}
 
-@media (min-width: 400px) and (max-width: 560px) {
-    .logomid-holder {
-        height: 10vh;
-        width: 80%;
-        margin-top: -70vh;
-        margin-left: 10vw;
-    }
-
-    .redirect {
-        margin-top: -45vh;
-        width: 40%;
-        height: 4vh;
-    }
-    
-    .topnav {
-        width: 100%;
-    }
-}
-
-@media (min-width: 320px) and (max-width: 399px) {
-    .logomid-holder {
-        height: 10vh;
-        width: 85%;
-        margin-top: 23vh;
-        margin-left: 10vw;
-    }
-
-    .redirect {
-        margin-top: 3vh;
-        width: 50%;
-        height: 3%;
-        margin-left: 4vh;
-    }
-    
-    .topnav {
-        width: 100%;
-    }
-}
 
 .brushimg {
     margin-top: -4vh;
@@ -244,9 +146,10 @@ body {
 .p {
     color: #fff;
     height: fit-content;
+    flex: 1 1 auto;
     z-index: -1;
     margin-top: 0;
-    padding-bottom: 20vh;
+
 }
 
 .holder {
@@ -346,5 +249,107 @@ body {
 @media (max-width: 1250px) {
     .woroad {
         padding-bottom: 50vh;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 890px) {
+    .logomid-holder {
+        margin-top: -70vh;
+        margin-left: 10vw;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 560px) {
+    .logomid-holder {
+        height: 10vh;
+        width: 80%;
+        margin-top: -70vh;
+        margin-left: 10vw;
+    }
+
+    .redirect {
+        margin-top: -45vh;
+        width: 40%;
+        height: 4vh;
+    }
+    
+    .topnav {
+        width: 100%;
+    }
+}
+
+@media (min-width: 320px) and (max-width: 399px) {
+    .logomid-holder {
+        height: 10vh;
+        width: 85%;
+        margin-top: 23vh;
+        margin-left: 10vw;
+    }
+
+    .redirect {
+        margin-top: 3vh;
+        width: 50%;
+        height: 3%;
+        margin-left: 4vh;
+    }
+    
+    .topnav {
+        width: 100%;
+    }
+}
+
+@media (max-width: 768px) {
+    .topnav a:not(:first-child) {display: none;}
+    .topnav a.icon {
+        float: right;
+        display: block;
+    }
+
+    .top {
+        margin-top: 90px;
+        padding-top: 0px;
+    }
+
+    img.left {
+        margin-top: 0px;
+    }
+}
+ 
+@media (max-width: 768px) {
+    .topnav.responsive {
+        position: fixed;
+        background-color: black;
+        top: 0;
+        width: 100%;
+    }
+
+    .topnav.responsive .icon {
+        position: absolute;
+        right: 0;
+        top: 0;
+    }
+    .topnav.responsive a {
+        float: none;
+        display: block;
+        text-align: center;
+    }
+
+    .topnav.responsive img.left{
+        margin-top: -90px;
+    }
+
+    .right {
+        background-color: rgb(0, 0, 0, 1);
+    }
+
+    .container {
+        background-position: 55%;
+    }
+
+    .logomid-holder {
+        height: 25vh;
+        width: 500px;
+        margin-top: -70vh;
+        margin-left: 10vw;
     }
 }

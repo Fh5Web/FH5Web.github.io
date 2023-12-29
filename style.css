@@ -1,7 +1,7 @@
 .woroad {
     transform-style: preserve-3d;
     height: fit-content;
-    width:fit-content;
+    width: 99.1vw;
     background-image: url('img/index/lines-traffic-paved-roads-background.jpg');
     background-position: center center;
     background-repeat: no-repeat;
@@ -259,45 +259,6 @@ body {
     }
 }
 
-@media (min-width: 400px) and (max-width: 560px) {
-    .logomid-holder {
-        height: 10vh;
-        width: 80%;
-        margin-top: -70vh;
-        margin-left: 10vw;
-    }
-
-    .redirect {
-        margin-top: -45vh;
-        width: 40%;
-        height: 4vh;
-    }
-    
-    .topnav {
-        width: 100%;
-    }
-}
-
-@media (min-width: 320px) and (max-width: 399px) {
-    .logomid-holder {
-        height: 10vh;
-        width: 85%;
-        margin-top: 23vh;
-        margin-left: 10vw;
-    }
-
-    .redirect {
-        margin-top: 3vh;
-        width: 50%;
-        height: 3%;
-        margin-left: 4vh;
-    }
-    
-    .topnav {
-        width: 100%;
-    }
-}
-
 @media (max-width: 768px) {
     .topnav a:not(:first-child) {display: none;}
     .topnav a.icon {
@@ -353,3 +314,43 @@ body {
         margin-left: 10vw;
     }
 }
+
+@media (min-width: 400px) and (max-width: 560px) {
+    .logomid-holder {
+        height: 10vh;
+        width: 80%;
+        margin-top: -70vh;
+        margin-left: 10vw;
+    }
+
+    .redirect {
+        margin-top: -45vh;
+        width: 40%;
+        height: 4vh;
+    }
+    
+    .topnav {
+        width: 100%;
+    }
+}
+
+@media (max-width: 399px) {
+    .logomid-holder {
+        height: 10vh;
+        width: 85%;
+        margin-top: 23vh;
+        margin-left: 10vw;
+    }
+
+    .redirect {
+        margin-top: 3vh;
+        width: 50%;
+        height: 3%;
+        margin-left: 4vh;
+    }
+    
+    .topnav {
+        width: 100%;
+    }
+}
+

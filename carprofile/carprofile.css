@@ -185,7 +185,7 @@ input[type="range"]::-webkit-slider-thumb {
 .pimg {
     height: 100%;
     float: left;
-    padding-left: 25%;
+    padding-left: 10%;
 }
 
 .pirate {
@@ -197,6 +197,8 @@ input[type="range"]::-webkit-slider-thumb {
     color: #3f2034;
     background-color: #f2f2f2;
     font-weight: 900;
+    height: 100%;
+    line-height: 190%;
 }
 
 .dtrain {
@@ -211,7 +213,9 @@ input[type="range"]::-webkit-slider-thumb {
     background-color: #f2f2f2;
     font-weight: 900;
     font-size: 1.85vw;
-    margin-left: 15%;
+    margin-left: 10%;
+    height: 100%;
+    line-height: 190%;
 }
 
 .dimg {
@@ -265,11 +269,136 @@ input[type="range"]::-webkit-slider-thumb {
 }
 
 
-@media (max-width: 1450px) {
+@media (min-width: 992px) and (max-width: 1400px) {
+    .dtrain {
+        width: 100%;
+        padding-left: 20%;
+    }
 
+    .dtraintext {
+        width: 25%;
+    }
+
+    .dimg {
+        width: 35%;
+    }
+
+    .pi {
+        width: 100%;
+        padding-left: 30%;
+    }
+
+    .pimg {
+        width: 25%;
+    }
+
+    .pirate {
+        width: 25%;
+    }
+
+    .tell {
+        width: 90%;
+        text-align: center;
+        padding: 0;
+        margin-left: 5%;
+    }
+
+    .texts {
+        width: 90%;
+        text-align: center;
+        padding: 0;
+        margin-left: 5%;
+    }
+
+    .price {
+        margin-left: 5%;
+        width: 90%;
+        font-size: 35px;
+    }
+
+    .caption {
+        display: none;
+    }
+
+    .agoback {
+        height: 50px;
+        padding-top: 10px;
+        margin-top: 1.5vh;
+    }
+
+    .container {
+        width: 40%;
+        margin-top: 2%;
+    }
 }
 
+@media (max-width: 992px) {
+    .agoback {
+        height: 45px;
+        padding-top: 6px;
+        margin-top: 1vh;
+    }
 
+    .pi {
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 10%;
+    }
+
+    .dtrain {
+        padding-top: 1%;
+        padding-bottom: 1%;
+        padding-left: 10%;
+    }
+
+    .dtraintext {
+        font-size: 5vw;
+    }
+
+    .pirate {
+        font-size: 5vw;
+    }
+
+    .caption {
+        display: none;
+    }
+    
+    .container {
+        width: 70%;
+        margin-top: 2%;
+    }
+}
+
+@media (max-width: 830px) {
+    .agoback {
+        height: 35px;
+        width: 172px;
+        padding-top: 3px;
+        margin-top: 10px;
+        font-size: 19px;
+    }
+}
+
+@media (max-width: 700px) {
+    .agoback {
+        height: 30px;
+        width: 132px;
+        padding-top: 4px;
+        padding-left: 15px;
+        font-size: 15px;
+    }
+}
+
+@media (max-width: 540px) {
+    .agoback {
+        height: 27px;
+        width: 121px;
+        padding-top: 4px;
+        padding-left: 15px;
+        margin-top: 10px;
+        font-size: 13px;
+    }
+}
 
 
 

@@ -1,8 +1,13 @@
-.row {
+body {
+  overflow-x: hidden;
+}
+
+.aboutrow {
     height: fit-content;
     padding-bottom: 15vh;
     background-color: #2e2e31;
     z-index: -1;
+    width: 103.5%;
     /* transform-style: preserve-3d; */
 }
 
@@ -19,7 +24,7 @@
     background-size: cover;
     position: absolute;
     height: 100vh;
-    width: 100vw;
+    width: 100%;
     filter: brightness(50%);
 }
 
@@ -201,17 +206,17 @@
 #t10div {
   background-color: #f8f8f8;
   /* height: 65.5vh; */
-  width: 80vw;
-  margin-left: 20vw;
+  width: 90vw;
+  margin-left: 10vw;
   margin-top: 10vh;
 }
 
 #t10div::before {
-  background-image: linear-gradient(to left, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 70%);
-  background-image: -moz-linear-gradient(to left, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 70%);
-  background-image: -ms-linear-gradient(to left, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 70%);
-  background-image: -o-linear-gradient(to left, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 70%);
-  background-image: -webkit-linear-gradient(to left, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 70%);
+  background-image: linear-gradient(to left, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 60%);
+  background-image: -moz-linear-gradient(to left, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 60%);
+  background-image: -ms-linear-gradient(to left, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 60%);
+  background-image: -o-linear-gradient(to left, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 60%);
+  background-image: -webkit-linear-gradient(to left, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 60%);
   content:"\00a0";
   top: 0;
   left: 0;
@@ -231,17 +236,16 @@
 #pggdiv {
   background-color: #f8f8f8;
   /* height: 65.4vh; */
-  width: 80vw;
-  margin-right: 20vw;
+  width: 90vw;
   margin-top: 10vh;
 }
 
 #pggdiv::before {
-    background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 70%);
-    background-image: -moz-linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 70%);
-    background-image: -ms-linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 70%);
-    background-image: -o-linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 70%);
-    background-image: -webkit-linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 70%);
+    background-image: linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 60%);
+    background-image: -moz-linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 60%);
+    background-image: -ms-linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 60%);
+    background-image: -o-linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 60%);
+    background-image: -webkit-linear-gradient(to right, rgba(255, 255, 255, 0) 50%, rgba(255, 255, 255, 1) 60%);
     content:"\00a0";
     top: 0;
     left: 0;
@@ -279,6 +283,15 @@
     opacity: 1;
     animation: appearfromleft 0.7s linear forwards;
 }
+
+.removet10div {
+  display: none;
+}
+
+.removepggdiv {
+  display: none;
+}
+
 
 @keyframes appearfromright {
     0% {
@@ -363,7 +376,7 @@
 #txtt10 {
     height: 100%;
     margin-left: 2.2vw;
-    width: 20vw;
+    width: 33vw;
     color: #000;
     position: absolute;
     z-index: 6;
@@ -373,8 +386,8 @@
 
 #txtpgg {
     height: 100%;
-    margin-left: 58.2vw;
-    width: 20vw;
+    margin-left: 53.5vw;
+    width: 34.9vw;
     color: #000;
     position: absolute;
     z-index: 6;
@@ -393,7 +406,7 @@
 
 .ptxt {
     margin-top: 3vh;
-    font-size: 1.8vmin;
+    font-size: 2.35vmin;
 }
 
 #titlee {
@@ -448,7 +461,53 @@
     background-size: cover;
 }
 
+/* width */
+#txtpgg::-webkit-scrollbar {
+  width: 10px;
+}
 
+/* Track */
+#txtpgg::-webkit-scrollbar-track {
+  background: rgb(241, 241, 241, 0);
+  margin-top: 125px;
+  margin-bottom: 125px;
+}
+ 
+/* Handle */
+#txtpgg::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+  /* height: 10px; */
+}
+
+/* Handle on hover */
+#txtpgg::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
+
+/* width */
+#txtt10::-webkit-scrollbar {
+  width: 10px;
+}
+
+/* Track */
+#txtt10::-webkit-scrollbar-track {
+  background: rgb(241, 241, 241, 0);
+  margin-top: 125px;
+  margin-bottom: 125px;
+}
+ 
+/* Handle */
+#txtt10::-webkit-scrollbar-thumb {
+  background: #888;
+  border-radius: 10px;
+  /* height: 10px; */
+}
+
+/* Handle on hover */
+#txtt10::-webkit-scrollbar-thumb:hover {
+  background: #555; 
+}
 
 @media (max-width: 1000px){
   .logoimg {
@@ -482,7 +541,7 @@
   .logoimg {
     height: 50vw;
     width: 100vw;
-    margin-top: 20vh;
+    margin-top: 10vh;
   }
 
   #playgg {
@@ -496,6 +555,10 @@
   .gameimg {
     width: auto;
     height: 45vh;
+  }
+
+  #titlee {
+    font-size: 100px;
   }
 }
 

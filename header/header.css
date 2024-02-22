@@ -127,7 +127,7 @@ img.left:hover {
 @media (max-width: 768px) {
     .topnav.responsive {
         position: fixed;
-        background-color: black;
+        background-color: rgb(0, 0, 0, 0.5);
         top: 0;
         width: 100%;
     }
@@ -148,7 +148,7 @@ img.left:hover {
     }
 
     .rright {
-        background-color: rgb(0, 0, 0, 1);
+        background-color: rgb(0, 0, 0, 0.2);
     }
 }
 

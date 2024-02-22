@@ -1,18 +1,6 @@
 
-
-
 * LINKS *
 
 https://www.schoolofmotion.com/blog/10-websites-with-great-animation
 
 https://www.jetbrains.com/space/?source=google&medium=cpc&campaign=12366377188&term=cloud%20collaboration&content=539946481378&gclid=CjwKCAiAr4GgBhBFEiwAgwORrahNhJmQ8R1O84Q6124aWq9xAPKVbD1uHDZtHlJ7xLgjdRoRWXT0tRoCZcQQAvD_BwE
-
-
-
-
-
-* CLEAN *
-
-Fix media queries for home and about page
-
-Sliding div width problem

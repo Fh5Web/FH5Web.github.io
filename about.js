@@ -46,16 +46,23 @@ myID2 = document.getElementById("pggdiv");
 
 var myScrollFunc = function () {
   var y = window.scrollY;
-  if (y >= 1200) {
-    myID.className = "showt10div"
+  var screeny = window.innerHeight;
+  if (screeny < 960) {
+    myID2.className = "showpggdiv";
+    myID.className = "showt10div";
+  
   } else {
-    myID.className = "hidet10div"
-  }
+    if (y >= 1200) {
+      myID.className = "showt10div"
+    } else {
+      myID.className = "hidet10div"
+    }
 
-  if (y >= 2000) {
-    myID2.className = "showpggdiv"
-  } else {
-    myID2.className = "hidepggdiv"
+    if (y >= 2000) {
+      myID2.className = "showpggdiv"
+    } else {
+      myID2.className = "hidepggdiv"
+    }
   }
 };
 

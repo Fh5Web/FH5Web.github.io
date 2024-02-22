@@ -1,3 +1,7 @@
+body {
+    overflow-x: hidden;
+}
+
 .coolio {
     height: fit-content;
     padding-bottom: 20vh;

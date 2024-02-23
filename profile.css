@@ -1,0 +1,21 @@
+.holderrr {
+    padding-bottom: 50vh;
+}
+
+.banner {
+    height: 25vh;
+    color: white;
+    font-size: 150px;
+    text-align: center;
+    border: solid 2px white;
+}
+
+.profilediv {
+    background-color: darkgrey;
+    height: 10vh;
+    padding: 0;
+}
+
+.favscont {
+    padding: 0;
+}

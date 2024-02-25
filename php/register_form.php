@@ -22,9 +22,16 @@ if (isset($_POST['submit'])) {
         if ($pass != $cpass) {
             $error[] = 'Password not matched!';
         } else {
-            $insert = "INSERT INTO user_form(username, email, password, date) VALUES('$username', '$email', '$pass', '$date')";
-            mysqli_query($conn, $insert);
-            header('location:login_form.php');
+            $image = $_FILES['image']['tmp_name'];
+            $imageContent = addslashes(file_get_contents($image));
+
+            $insert = "INSERT INTO user_form(username, email, password, date, img) VALUES('$username', '$email', '$pass', '$date', '$imageContent')";
+
+            if (mysqli_query($conn, $insert)) {
+                header('location: login_form.php');
+            } else {
+                $error[] = 'Error uploading data: ' . mysqli_error($conn);
+            }
         }
     }
 }
@@ -41,7 +48,7 @@ if (isset($_POST['submit'])) {
 <div class="bg">
     <div class="form-container">
 
-    <form action="" method="post">
+    <form action="" method="post" enctype="multipart/form-data">
         <h3>Register</h3>
     
         <?php
@@ -59,6 +66,9 @@ if (isset($_POST['submit'])) {
         <input type="password" name="password" placeholder="Enter your password" class="box" required>
         <p class="title">Confirm Password</p>
         <input type="password" name="cpassword" placeholder="Confirm your password" class="box" required>
+        <label for="image">Choose Image:</label>
+        <input type="file" name="image" id="image" accept="image/*">
+
         <input type="submit" value="Register" class="form-btn" name="submit">
         <p class="preg">Already have an account? <a href="login_form.php">Log In Now!</a></p>
     </form>

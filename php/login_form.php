@@ -8,6 +8,7 @@ if (isset($_POST['submit'])) {
 
     $username = mysqli_real_escape_string($conn, $_POST['username']);
     $pass = md5($_POST['password']);
+    $email = mysqli_real_escape_string($conn, $_POST['usermail']);
 
     $select = " SELECT * FROM user_form WHERE username = '$username' && password = '$pass'";
 
@@ -15,6 +16,8 @@ if (isset($_POST['submit'])) {
 
     if (mysqli_num_rows($result) > 0) {
         $_SESSION["username"] = $username;
+        $_SESSION["usermail"] = $email;
+        $_SESSION["password"] = $pass;
         header("location:../profile.php");
     }else{
         $error[] = "Incorrect username or password";
@@ -45,6 +48,8 @@ if (isset($_POST['submit'])) {
         ?>
         <p class="title">Username</p>
         <input type="username" name="username" placeholder="Username" class="box" required>
+        <p class="title">Email</p>
+        <input type="email" name="usermail" placeholder="Enter your email" class="box" required>
         <p class="title">Password</p>
         <input type="password" name="password" placeholder="Enter your password" class="box" required>
         <input type="submit" value="Login" class="form-btn" name="submit">

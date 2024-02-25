@@ -1,9 +1,24 @@
-<?php 
-
+<?php
 include 'php/config.php';
 
 session_start();
 
+$columnsel_query = "SELECT * FROM user_form WHERE username = '{$_SESSION["username"]}' AND email = '{$_SESSION["usermail"]}' AND password = '{$_SESSION["password"]}'";
+$result = mysqli_query($conn, $columnsel_query);
+
+if ($result) {
+    $columnsel = mysqli_fetch_assoc($result);
+
+    if ($columnsel) {
+        $date = $columnsel['Date'];
+        $image = $columnsel["img"];
+    } else {
+        $date = "No date found";
+        $image = "No image found";
+    }
+}
+
+mysqli_close($conn);
 ?>
 
 <!doctype html>
@@ -36,12 +51,23 @@ session_start();
   <div class="container-fluid">
     <div class="row holderrr">
         <div class="col-12 banner">BANNER</div>
-        <div class="row col-3 profilediv">
-            <div class="col-3">Profile</div>
-            <div class="col-9"><?php echo $_SESSION["username"]; ?></div>
+        <div class="row col-4 profilediv">
+          <div class="col-4 profileicon">
+            <img src='data:image/*;base64, <?= base64_encode($image) ?>' alt='Profile Image' />
+          </div>
+          <div class="col-8 profiledata">
+            <p class="title">USERNAME</p>
+            <div class="datadiv"><?php echo $_SESSION["username"]; ?></div>
+            <p class="title">EMAIL</p>
+            <div class="datadiv"><?php echo $_SESSION["usermail"]; ?></div>
+            <p class="title">DATE JOINED</p>
+            <div class="datadiv"><?php echo $date ?></div>
+            <p class="title">PASSWORD</p>
+            <a class="acpass"><img class="keyicon" src="https://icons.iconarchive.com/icons/iconsmind/outline/512/Key-icon.png"> Change Password</a>
+          </div>
         </div>
-        <div class="row col-9 favscont">
-
+        <div class="row col-8 favscont">
+          <h1>Favouries</h1>
         </div>
     </div>
   </div>

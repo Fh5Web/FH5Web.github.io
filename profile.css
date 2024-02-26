@@ -36,6 +36,7 @@
 .profileimg {
     height: 50%;
     margin-top: 40%;
+    border-radius: 50px;
 }
 
 .title {

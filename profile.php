@@ -6,19 +6,17 @@ session_start();
 $columnsel_query = "SELECT * FROM user_form WHERE username = '{$_SESSION["username"]}' AND email = '{$_SESSION["usermail"]}' AND password = '{$_SESSION["password"]}'";
 $result = mysqli_query($conn, $columnsel_query);
 
+$imagecol = "SELECT * FROM images WHERE username = '{$_SESSION["username"]}'";
+
 if ($result) {
     $columnsel = mysqli_fetch_assoc($result);
 
     if ($columnsel) {
         $date = $columnsel['Date'];
-        $image = $columnsel["img"];
     } else {
         $date = "No date found";
-        $image = "No image found";
     }
 }
-
-mysqli_close($conn);
 ?>
 
 <!doctype html>
@@ -53,7 +51,14 @@ mysqli_close($conn);
         <div class="col-12 banner">BANNER</div>
         <div class="row col-4 profilediv">
           <div class="col-4 profileicon">
-            <img src='data:image/*;base64, <?= base64_encode($image) ?>' alt='Profile Image' />
+            <?php
+                $res = mysqli_query($conn, $imagecol);
+                while ($row = mysqli_fetch_assoc($res)) {
+            ?>
+            <img class="profileimg" src="php/image/<?php echo $row['file']?>">
+            <?php
+                }
+            ?>
           </div>
           <div class="col-8 profiledata">
             <p class="title">USERNAME</p>

@@ -8,6 +8,14 @@ $result = mysqli_query($conn, $columnsel_query);
 
 $imagecol = "SELECT * FROM images WHERE username = '{$_SESSION["username"]}'";
 
+if (isset($_FILES['image'])) {
+  $file_name = $_FILES['image']['name'];
+  $tempname = $_FILES['image']['tmp_name'];
+  $folder = 'php/banner/'.$file_name;
+
+  $bannercol = "UPDATE images SET banner = '$file_name' WHERE username = '{$_SESSION["username"]}'";
+}
+
 if ($result) {
     $columnsel = mysqli_fetch_assoc($result);
 
@@ -48,17 +56,35 @@ if ($result) {
 
   <div class="container-fluid">
     <div class="row holderrr">
-        <div class="col-12 banner">BANNER</div>
+        <div class="col-12 banner">
+            <form class="bannerform" action="" method="post" enctype="multipart/form-data">
+                <label id="file-input-label" for="file-input">Change Banner</label>
+                <input type="file" id="file-input" name="image">
+                <label id="submit-label" for="submit-input"><img src="https://img.icons8.com/material-outlined/24/upload--v1.png"></label>
+                <input type="submit" id="submit-input" class="form-btn" name="submit">
+            </form>
+            <?php
+                  $res = mysqli_query($conn, $imagecol);
+                  while ($row = mysqli_fetch_assoc($res)) {
+              ?>
+            <img class="bannerimg" src="php/banner/<?php echo $row['banner']?>">
+            <?php
+                  }
+              ?>
+        </div>
         <div class="row col-4 profilediv">
+          <h1>Profile</h1>
           <div class="col-4 profileicon">
-            <?php
-                $res = mysqli_query($conn, $imagecol);
-                while ($row = mysqli_fetch_assoc($res)) {
-            ?>
-            <img class="profileimg" src="php/image/<?php echo $row['file']?>">
-            <?php
-                }
-            ?>
+            <div class="profileimgbr">
+              <?php
+                  $res = mysqli_query($conn, $imagecol);
+                  while ($row = mysqli_fetch_assoc($res)) {
+              ?>
+              <img class="profileimg" src="php/image/<?php echo $row['file']?>">
+              <?php
+                  }
+              ?>
+            </div>
           </div>
           <div class="col-8 profiledata">
             <p class="title">USERNAME</p>
@@ -73,6 +99,32 @@ if ($result) {
         </div>
         <div class="row col-8 favscont">
           <h1>Favouries</h1>
+          <div class="row">
+            <div class="carfavhold col-3">
+                  <img class="carfav" src="img/All/74.jpg">
+            </div>
+            <div class="carfavhold col-3">
+                  <img class="carfav" src="img/All/74.jpg">
+            </div>
+            <div class="carfavhold col-3">
+                  <img class="carfav" src="img/All/74.jpg">
+            </div>
+            <div class="carfavhold col-3">
+                  <img class="carfav" src="img/All/74.jpg">
+            </div>
+            <div class="carfavhold col-3">
+                  <img class="carfav" src="img/All/74.jpg">
+            </div>
+            <div class="carfavhold col-3">
+                  <img class="carfav" src="img/All/74.jpg">
+            </div>
+            <div class="carfavhold col-3">
+                  <img class="carfav" src="img/All/74.jpg">
+            </div>
+            <div class="carfavhold col-3">
+                  <img class="carfav" src="img/All/74.jpg">
+            </div>
+          </div>
         </div>
     </div>
   </div>

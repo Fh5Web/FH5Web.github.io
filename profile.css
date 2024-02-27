@@ -3,11 +3,13 @@
 }
 
 .banner {
-    height: 25vh;
+    position: relative;
+    height: 40vh;
     color: white;
     font-size: 150px;
     text-align: center;
-    border: solid 2px white;
+    padding: 0;
+    overflow: hidden;
 }
 
 .profilediv {
@@ -20,6 +22,7 @@
 .favscont {
     padding-left: 2.5%;
     padding-right: 2.5%;
+    padding-top: 2%;
 }
 
 .profiledata {
@@ -27,16 +30,29 @@
     height: 30vh;
 }
 
+h1 {
+    color: #de2b73;
+}
+
 .profileicon {
     background-color: rgb(101, 100, 100);
     height: 30vh;
     padding-left: 3%;
+    padding-right: 3%;
 }
 
 .profileimg {
-    height: 50%;
-    margin-top: 40%;
-    border-radius: 50px;
+    width: 100%;
+    border-radius: 50%;
+}
+
+.profileimgbr {
+    width: 100%;
+    position: relative;
+  top: 50%;
+  -webkit-transform: translateY(-50%);
+  -ms-transform: translateY(-50%);
+  transform: translateY(-50%);
 }
 
 .title {
@@ -71,4 +87,55 @@
 
 .keyicon {
     height: 10%;
+}
+
+.carfavhold {
+    padding: 0;
+}
+
+.carfav {
+    width: 100%;
+}
+
+.bannerform {
+    position: absolute;
+    font-size: 25px;
+    bottom: 0;
+}
+
+.bannerimg {
+    width: 100%;
+    position: relative;
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
+    z-index: -2;
+}
+
+#file-input {
+    display: none;
+    overflow: hidden;
+}
+
+#file-input-label {
+    font-size: 1em;
+    padding: 5px 10px;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+}
+
+#submit-input {
+    display: none;
+    overflow: hidden;
+}
+
+#submit-label {
+    background-color: white;
+    height: 40px;
+    width: 40px;
+    
+    border-radius: 10px;
 }

@@ -18,7 +18,17 @@ function myFunction() {
   }
 }
 
+const imageUploader = document.getElementById("input");
+const imagePreview = document.getElementById("img");
 
+function showImage() {
+    let reader = new FileReader();
+   reader.readAsDataURL(imageUploader.files[0]);
+    reader.onload = function(e) {
+      imagePreview.classList.add("show");
+      imagePreview.src = e.target.result;
+    };
+  }
 
 const vh = Math.max(document.documentElement.clientHeight || 0, window.innerHeight || 0)
 
@@ -52,9 +62,6 @@ fetch("../loader/loader.html", { mode: 'no-cors'})
     document.getElementById("loader").innerHTML = data;
 });
 
-
-
-window.addEventListener("scroll", myScrollFunc);
 
 
 

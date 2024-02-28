@@ -8,23 +8,33 @@ $result = mysqli_query($conn, $columnsel_query);
 
 $imagecol = "SELECT * FROM images WHERE username = '{$_SESSION["username"]}'";
 
-if (isset($_FILES['image'])) {
-  $file_name = $_FILES['image']['name'];
-  $tempname = $_FILES['image']['tmp_name'];
-  $folder = 'php/banner/'.$file_name;
-
-  $bannercol = "UPDATE images SET banner = '$file_name' WHERE username = '{$_SESSION["username"]}'";
-}
-
 if ($result) {
-    $columnsel = mysqli_fetch_assoc($result);
+  $columnsel = mysqli_fetch_assoc($result);
 
-    if ($columnsel) {
-        $date = $columnsel['Date'];
-    } else {
-        $date = "No date found";
-    }
+  if ($columnsel) {
+      $date = $columnsel['Date'];
+  } else {
+      $date = "No date found";
+  }
 }
+
+
+$file_name = $_FILES['image']['name'];
+$tempname = $_FILES['image']['tmp_name'];
+$folder = 'php/banner/'.$file_name;
+
+$bannercol = "UPDATE datadump SET content=? WHERE id=?";
+
+// $stmt = $conn->mysqli->prepare("UPDATE datadump SET content=? WHERE id=?");
+// $stmt->bind_param('si', $content, $id);
+// $stmt->execute();
+
+if (move_uploaded_file($tempname, $folder)) {
+
+}
+
+
+
 ?>
 
 <!doctype html>

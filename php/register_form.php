@@ -96,6 +96,7 @@ if (isset($_POST['submit'])) {
         <p class="title">Confirm Password</p>
         <input type="password" name="cpassword" placeholder="Confirm your password" class="box" required>
 
+        <label id="file-input-label" for="input">Set Profile Icon</label>
         <input id="input" type="file" name="image" onchange="showImage()">
         <img id="img" src="" alt="">
 

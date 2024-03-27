@@ -1,5 +1,5 @@
 .holderrr {
-    padding-bottom: 50vh;
+    padding-bottom: 40vh;
 }
 
 .banner {
@@ -13,9 +13,9 @@
 }
 
 .profilediv {
-    height: 30vh;
-    padding-left: 2.5%;
-    padding-right: 2.5%;
+    height: 35vh;
+    padding-left: 30%;
+    padding-right: 30%;
     padding-top: 2%;
 }
 
@@ -27,7 +27,7 @@
 
 .profiledata {
     background-color: rgb(67, 67, 67);
-    height: 30vh;
+    height: 35vh;
 }
 
 h1 {
@@ -36,7 +36,7 @@ h1 {
 
 .profileicon {
     background-color: rgb(101, 100, 100);
-    height: 30vh;
+    height: 35vh;
     padding-left: 3%;
     padding-right: 3%;
 }
@@ -49,10 +49,10 @@ h1 {
 .profileimgbr {
     width: 100%;
     position: relative;
-  top: 50%;
-  -webkit-transform: translateY(-50%);
-  -ms-transform: translateY(-50%);
-  transform: translateY(-50%);
+    top: 50%;
+    -webkit-transform: translateY(-50%);
+    -ms-transform: translateY(-50%);
+    transform: translateY(-50%);
 }
 
 .title {

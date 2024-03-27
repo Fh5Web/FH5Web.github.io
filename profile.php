@@ -18,23 +18,6 @@ if ($result) {
   }
 }
 
-
-$file_name = $_FILES['image']['name'];
-$tempname = $_FILES['image']['tmp_name'];
-$folder = 'php/banner/'.$file_name;
-
-$bannercol = "UPDATE datadump SET content=? WHERE id=?";
-
-// $stmt = $conn->mysqli->prepare("UPDATE datadump SET content=? WHERE id=?");
-// $stmt->bind_param('si', $content, $id);
-// $stmt->execute();
-
-if (move_uploaded_file($tempname, $folder)) {
-
-}
-
-
-
 ?>
 
 <!doctype html>
@@ -45,10 +28,10 @@ if (move_uploaded_file($tempname, $folder)) {
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
   
     <link rel="stylesheet" href="css/bootstrap.min.css">
-    <link rel="stylesheet" href="profile.css">
     <link rel="stylesheet" href="footer/footer.css">
     <link rel="stylesheet" href="header/header.css">
     <link rel="stylesheet" href="loader/loader.css">
+    <link rel="stylesheet" href="profile.css">
     <link rel="icon" href="https://i.redd.it/6o3morbndos81.png">
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css">
 
@@ -66,23 +49,10 @@ if (move_uploaded_file($tempname, $folder)) {
 
   <div class="container-fluid">
     <div class="row holderrr">
-        <div class="col-12 banner">
-            <form class="bannerform" action="" method="post" enctype="multipart/form-data">
-                <label id="file-input-label" for="file-input">Change Banner</label>
-                <input type="file" id="file-input" name="image">
-                <label id="submit-label" for="submit-input"><img src="https://img.icons8.com/material-outlined/24/upload--v1.png"></label>
-                <input type="submit" id="submit-input" class="form-btn" name="submit">
-            </form>
-            <?php
-                  $res = mysqli_query($conn, $imagecol);
-                  while ($row = mysqli_fetch_assoc($res)) {
-              ?>
-            <img class="bannerimg" src="php/banner/<?php echo $row['banner']?>">
-            <?php
-                  }
-              ?>
+        <div class="col-12 banner">          
+            <img class="bannerimg" src="php/banner/b1jnr55kn8m91.jpg">         
         </div>
-        <div class="row col-4 profilediv">
+        <div class="row col-12 profilediv">
           <h1>Profile</h1>
           <div class="col-4 profileicon">
             <div class="profileimgbr">
@@ -104,45 +74,12 @@ if (move_uploaded_file($tempname, $folder)) {
             <p class="title">DATE JOINED</p>
             <div class="datadiv"><?php echo $date ?></div>
             <p class="title">PASSWORD</p>
-            <a class="acpass"><img class="keyicon" src="https://icons.iconarchive.com/icons/iconsmind/outline/512/Key-icon.png"> Change Password</a>
+            <a href="php/changepass.php" class="acpass"><img class="keyicon" src="https://icons.iconarchive.com/icons/iconsmind/outline/512/Key-icon.png"> Change Password</a>
           </div>
         </div>
-        <div class="row col-8 favscont">
-          <h1>Favouries</h1>
-          <div class="row">
-            <div class="carfavhold col-3">
-                  <img class="carfav" src="img/All/74.jpg">
-            </div>
-            <div class="carfavhold col-3">
-                  <img class="carfav" src="img/All/74.jpg">
-            </div>
-            <div class="carfavhold col-3">
-                  <img class="carfav" src="img/All/74.jpg">
-            </div>
-            <div class="carfavhold col-3">
-                  <img class="carfav" src="img/All/74.jpg">
-            </div>
-            <div class="carfavhold col-3">
-                  <img class="carfav" src="img/All/74.jpg">
-            </div>
-            <div class="carfavhold col-3">
-                  <img class="carfav" src="img/All/74.jpg">
-            </div>
-            <div class="carfavhold col-3">
-                  <img class="carfav" src="img/All/74.jpg">
-            </div>
-            <div class="carfavhold col-3">
-                  <img class="carfav" src="img/All/74.jpg">
-            </div>
-          </div>
         </div>
     </div>
   </div>
-
-
-
-
-
 
   <footer>
   </footer>

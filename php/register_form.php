@@ -50,26 +50,13 @@ if (isset($_POST['submit'])) {
 <head>
     <meta charset="utf-8">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-  
-    <link rel="stylesheet" href="../css/bootstrap.min.css">
-    <link rel="stylesheet" href="style.css">
-    <link rel="stylesheet" href="footer/footer.css">
-    <link rel="stylesheet" href="header/header.css">
-    <link rel="stylesheet" href="loader/loader.css">
-    <link rel="icon" href="https://i.redd.it/6o3morbndos81.png">
-    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v6.1.1/css/all.css">
 
-    <script src="https://kit.fontawesome.com/6dd17b7bf7.js" crossorigin="anonymous"></script>
+    <link rel="stylesheet" href="style.css">
     
     <title>FH5 Web</title>
 </head>
 
 <body>
-  <div class="topnav" id="myTopnav">
-  </div>
-  
-  <div class="loadwind" id="loader">
-  </div>
 
 <div class="bg">
     <div class="form-container">
